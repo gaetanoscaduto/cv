@@ -1,0 +1,194 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: "svm-latex-cv.tex"
+geometry: margin=1in
+
+title: "CV"
+author: Gaetano Scaduto
+
+jobtitle: "Ph.D Student in Analysis of Social and Economic Processes"
+fontawesome: yes
+email: gaetano.scaduto@unimib.it
+# github: svmiller
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+web: www.linkedin.com/in/gaetano-scaduto/
+updated: yes
+
+#keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+linkcolor: blue
+urlcolor: blue
+---
+
+<!-- -->
+
+# Education
+
+## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-present
+
+-   *University of Milan-Bicocca*, Milan, Italy
+-   Thesis Supervisors: Delia Baldassarri, Fedra Negri
+-   Thesis title(provisional): "Political Inferences from Apolitical Cues and their Consequences on Interpersonal Interactions in Italy"
+
+## MA in Political and Public Communication \hfill Sep 2020-July 2022
+
+-   *University of Turin*, Turin, Italy
+-   Thesis Supervisors: Moreno Mancosu
+-   Thesis title: "A country of upbeat songs while there is death outside? Analysis of Italian politicians' visual communication on Instagram during the Covid-19 pandemic"
+-   Final grade: 110/110 with honors, special mention and rights of publication
+
+## Bachelor's Degree Mathematics for Engineering \hfill Sep 2017-Jul 2020
+
+-   *Polytechnic University of Turin*, Turin, Italy
+-   Thesis Supervisors: Giacomo Como
+-   Thesis title: "Social Choice Theory"
+-   Final grade: 110/110
+
+## High School Diploma\hfill Sep 2012-Jul 2017
+
+-   *Liceo Classico "Empedocle"*, Agrigento, Italy
+-   Final Grade: 110/110 with honors
+
+# Summer Schools, Winter Schools and Short Courses
+
+## University of Essex, Essex Summer School in Social Science Data Analysis \hfill  Jul-Aug 2023
+
+-   *Confirmatory Factor Analysis and Structural Equation Modeling* \hfill Essex, UK
+-   Teachers: Prof. Peter Schmidt (University of Giessen), Dr. Daniel Seddig (University of Cologne)
+
+## University of Essex, Essex Summer School in Social Science Data Analysis \hfill  Jul-Aug 2023
+
+-   *Causal Inference and Experiments in Social Sciences* \hfill Essex, UK
+-   Teachers: Dr. Ryan T. Moore (American University)
+
+## SISP - Italian Political Science Society \hfill  Sep 2023
+
+-   *Crash Course in Text Analysis* \hfill Genoa, Italy
+-   Teachers: Dr. Silvia Decadri (University of Milan)
+
+# Publications and Conferences
+
+## Paper published in peer-reviewed journals
+
+-   Bertero, A., **Scaduto, G.** (2023). A midsummer night's dream: political communication during the Italian 2022 electoral campaign. Italian Journal of Electoral Studies QOE-IJES. <https://doi.org/10.36253/qoe-14224>
+
+-   **Scaduto, G.**, Mancosu, M. (2022). Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. Comunicazione politica, 23(2), 255-276. <https://www.rivisteweb.it/doi/10.3270/104851>
+
+-   **Scaduto, G.** (2022). Gli algoritmi di computer vision: una guida all'uso per le scienze politiche e sociali. Polis, 36(2), 315-332. <https://www.rivisteweb.it/doi/10.1424/104525>
+
+## Working Papers
+
+-   Mancosu, M., **Scaduto, G.** The representation of political leaders in times of pandemic crisis. Evidence from 28 European countries.
+
+-   **Scaduto, G.**, Negri, F. Exploring the factors associated with making political inferences from food preferences in Italy.
+
+-   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news)
+
+## Conference papers
+
+-   *2023 Conference of the Italian Political Science Society (SISP). Genoa, 14-16 September.*
+    -   **Scaduto, G.**, Negri, F. (2023). Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy.
+    -   Mancosu, M., **Scaduto, G.** (2022). Crowds and smiles: Visual opportunity structures and the communication of European political leaders during the Covid-19 pandemic
+
+<!-- -->
+
+-   *2023 VDATA Final Conference. Pavia, 7-8 September.*
+    -   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news)
+
+<!-- -->
+
+-   *2023 Conference of the European Consortium for Political Research (ECPR). Prague, 4-8 September.*
+    -   **Scaduto, G.**, Negri, F. (2023). Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy.
+
+<!-- -->
+
+-   *2023 Conference of the Italian Political Communication Association (ASSOCOMPOL). Turin, 8-10 June.*
+    -   **Scaduto, G.**, Negri, F. (2023). Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy.
+
+<!-- -->
+
+-   *2022 Conference of the Italian Political Communication Association (ASSOCOMPOL). Bologna June 30th-July 1st.*
+    -   Mancosu, M., **Scaduto, G.** (2022). The representation of political leaders in times of pandemic crisis. Evidence from 28 European countries.
+
+# Teaching
+
+## Teaching Assistant (Tutor) in Mathematics \hfill Nov 2023-present
+
+-   *University of Milan-Bicocca*, Milan, Italy
+-   BS in Organization Science
+-   30 hours
+
+## Teaching Assistant (Tutor) in Public Policies \hfill Oct 2023-present
+
+-   *University of Milan-Bicocca*, Milan, Italy
+-   BS in Organization Science
+-   40 hours
+
+## Teaching Assistant (Subject Expert) in Public Policies \hfill Dec 2022-present
+
+-   *University of Milan-Bicocca*, Milan, Italy
+-   BS in Organization Science
+
+# Awards and Memberships
+
+## Awards
+
+-   **Scholarship - Excellence's Project 2022**, Department of Culture, Politics and Society - University of Turin - 1500€
+-   **Study's prize 2021**, Renato Einaudi University College of Turin - 1500€
+-   **Study's prize 2019**, Renato Einaudi University College of Turin - 2500€
+
+## Memberships
+
+-   Member of SISP, (Società Italiana di Scienza Politica - Italian Political Science Society) (Since 2023)
+-   Member of ECPR Affective Polarization Standing Group
+
+# Other professional experiences
+
+## Academic
+
+-   **Research Collaborator**, *University of Milan-Bicocca*, Italy \hfill Aug-Dec 2023
+    -   Analysis and management of survey data for research purposes for the project VDATA - The Value of Digital Data
+-   **Conference Assistant**, *European Survey Research Association* \hfill Jul 2023
+    -   Assisted in the activities related to the 2023 European Survey Research Association Conference.
+-   **Research Fellow**, *Collegio Carlo Alberto*, Turin \hfill May-June 2022
+    -   Data gathering on the media outlets of 47 countries with research purposes. Data analysis on survey results (Stata, R). Data entry and data management (Excel)
+
+## Extra-academic
+
+-   **Junior Research Specialist and Deputy Campaign Coordinator**, *Social Changes, Inc.* (2022)
+
+    -   Contributed to organizing and coordinating multiple campaigns for the 2022 political and municipal elections in Italy. Managed the relationship with companies providing media analysis services (WebPredict) and provided insights on how to use media analysis for strategic purposes during the campaign. Coordinated and conducted research on advertisements and media profiles of adversarial campaigns. Created electoral databases useful for electoral insights (R). Provided trainings on digital strategies (WhatsApp-Telegram Cascades) to staff members of multiple campaigns. Coordinated and wrote a daily newsletter including press reviews and campaign insights with strategic consideration. Contributed to the construction of targets for social media advertisement.
+
+-   **Part- Time Receptionist**, *Renato Einaudi University College*, Turin (2021-2022)
+
+    -   Supervision on the general life and activity of the college. Front office relations. Management of relations with the administration of the college and maintenance, cleaning, and organizational figures.
+
+-   Students' Tutor, *Renato Einaudi University College*, Turin (2021-2022)
+
+    -   Mediation between the college administration and its students. Conflict resolution. Support in first arrival orientation. Management of students' educational plan.
+
+# Skills
+
+## Languages
+
+-   **Italian**, *mother tongue*
+-   **English**, C1, certified in 2019 (IELTS 7.5); C2, self-evaluated, 2023
+
+## Coding Skills/Softwares
+
+-   **R**, Advanced
+-   **C**, Proficient
+-   **SQL**, Proficient
+-   **LaTex**, Proficient
+-   **Microsoft Office package**, Proficient
+-   **Matlab**, Intermediate
+-   **C++**, Beginner
+-   **Stata**, Beginner
+-   **Python**, Beginner
+-   **Javascript**, Beginner

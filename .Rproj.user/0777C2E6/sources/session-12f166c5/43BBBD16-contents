@@ -1,0 +1,94 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: /Users/macbookpro/Downloads/svm-latex-cv.tex 
+geometry: margin=1in
+
+title: "CV"
+author: Francesca Megna
+
+jobtitle: "Ph.D Student in Analysis of Social and Economic Processes"
+fontawesome: yes
+email: f.megna2@campus.unimib.it
+# github: svmiller
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+web: linkedin.com/in/francesca-megna/
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Education
+
+## Ph.D Student in Analysis of Social and Economic Processes \hfill 2022-present
+* *University of Milan-Bicocca*   \hfill Milan, Italy
+* Thesis Supervisor: Ivana Fellini
+
+## Master’s Degree (LM-77) in Business Administration and Management \hfill 2018-2021 
+* *University of Calabria*   \hfill Rende (CS), Italy
+* Thesis Supervisor: Maurizio La Rocca
+* Thesis Title: Impact of debt on startups and research spin-offs.
+* *Construction of a panel of 1208 academic spin-offs across 8 European countries using VAT numbers and financial data extracted from Bureau Van Dijk.*
+* Final grade:110/110 with honors
+
+## Bachelor's Degree (L-18) in Business Administration \hfill 2013-2018
+* *University of Calabria*  \hfill Rende (CS), Italy
+
+## Liceo Classico "Vincenzo Gerace" \hfill 2008-2013
+*  *High School Diploma*  \hfill Cittanova (RC), Italy
+
+# Other Education
+
+## University of Essex, Essex Summer School in Social Science Data Analysis \hfill  Jul-Aug 2023
+* *Longitudinal Data Analysis *  \hfill  Essex, UK
+* Professor: Alexandru Cernat 
+* 2 week course / 35 hours
+
+## University of Essex, Essex Summer School in Social Science Data Analysis \hfill  Jul-Aug 2023
+* *Multilevel Models: Practical Application*  \hfill  Essex, UK
+* Professor: Andrew Bell
+* 2 week course / 35 hours
+
+## VI Summer School, Italian Society for Economic Sociology (SISEC) \hfill  25-29 September 2023
+* *Sostenibilitá e Transizioni: Lavori, organizzazioni e istituzioni*  \hfill  Sampieri, Italy
+
+
+# Employment 
+
+## Bank of Italy \hfill Nov 2021-May 2022
+* Researcher (Internship)  \hfill Catanzaro, Italy
+* Activity: Producing a report on the job demand of Italian companies before, during and after the Covid-19 pandemic.
+* Research topics: Employment polarization, occupational mismatch, Italian labour market.
+* Data: Sistema Informativo Excelsior Unioncamere-ANPAL 
+
+## Cerved Group S.p.a. \hfill June 2021-Oct 2021
+* Financial Analyst  \hfill Mangone (CS), Italy
+* Balance sheet reclassification (IV CEE) of industrial and financial company with CeBi methods, budget analysis
+
+## Cerved Group S.p.a. \hfill March 2020-Oct 2020
+* Budget Analyst  \hfill Mangone (CS), Italy
+* Balance sheet reclassification (IV CEE) of industrial and financial company with CeBi methods, budget analysis
+
+# Skills
+
+## Languages
+* **Italian**, *mother tongue*
+* **English**, C1
+
+## Softwares
+* **Stata**, Advanced
+* **Microsoft Office package**, Proficient
+* **R**, Beginner
+* **MLwiN**, Beginner
+
+
+
+
