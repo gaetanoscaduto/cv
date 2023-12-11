@@ -3,7 +3,7 @@ output:
   pdf_document:
     latex_engine: pdflatex
     template: "svm-latex-cv.tex"
-geometry: margin=1in
+geometry: margin=1.1in
 
 title: "CV"
 author: Gaetano Scaduto
@@ -169,7 +169,7 @@ urlcolor: blue
 
     -   Supervision on the general life and activity of the college. Front office relations. Management of relations with the administration of the college and maintenance, cleaning, and organizational figures.
 
--   Students' Tutor, *Renato Einaudi University College*, Turin (2021-2022)
+-   **Students' Tutor**, *Renato Einaudi University College*, Turin (2021-2022)
 
     -   Mediation between the college administration and its students. Conflict resolution. Support in first arrival orientation. Management of students' educational plan.
 
