@@ -1,24 +1,18 @@
 ---
-output: 
+title: "CV"
+author: "Gaetano Scaduto"
+output:
   pdf_document:
     latex_engine: pdflatex
     template: "svm-latex-cv.tex"
+  html_document:
+    df_print: paged
 geometry: margin=1.1in
-
-title: "CV"
-author: Gaetano Scaduto
-
-jobtitle: "Ph.D Student in Analysis of Social and Economic Processes"
+jobtitle: Ph.D Student in Analysis of Social and Economic Processes
 fontawesome: yes
 email: gaetano.scaduto@unimib.it
-# github: svmiller
-# twitter: stevenvmiller
-#osf: "Enter 5 digit osf string here"
-web: www.linkedin.com/in/gaetano-scaduto/
+web: "www.linkedin.com/in/gaetano-scaduto/"
 updated: yes
-
-#keywords: R Markdown, academic CV, template
-
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
@@ -28,49 +22,55 @@ urlcolor: blue
 
 <!-- -->
 
-# Education
+# **Education**
 
 ## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-present
 
 -   *University of Milan-Bicocca*, Milan, Italy
--   Thesis Supervisors: Delia Baldassarri, Fedra Negri
--   Thesis title(provisional): "Political Inferences from Apolitical Cues and their Consequences on Interpersonal Interactions in Italy"
+-   Thesis supervisors: Delia Baldassarri, Fedra Negri
+-   Thesis title (provisional): "Political Inferences from Apolitical Cues and their Consequences on Interpersonal Interactions in Italy"
 
 ## MA in Political and Public Communication \hfill Sep 2020-July 2022
 
 -   *University of Turin*, Turin, Italy
--   Thesis Supervisors: Moreno Mancosu
+-   Thesis supervisor: Moreno Mancosu
 -   Thesis title: "A country of upbeat songs while there is death outside? Analysis of Italian politicians' visual communication on Instagram during the Covid-19 pandemic"
 -   Final grade: 110/110 with honors, special mention and rights of publication
 
 ## Bachelor's Degree Mathematics for Engineering \hfill Sep 2017-Jul 2020
 
 -   *Polytechnic University of Turin*, Turin, Italy
--   Thesis Supervisors: Giacomo Como
+-   Thesis supervisor: Giacomo Como
 -   Thesis title: "Social Choice Theory"
 -   Final grade: 110/110
 
 ## High School Diploma\hfill Sep 2012-Jul 2017
 
 -   *Liceo Classico "Empedocle"*, Agrigento, Italy
+
 -   Final Grade: 110/110 with honors
+
+    \bigskip \hrule
 
 # Summer Schools, Winter Schools and Short Courses
 
 ## University of Essex, Essex Summer School in Social Science Data Analysis \hfill  Jul-Aug 2023
 
 -   *Confirmatory Factor Analysis and Structural Equation Modeling* \hfill Essex, UK
--   Teachers: Prof. Peter Schmidt (University of Giessen), Dr. Daniel Seddig (University of Cologne)
+-   Teachers: Prof. Peter Schmidt (University of Giessen), & Dr. Daniel Seddig (University of Cologne)
 
 ## University of Essex, Essex Summer School in Social Science Data Analysis \hfill  Jul-Aug 2023
 
 -   *Causal Inference and Experiments in Social Sciences* \hfill Essex, UK
 -   Teachers: Dr. Ryan T. Moore (American University)
 
-## SISP - Italian Political Science Society \hfill  Sep 2023
+## SISP - Italian Political Science Society \hfill  Sep. 2023
 
 -   *Crash Course in Text Analysis* \hfill Genoa, Italy
+
 -   Teachers: Dr. Silvia Decadri (University of Milan)
+
+    \bigskip \hrule
 
 # Publications and Conferences
 
@@ -90,7 +90,13 @@ urlcolor: blue
 
 -   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news)
 
-## Conference papers
+## Conference papers & Seminars
+
+-   *SPS Seminar: "Picturing Politics? Exploring the mental images of partisans and ideologues shaped by cultural consumption choices", University of Milan, 17 January 2024.*
+
+    -   **Scaduto, G.**, Negri, F. (2023). Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy
+
+<!-- -->
 
 -   *2023 Conference of the Italian Political Science Society (SISP). Genoa, 14-16 September.*
     -   **Scaduto, G.**, Negri, F. (2023). Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy.
@@ -116,6 +122,8 @@ urlcolor: blue
 -   *2022 Conference of the Italian Political Communication Association (ASSOCOMPOL). Bologna June 30th-July 1st.*
     -   Mancosu, M., **Scaduto, G.** (2022). The representation of political leaders in times of pandemic crisis. Evidence from 28 European countries.
 
+        \bigskip \hrule
+
 # Teaching
 
 ## Teaching Assistant (Tutor) in Mathematics \hfill Nov 2023-present
@@ -133,7 +141,10 @@ urlcolor: blue
 ## Teaching Assistant (Subject Expert) in Public Policies \hfill Dec 2022-present
 
 -   *University of Milan-Bicocca*, Milan, Italy
+
 -   BS in Organization Science
+
+    \bigskip \hrule
 
 # Awards and Memberships
 
@@ -145,8 +156,11 @@ urlcolor: blue
 
 ## Memberships
 
--   Member of SISP, (Società Italiana di Scienza Politica - Italian Political Science Society) (Since 2023)
--   Member of ECPR Affective Polarization Standing Group
+-   Member of SISP, (Società Italiana di Scienza Politica - Italian Political Science Society) [Since 2023]
+
+-   Member of ECPR Affective Polarization Standing Group [Since 2023]
+
+    \bigskip \hrule
 
 # Other professional experiences
 
@@ -173,6 +187,8 @@ urlcolor: blue
 
     -   Mediation between the college administration and its students. Conflict resolution. Support in first arrival orientation. Management of students' educational plan.
 
+        \bigskip \hrule
+
 # Skills
 
 ## Languages
@@ -191,4 +207,5 @@ urlcolor: blue
 -   **C++**, Beginner
 -   **Stata**, Beginner
 -   **Python**, Beginner
+-   **Html**, Beginner
 -   **Javascript**, Beginner
