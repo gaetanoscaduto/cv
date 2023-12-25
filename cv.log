@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.25)  25 DEC 2023 10:54
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.12.25)  25 DEC 2023 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -484,18 +484,18 @@ LaTeX2e <2023-11-01>
 L3 programming layer <2023-12-11>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: DF1A4ADAAD1E750CC632087E8ACDC12B;6509.
+(rerunfilecheck)             Checksum: 57A0242120D87AD0ED91442FB5510A2B;6504.
  ) 
 Here is how much of TeX's memory you used:
  13430 strings out of 476135
- 207948 string characters out of 5793336
+ 207946 string characters out of 5793336
  1942460 words of memory out of 5000000
  35199 multiletter control sequences out of 15000+600000
  594878 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,11n,79p,1191b,557s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.pdf (4 pages, 144041 bytes).
+Output written on cv.pdf (4 pages, 144037 bytes).
 PDF statistics:
  247 PDF objects out of 1000 (max. 8388607)
  202 compressed objects within 3 object streams

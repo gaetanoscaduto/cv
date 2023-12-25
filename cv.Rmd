@@ -22,7 +22,7 @@ urlcolor: blue
 
 <!-- -->
 
-# **EducationA**
+# **Education**
 
 ## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-present
 
