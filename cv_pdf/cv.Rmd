@@ -4,7 +4,7 @@ author: "Gaetano Scaduto"
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: "svm-latex-cv.tex"
+    template: "C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/CV/cv/svm-latex-cv.tex"
   html_document:
     df_print: paged
 geometry: margin=1.1in
