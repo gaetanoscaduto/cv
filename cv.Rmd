@@ -30,6 +30,12 @@ urlcolor: blue
 -   Thesis supervisors: Delia Baldassarri, Fedra Negri
 -   Thesis title (provisional): "Political Inferences from Apolitical Cues and their Consequences on Interpersonal Interactions in Italy"
 
+## Visiting Ph.D Student \hfill Feb 2024-present
+
+-   *University of Antwerp*, Antwerp, Belgium
+-   Supervisor: Stephaan Walgrave
+-   Collaborating in the activities of the ["Media, Movement and Politics" (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/) research group and the [NOTLIKEUS](https://notlikeus.be/) project
+
 ## MA in Political and Public Communication \hfill Sep 2020-July 2022
 
 -   *University of Turin*, Turin, Italy
@@ -74,7 +80,7 @@ urlcolor: blue
 
 # Publications and Conferences
 
-## Paper published in peer-reviewed journals
+## Papers published in peer-reviewed journals
 
 -   Bertero, A., **Scaduto, G.** (2023). A midsummer night's dream: political communication during the Italian 2022 electoral campaign. Italian Journal of Electoral Studies QOE-IJES. <https://doi.org/10.36253/qoe-14224>
 
@@ -120,9 +126,20 @@ urlcolor: blue
 <!-- -->
 
 -   *2022 Conference of the Italian Political Communication Association (ASSOCOMPOL). Bologna June 30th-July 1st.*
-    -   Mancosu, M., **Scaduto, G.** (2022). The representation of political leaders in times of pandemic crisis. Evidence from 28 European countries.
 
-        \bigskip \hrule
+-   Mancosu, M., **Scaduto, G.** (2022). The representation of political leaders in times of pandemic crisis. Evidence from 28 European countries.
+
+## Datasets
+
+-   **Scaduto, Gaetano**. (2023) Political inferences from apolitical cues: food-based political inferences in Italy.
+
+    -   **Scaduto, Gaetano [Producer]**. Negri, Fedra [Producer]. Mancosu, Moreno [Producer]. UniData - Bicocca Data Archive, Milan. Study Number SN248. Data file version 1.0 doi: [10.20366/unimib/unidata/SN248-1.0](10.20366/unimib/unidata/SN248-1.0)
+
+-   Respi, Chiara; Legnante, Guido. (2022-2023) *Citizens and value of digital data*.
+
+    -   Respi, Chiara [Producer]. Legnante, Guido [Producer]. Gui, Marco [Producer]. Pizzul, Dario [Producer]. Gaia, Alessandra [Producer]. Sala, Emanuela [Producer]. **Scaduto, Gaetano** **[Producer]**. UniData - Bicocca Data Archive, Milan. Study Number SN247. Data file version 1.0 [doi:10.20366/unimib/unidata/SN247-1.0](http://dx.doi.org/10.20366/unimib/unidata/SN247-1.0)
+
+\bigskip \hrule
 
 # Teaching
 
