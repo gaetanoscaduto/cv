@@ -94,9 +94,15 @@ urlcolor: blue
 
 -   **Scaduto, G.**, Negri, F. Exploring the factors associated with making political inferences from food preferences in Italy.
 
+-   Negri, F., **Scaduto, G**. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests
+
+-   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analisys of the visual and textual strategies of European politicians on Instagram
+
+-   Feitosa, F., Goovaerts, I., Lefevere, J., **Scaduto, G.**, Tsoulou-Malakoudi, A. The apolitical side of affective polarization: Examining the role of perceived non-political differences and similarities among voters
+
 -   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news)
 
-## Conference papers & Seminars
+## Conference papers, Activities, and Seminars
 
 -   *SPS Seminar: "Picturing Politics? Exploring the mental images of partisans and ideologues shaped by cultural consumption choices", University of Milan, 17 January 2024.*
 
