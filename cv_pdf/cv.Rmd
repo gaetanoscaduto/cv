@@ -33,7 +33,7 @@ urlcolor: blue
 ## Visiting Ph.D Student \hfill Feb 2024-present
 
 -   *University of Antwerp*, Antwerp, Belgium
--   Supervisor: Stephaan Walgrave
+-   Supervisor: Stefaan Walgrave
 -   Collaborating in the activities of the ["Media, Movement and Politics" (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/) research group and the [NOTLIKEUS](https://notlikeus.be/) project
 
 ## Master's Degree in Political and Public Communication \hfill Sep 2020-July 2022
