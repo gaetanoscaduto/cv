@@ -41,7 +41,7 @@ urlcolor: blue
 -   *University of Turin*, Turin, Italy
 -   Thesis supervisor: Moreno Mancosu
 -   Thesis title: "A country of upbeat songs while there is death outside? Analysis of Italian politicians' visual communication on Instagram during the Covid-19 pandemic"
--   Final grade: 110/110 with honors, special mention and rights of publication
+-   Final grade: 110/110 with honors, special mention, and rights of publication
 
 ## Bachelor's Degree in Mathematics for Engineering \hfill Sep 2017-Jul 2020
 
@@ -58,7 +58,7 @@ urlcolor: blue
 
     \bigskip \hrule
 
-# Summer Schools, Winter Schools and Short Courses
+# Summer Schools, Winter Schools, and Short Courses
 
 ## University of Essex, Essex Summer School in Social Science Data Analysis \hfill  Jul-Aug 2023
 
@@ -96,7 +96,7 @@ urlcolor: blue
 
 -   Negri, F., **Scaduto, G**. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests
 
--   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analisys of the visual and textual strategies of European politicians on Instagram
+-   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analysis of the visual and textual strategies of European politicians on Instagram
 
 -   Feitosa, F., Goovaerts, I., Lefevere, J., **Scaduto, G.**, Tsoulou-Malakoudi, A. The apolitical side of affective polarization: Examining the role of perceived non-political differences and similarities among voters
 
@@ -107,7 +107,7 @@ urlcolor: blue
 [^1]: Asterisks signal the paper presenter
 
 -   2024 *CompText Conference* *(COMPTEXT)*, Amsterdam, 2-4 May.
-    -    **Scaduto, G.**\*, Decadri, S., Mancosu, M., Negri, F. Analyzing Visual Communication Strategies: A Comparative Study of Populist and Mainstream Political Parties on Instagram Across 28 European Countries (2019-2021).
+    -   **Scaduto, G.**\*, Decadri, S., Mancosu, M., Negri, F. Analyzing Visual Communication Strategies: A Comparative Study of Populist and Mainstream Political Parties on Instagram Across 28 European Countries (2019-2021).
 
 <!-- -->
 
@@ -207,11 +207,11 @@ urlcolor: blue
 
 -   **Junior Research Specialist and Deputy Campaign Coordinator**, *Social Changes, Inc.* (2022)
 
-    -   Contributed to organizing and coordinating multiple campaigns for the 2022 political and municipal elections in Italy. Managed the relationship with companies providing media analysis services (WebPredict) and provided insights on how to use media analysis for strategic purposes during the campaign. Coordinated and conducted research on advertisements and media profiles of adversarial campaigns. Created electoral databases useful for electoral insights (R). Provided trainings on digital strategies (WhatsApp-Telegram Cascades) to staff members of multiple campaigns. Coordinated and wrote a daily newsletter including press reviews and campaign insights with strategic consideration. Contributed to the construction of targets for social media advertisement.
+    -   Contributed to organizing and coordinating multiple campaigns for the 2022 political and municipal elections in Italy. Managed the relationship with companies providing media analysis services (WebPredict) and provided insights on how to use media analysis for strategic purposes during the campaign. Coordinated and conducted research on advertisements and media profiles of adversarial campaigns. Created electoral databases useful for electoral insights (R). Provided training on digital strategies (WhatsApp-Telegram Cascades) to staff members of multiple campaigns. Coordinated and wrote a daily newsletter including press reviews and campaign insights with strategic consideration. Contributed to the construction of targets for social media advertisement.
 
--   **Part- Time Receptionist**, *Renato Einaudi University College*, Turin (2021-2022)
+-   **Part-Time Receptionist**, *Renato Einaudi University College*, Turin (2021-2022)
 
-    -   Supervision on the general life and activity of the college. Front office relations. Management of relations with the administration of the college and maintenance, cleaning, and organizational figures.
+    -   Supervised on the general life and activity of the college. Front office relations. Management of relations with the administration of the college and maintenance, cleaning, and organizational figures.
 
 -   **Students' Tutor**, *Renato Einaudi University College*, Turin (2021-2022)
 
@@ -239,3 +239,7 @@ urlcolor: blue
 -   **Python**, Beginner
 -   **Html**, Beginner
 -   **Javascript**, Beginner
+
+```{r, message=F, echo=F, warning=F, results='hide'}
+# rmarkdown::render('C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/CV/cv/cv_pdf/cv.Rmd', output_file = 'C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/Website/cv.pdf')
+```
