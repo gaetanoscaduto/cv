@@ -1,0 +1,155 @@
+---
+title: "CV"
+author: "Gaetano Scaduto"
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: "C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/CV/cv/svm-latex-cv.tex"
+  html_document:
+    df_print: paged
+geometry: margin=1.1in
+jobtitle: Ph.D Student in Analysis of Social and Economic Processes
+fontawesome: yes
+email: gaetano.scaduto@unimib.it
+web: "gaetanoscaduto.quarto.pub/home/"
+updated: no
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 8pt
+linkcolor: blue
+urlcolor: blue
+---
+
+<!-- -->
+
+# **Education**
+
+## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-present
+
+-   *University of Milan-Bicocca*, Milan, Italy
+-   Thesis supervisors: Delia Baldassarri, Fedra Negri
+
+## Visiting Ph.D Student \hfill Feb 2024-present
+
+-   *University of Antwerp* (M2P research group), Antwerp, Belgium
+-   Supervisor: Stefaan Walgrave
+
+## Master's Degree in Political and Public Communication \hfill Sep 2020-July 2022
+
+-   *University of Turin*, Turin, Italy
+-   Thesis supervisor: Moreno Mancosu
+-   Final grade: 110/110 with honors, special mention, and rights of publication
+
+## Bachelor's Degree in Mathematics for Engineering \hfill Sep 2017-Jul 2020
+
+-   *Polytechnic University of Turin*, Turin, Italy
+
+-   Thesis supervisor: Giacomo Como
+
+-   Final grade: 110/110
+
+    \bigskip \hrule
+
+# Summer Schools, Winter Schools, and Short Courses
+
+## University of Essex, Essex Summer School in Social Science Data Analysis \hfill  Jul-Aug 2023
+
+-   *Confirmatory Factor Analysis and Structural Equation Modeling* \hfill Essex, UK
+
+-   *Causal Inference and Experiments in Social Sciences* \hfill Essex, UK
+
+## SISP - Italian Political Science Society \hfill  Sep. 2023
+
+-   *Crash Course in Text Analysis* \hfill Genoa, Italy
+
+    \bigskip \hrule
+
+# Publications and Conferences
+
+## Papers published in peer-reviewed journals
+
+-   Mancosu, M., **Scaduto, G**. “Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders during the Covid-19 Pandemic”. Mass Communication & Society. Accepted.
+
+-   Bertero, A., **Scaduto, G.** (2023). A midsummer night's dream: political communication during the Italian 2022 electoral campaign. Italian Journal of Electoral Studies QOE-IJES. <https://doi.org/10.36253/qoe-14224>
+
+-   **Scaduto, G.**, Mancosu, M. (2022). Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. Comunicazione politica, 23(2), 255-276. <https://www.rivisteweb.it/doi/10.3270/104851>
+
+-   **Scaduto, G.** (2022). Gli algoritmi di computer vision: una guida all'uso per le scienze politiche e sociali. Polis, 36(2), 315-332. <https://www.rivisteweb.it/doi/10.1424/104525>
+
+## Conferences and Seminars (as paper presenter)
+
+-   *2024 CompText Conference (COMPTEXT), Amsterdam, 2-4 May.*
+
+<!-- -->
+
+-   *SPS Seminar: "Picturing Politics? Exploring the mental images of partisans and ideologues shaped by cultural consumption choices", University of Milan, 17 January 2024.*
+
+<!-- -->
+
+-   *2023 Conference of the Italian Political Science Society (SISP). Genoa, 14-16 September.*
+
+<!-- -->
+
+-   *2023 Conference of the European Consortium for Political Research (ECPR). Prague, 4-8 September.*
+
+<!-- -->
+
+-   *2023 Conference of the Italian Political Communication Association (ASSOCOMPOL). Turin, 8-10 June.*
+
+<!-- -->
+
+## Datasets
+
+-   **Scaduto, Gaetano**. (2023) Political inferences from apolitical cues: food-based political inferences in Italy (10.20366/unimib/unidata/SN248-1.0)
+
+-   Respi, Chiara; Legnante, Guido. (2022-2023) *Citizens and value of digital data*. (<http://dx.doi.org/10.20366/unimib/unidata/SN247-1.0>)
+
+\bigskip \hrule
+
+# Teaching
+
+## Teaching Assistant (Tutor) in Mathematics \hfill Nov 2023-present
+
+-   *University of Milan-Bicocca*, Milan, Italy - BS in Organization Science
+
+## Teaching Assistant (Tutor) in Public Policies \hfill Oct 2023-present
+
+-   *University of Milan-Bicocca*, Milan, Italy - BS in Organization Science
+
+## Teaching Assistant (Subject Expert) in Public Policies \hfill Dec 2022-present
+
+-   *University of Milan-Bicocca*, Milan, Italy - BS in Organization Science
+
+    \bigskip \hrule
+
+# Other professional experiences
+
+## Academic
+
+-   **Research Collaborator**, *University of Milan-Bicocca*, Italy \hfill Aug-Dec 2023
+-   **Conference Assistant**, *European Survey Research Association* \hfill Jul 2023
+-   **Research Fellow**, *Collegio Carlo Alberto*, Turin \hfill May-June 2022
+
+## Extra-academic
+
+-   **Junior Research Specialist and Deputy Campaign Coordinator**, *Social Changes, Inc.* \hfill 2022
+-   **Part-Time Receptionist**, *Renato Einaudi University College*, Turin \hfill 2021-2022
+-   **Students' Tutor**, *Renato Einaudi University College*, Turin \hfill 2021-2022
+
+    \bigskip \hrule
+
+# Skills
+
+## Languages
+
+-   **Italian**, *mother tongue*; **English**, C1, certified in 2019 (IELTS 7.5); C2, self-evaluated, 2023
+
+## Coding Skills/Softwares
+
+**R**, Advanced; **C**, Proficient; **SQL**, Proficient; **LaTex**, Proficient; **Microsoft Office package**, Proficient; **Matlab**, Intermediate; **C++**, Beginner; **Stata**, Beginner; **Python**, Beginner; **Html**, Beginner; **Javascript**, Beginner
+
+```{r, message=F, echo=F, warning=F, results='hide'}
+# RUN THIS TO UPDATE ALSO IN WEBSITE!
+
+#rmarkdown::render('C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/CV/cv/cv_pdf/cv.Rmd', output_file = 'C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/Website/cv.pdf')
+```

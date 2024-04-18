@@ -11,7 +11,7 @@ geometry: margin=1.1in
 jobtitle: Ph.D Student in Analysis of Social and Economic Processes
 fontawesome: yes
 email: gaetano.scaduto@unimib.it
-web: "www.linkedin.com/in/gaetano-scaduto/"
+web: "gaetanoscaduto.quarto.pub/home/"
 updated: yes
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -205,15 +205,15 @@ urlcolor: blue
 
 ## Extra-academic
 
--   **Junior Research Specialist and Deputy Campaign Coordinator**, *Social Changes, Inc.* (2022)
+-   **Junior Research Specialist and Deputy Campaign Coordinator**, *Social Changes, Inc.* \hfill 2022
 
     -   Contributed to organizing and coordinating multiple campaigns for the 2022 political and municipal elections in Italy. Managed the relationship with companies providing media analysis services (WebPredict) and provided insights on how to use media analysis for strategic purposes during the campaign. Coordinated and conducted research on advertisements and media profiles of adversarial campaigns. Created electoral databases useful for electoral insights (R). Provided training on digital strategies (WhatsApp-Telegram Cascades) to staff members of multiple campaigns. Coordinated and wrote a daily newsletter including press reviews and campaign insights with strategic consideration. Contributed to the construction of targets for social media advertisement.
 
--   **Part-Time Receptionist**, *Renato Einaudi University College*, Turin (2021-2022)
+-   **Part-Time Receptionist**, *Renato Einaudi University College*, Turin \hfill 2021-2022
 
     -   Supervised on the general life and activity of the college. Front office relations. Management of relations with the administration of the college and maintenance, cleaning, and organizational figures.
 
--   **Students' Tutor**, *Renato Einaudi University College*, Turin (2021-2022)
+-   **Students' Tutor**, *Renato Einaudi University College*, Turin \hfill 2021-2022
 
     -   Mediation between the college administration and its students. Conflict resolution. Support in first arrival orientation. Management of students' educational plan.
 
