@@ -53,13 +53,11 @@ urlcolor: blue
 ## University of Essex, Essex Summer School in Social Science Data Analysis \hfill  Jul-Aug 2023
 
 -   *Confirmatory Factor Analysis and Structural Equation Modeling*
-
 -   *Causal Inference and Experiments in Social Sciences* 
 
 ## SISP - Italian Political Science Society \hfill  Sep. 2023
 
 -   *Crash Course in Text Analysis* \hfill Genoa, Italy
-
     \bigskip \hrule
 
 # Publications, Conferences, Data
@@ -140,7 +138,7 @@ urlcolor: blue
 
 ## Languages
 
--   **Italian**, *mother tongue*; **English**, C1, certified in 2019 (IELTS 7.5); C2, self-evaluated, 2023
+-   **Italian**, *mother tongue*; **English**, C1, certified in 2019 (IELTS 7.5); C2, self-evaluated, 2024
 
 ## Coding Skills/Softwares
 
