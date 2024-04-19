@@ -43,9 +43,7 @@ urlcolor: blue
 ## Bachelor's Degree in Mathematics for Engineering \hfill Sep 2017-Jul 2020
 
 -   *Polytechnic University of Turin*, Turin, Italy
-
 -   Thesis supervisor: Giacomo Como
-
 -   Final grade: 110/110
 
     \bigskip \hrule
@@ -54,9 +52,9 @@ urlcolor: blue
 
 ## University of Essex, Essex Summer School in Social Science Data Analysis \hfill  Jul-Aug 2023
 
--   *Confirmatory Factor Analysis and Structural Equation Modeling* \hfill Essex, UK
+-   *Confirmatory Factor Analysis and Structural Equation Modeling*
 
--   *Causal Inference and Experiments in Social Sciences* \hfill Essex, UK
+-   *Causal Inference and Experiments in Social Sciences* 
 
 ## SISP - Italian Political Science Society \hfill  Sep. 2023
 
@@ -64,7 +62,7 @@ urlcolor: blue
 
     \bigskip \hrule
 
-# Publications and Conferences
+# Publications, Conferences, Data
 
 ## Papers published in peer-reviewed journals
 
@@ -102,7 +100,7 @@ urlcolor: blue
 
 -   **Scaduto, Gaetano**. (2023) Political inferences from apolitical cues: food-based political inferences in Italy (10.20366/unimib/unidata/SN248-1.0)
 
--   Respi, Chiara; Legnante, Guido. (2022-2023) *Citizens and value of digital data*. (<http://dx.doi.org/10.20366/unimib/unidata/SN247-1.0>)
+-   Respi, Chiara; Legnante, Guido. (2022-2023) *Citizens and value of digital data*. (see extended list of authors at this link) (<http://dx.doi.org/10.20366/unimib/unidata/SN247-1.0>) 
 
 \bigskip \hrule
 
