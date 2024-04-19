@@ -82,6 +82,8 @@ urlcolor: blue
 
 ## Papers published in peer-reviewed journals
 
+-   Mancosu, M., **Scaduto, G**. Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders during the Covid-19 Pandemic. Mass Communication & Society. Accepted.
+
 -   Bertero, A., **Scaduto, G.** (2023). A midsummer night's dream: political communication during the Italian 2022 electoral campaign. Italian Journal of Electoral Studies QOE-IJES. <https://doi.org/10.36253/qoe-14224>
 
 -   **Scaduto, G.**, Mancosu, M. (2022). Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. Comunicazione politica, 23(2), 255-276. <https://www.rivisteweb.it/doi/10.3270/104851>
@@ -89,8 +91,6 @@ urlcolor: blue
 -   **Scaduto, G.** (2022). Gli algoritmi di computer vision: una guida all'uso per le scienze politiche e sociali. Polis, 36(2), 315-332. <https://www.rivisteweb.it/doi/10.1424/104525>
 
 ## Working Papers
-
--   Mancosu, M., **Scaduto, G.** The representation of political leaders in times of pandemic crisis. Evidence from 28 European countries.
 
 -   **Scaduto, G.**, Negri, F. Exploring the factors associated with making political inferences from food preferences in Italy.
 
