@@ -124,7 +124,7 @@ urlcolor: blue
 <!-- -->
 
 -   *2023 VDATA Final Conference. Pavia, 7-8 September.*
-    -   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news)
+    -   Respi, C.\*, Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news)
 
 <!-- -->
 
@@ -140,7 +140,7 @@ urlcolor: blue
 
 -   *2022 Conference of the Italian Political Communication Association (ASSOCOMPOL). Bologna June 30th-July 1st.*
 
-    -   Mancosu, M., **Scaduto, G.** The representation of political leaders in times of pandemic crisis. Evidence from 28 European countries.
+    -   Mancosu, M.\*, **Scaduto, G.** The representation of political leaders in times of pandemic crisis. Evidence from 28 European countries.
 
 ## Datasets
 
