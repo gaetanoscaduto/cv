@@ -60,12 +60,17 @@ urlcolor: blue
 
 # Summer Schools, Winter Schools, and Short Courses
 
-## University of Essex, Essex Summer School in Social Science Data Analysis \hfill  Jul-Aug 2023
+## The Summer Institutes in Computational Social Science, University of Bologna \hfill  June 2024
+
+-   2-weeks summer school on computational methods, with competitive selection process.
+-   Various teachers.
+
+## Essex Summer School in Social Science Data Analysis, University of Essex \hfill  Jul-Aug 2023
 
 -   *Confirmatory Factor Analysis and Structural Equation Modeling* \hfill Essex, UK
 -   Teachers: Prof. Peter Schmidt (University of Giessen), & Dr. Daniel Seddig (University of Cologne)
 
-## University of Essex, Essex Summer School in Social Science Data Analysis \hfill  Jul-Aug 2023
+## Essex Summer School in Social Science Data Analysis, University of Essex \hfill  Jul-Aug 2023
 
 -   *Causal Inference and Experiments in Social Sciences* \hfill Essex, UK
 -   Teachers: Dr. Ryan T. Moore (American University)
@@ -105,6 +110,11 @@ urlcolor: blue
 ## Conference Papers, Activities, and Seminars[^1]
 
 [^1]: Asterisks signal the paper presenter
+
+-   2024 *Conference of the Italian Political Communication Association (ASSOCOMPOL). Catania, 30 May-1 June*.
+    -   Negri, F., **Scaduto, G\***. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests.
+
+<!-- -->
 
 -   2024 *CompText Conference* *(COMPTEXT)*, Amsterdam, 2-4 May.
     -   **Scaduto, G.**\*, Decadri, S., Mancosu, M., Negri, F. Analyzing Visual Communication Strategies: A Comparative Study of Populist and Mainstream Political Parties on Instagram Across 28 European Countries (2019-2021).
@@ -196,6 +206,8 @@ urlcolor: blue
 
 ## Academic
 
+-   **Research Collaborator,** *Univesity of Milan-Bicocca*, Italy \hfill Sept 2023-Aug 2025
+    -   Involvement in the activities related to the project “The visual politics of populism” (PI: Mattia Zulianello, UniTS; Vice PIs: Fedra Negri, Unimib; Luigi Curini, Unimi). These activities included (but were not limited to): designing a survey fielded in 5 European countries, designing survey experiments, working with computational methods to download and analyze politicians' social media posts, managing the relationship between the working group and the survey companies, overlooking translations and cultural adaptations of the survey in multiple national contexts.
 -   **Research Collaborator**, *University of Milan-Bicocca*, Italy \hfill Aug-Dec 2023
     -   Analysis and management of survey data for research purposes for the project VDATA - The Value of Digital Data
 -   **Conference Assistant**, *European Survey Research Association* \hfill Jul 2023
@@ -224,21 +236,12 @@ urlcolor: blue
 ## Languages
 
 -   **Italian**, *mother tongue*
--   **English**, C1, certified in 2019 (IELTS 7.5); C2, self-evaluated, 2023
+-   **English**, C1, certified in 2019 (IELTS 7.5); C2, self-evaluated, 2024
+-   **Dutch,** Beginner.
 
 ## Coding Skills/Softwares
 
--   **R**, Advanced
--   **C**, Proficient
--   **SQL**, Proficient
--   **LaTex**, Proficient
--   **Microsoft Office package**, Proficient
--   **Matlab**, Intermediate
--   **C++**, Beginner
--   **Stata**, Beginner
--   **Python**, Beginner
--   **Html**, Beginner
--   **Javascript**, Beginner
+-   **R**, Advanced; **C**, Proficient; **SQL**, Proficient; **LaTex**, Proficient; **Microsoft Office package**, Proficient; **Python**, Intermediate; **C++**, Beginner; **Stata**, Beginner; **Html**, Beginner; **Javascript**, Beginner; **Matlab**, Beginner
 
 ```{r, message=F, echo=F, warning=F, results='hide'}
 # RUN THIS TO UPDATE ALSO IN WEBSITE!

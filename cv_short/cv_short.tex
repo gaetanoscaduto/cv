@@ -1,0 +1,504 @@
+\documentclass[8pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1.1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Gaetano Scaduto - CV }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Gaetano Scaduto:  CV (Curriculum Vitae)},
+            pdfauthor={Gaetano Scaduto},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Make AP style (kinda) dates for the updated/today field
+
+\usepackage{datetime}
+\newdateformat{apstylekinda}{%
+  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+
+\begin{document}
+
+
+\centerline{\huge \bf Gaetano Scaduto}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{Ph.D Student in Analysis of Social and
+Economic Processes}
+
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:gaetano.scaduto@unimib.it}{\nolinkurl{gaetano.scaduto@unimib.it}}} \hspace{1 mm}      \faGlobe \hspace{1 mm} \href{http://\url{https://gaetanoscaduto.quarto.pub/home/}}{\tt \url{https://gaetanoscaduto.quarto.pub/home/}}   } 
+
+\vspace{2 mm}
+
+\hrule
+
+
+\hypertarget{education}{%
+\section{\texorpdfstring{\textbf{Education}}{Education}}\label{education}}
+
+\hypertarget{ph.d-student-in-analysis-of-social-and-economic-processes-nov-2022-present}{%
+\subsection{\texorpdfstring{Ph.D Student in Analysis of Social and
+Economic Processes \hfill Nov
+2022-present}{Ph.D Student in Analysis of Social and Economic Processes Nov 2022-present}}\label{ph.d-student-in-analysis-of-social-and-economic-processes-nov-2022-present}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{University of Milan-Bicocca}, Milan, Italy
+\item
+  Thesis supervisors: Delia Baldassarri, Fedra Negri
+\end{itemize}
+
+\hypertarget{visiting-ph.d-student-feb-2024-present}{%
+\subsection{\texorpdfstring{Visiting Ph.D Student \hfill Feb
+2024-present}{Visiting Ph.D Student Feb 2024-present}}\label{visiting-ph.d-student-feb-2024-present}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{University of Antwerp} (M2P research group), Antwerp, Belgium
+\item
+  Supervisor: Stefaan Walgrave
+\end{itemize}
+
+\hypertarget{masters-degree-in-political-and-public-communication-sep-2020-july-2022}{%
+\subsection{\texorpdfstring{Master's Degree in Political and Public
+Communication \hfill Sep 2020-July
+2022}{Master's Degree in Political and Public Communication Sep 2020-July 2022}}\label{masters-degree-in-political-and-public-communication-sep-2020-july-2022}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{University of Turin}, Turin, Italy
+\item
+  Thesis supervisor: Moreno Mancosu
+\item
+  Final grade: 110/110 with honors, special mention, and rights of
+  publication
+\end{itemize}
+
+\hypertarget{bachelors-degree-in-mathematics-for-engineering-sep-2017-jul-2020}{%
+\subsection{\texorpdfstring{Bachelor's Degree in Mathematics for
+Engineering \hfill Sep 2017-Jul
+2020}{Bachelor's Degree in Mathematics for Engineering Sep 2017-Jul 2020}}\label{bachelors-degree-in-mathematics-for-engineering-sep-2017-jul-2020}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Polytechnic University of Turin}, Turin, Italy
+\item
+  Thesis supervisor: Giacomo Como
+\item
+  Final grade: 110/110
+\end{itemize}
+
+\hypertarget{high-school-diplomasep-2012-jul-2017}{%
+\subsection{\texorpdfstring{High School Diploma\hfill Sep 2012-Jul
+2017}{High School DiplomaSep 2012-Jul 2017}}\label{high-school-diplomasep-2012-jul-2017}}
+
+\begin{itemize}
+\item
+  \emph{Liceo Classico ``Empedocle''}, Agrigento, Italy
+\item
+  Final Grade: 110/110 with honors
+
+  \bigskip \hrule
+\end{itemize}
+
+\hypertarget{summer-schools-winter-schools-and-short-courses}{%
+\section{Summer Schools, Winter Schools, and Short
+Courses}\label{summer-schools-winter-schools-and-short-courses}}
+
+\hypertarget{university-of-essex-essex-summer-school-in-social-science-data-analysis-jul-aug-2023}{%
+\subsection{\texorpdfstring{University of Essex, Essex Summer School in
+Social Science Data Analysis \hfill  Jul-Aug
+2023}{University of Essex, Essex Summer School in Social Science Data Analysis Jul-Aug 2023}}\label{university-of-essex-essex-summer-school-in-social-science-data-analysis-jul-aug-2023}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Confirmatory Factor Analysis and Structural Equation Modeling}
+  \hfill Essex, UK
+\item
+  Teachers: Prof.~Peter Schmidt (University of Giessen), \& Dr.~Daniel
+  Seddig (University of Cologne)
+\end{itemize}
+
+\hypertarget{university-of-essex-essex-summer-school-in-social-science-data-analysis-jul-aug-2023-1}{%
+\subsection{\texorpdfstring{University of Essex, Essex Summer School in
+Social Science Data Analysis \hfill  Jul-Aug
+2023}{University of Essex, Essex Summer School in Social Science Data Analysis Jul-Aug 2023}}\label{university-of-essex-essex-summer-school-in-social-science-data-analysis-jul-aug-2023-1}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Causal Inference and Experiments in Social Sciences}
+  \hfill Essex, UK
+\item
+  Teachers: Dr.~Ryan T. Moore (American University)
+\end{itemize}
+
+\hypertarget{sisp---italian-political-science-society-sep.-2023}{%
+\subsection{\texorpdfstring{SISP - Italian Political Science Society
+\hfill  Sep.~2023}{SISP - Italian Political Science Society Sep.~2023}}\label{sisp---italian-political-science-society-sep.-2023}}
+
+\begin{itemize}
+\item
+  \emph{Crash Course in Text Analysis} \hfill Genoa, Italy
+\item
+  Teachers: Dr.~Silvia Decadri (University of Milan)
+
+  \bigskip \hrule
+\end{itemize}
+
+\hypertarget{publications-and-conferences}{%
+\section{Publications and
+Conferences}\label{publications-and-conferences}}
+
+\hypertarget{papers-published-in-peer-reviewed-journals}{%
+\subsection{Papers published in peer-reviewed
+journals}\label{papers-published-in-peer-reviewed-journals}}
+
+\begin{itemize}
+\item
+  Mancosu, M., \textbf{Scaduto, G}. ``Crowds and Smiles: Visual
+  Opportunity Structures and the Communication of European Political
+  Leaders during the Covid-19 Pandemic''. Mass Communication \& Society.
+  Accepted.
+\item
+  Bertero, A., \textbf{Scaduto, G.} (2023). A midsummer night's dream:
+  political communication during the Italian 2022 electoral campaign.
+  Italian Journal of Electoral Studies QOE-IJES.
+  \url{https://doi.org/10.36253/qoe-14224}
+\item
+  \textbf{Scaduto, G.}, Mancosu, M. (2022). Lacrime di coccodrillo?
+  Variazioni nel contenuto visuale su Instagram dei politici populisti e
+  mainstream durante la pandemia. Comunicazione politica, 23(2),
+  255-276. \url{https://www.rivisteweb.it/doi/10.3270/104851}
+\item
+  \textbf{Scaduto, G.} (2022). Gli algoritmi di computer vision: una
+  guida all'uso per le scienze politiche e sociali. Polis, 36(2),
+  315-332. \url{https://www.rivisteweb.it/doi/10.1424/104525}
+\end{itemize}
+
+\hypertarget{conferences-and-seminars-as-paper-presenter}{%
+\subsection{Conferences and Seminars (as paper
+presenter)}\label{conferences-and-seminars-as-paper-presenter}}
+
+\begin{itemize}
+\tightlist
+\item
+  2024 \emph{CompText Conference (COMPTEXT), Amsterdam, 2-4 May.}
+\end{itemize}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{SPS Seminar: ``Picturing Politics? Exploring the mental images
+  of partisans and ideologues shaped by cultural consumption choices'',
+  University of Milan, 17 January 2024.}
+\end{itemize}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{2023 Conference of the Italian Political Science Society (SISP).
+  Genoa, 14-16 September.}
+\end{itemize}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{2023 Conference of the European Consortium for Political
+  Research (ECPR). Prague, 4-8 September.}
+\end{itemize}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{2023 Conference of the Italian Political Communication
+  Association (ASSOCOMPOL). Turin, 8-10 June.}
+\end{itemize}
+
+\hypertarget{datasets}{%
+\subsection{Datasets}\label{datasets}}
+
+\begin{itemize}
+\item
+  \textbf{Scaduto, Gaetano}. (2023) Political inferences from apolitical
+  cues: food-based political inferences in Italy
+  (10.20366/unimib/unidata/SN248-1.0)
+\item
+  Respi, Chiara; Legnante, Guido. (2022-2023) \emph{Citizens and value
+  of digital data}.
+  (\url{http://dx.doi.org/10.20366/unimib/unidata/SN247-1.0})
+\end{itemize}
+
+\bigskip \hrule
+
+\hypertarget{teaching}{%
+\section{Teaching}\label{teaching}}
+
+\hypertarget{teaching-assistant-tutor-in-mathematics-nov-2023-present}{%
+\subsection{\texorpdfstring{Teaching Assistant (Tutor) in Mathematics
+\hfill Nov
+2023-present}{Teaching Assistant (Tutor) in Mathematics Nov 2023-present}}\label{teaching-assistant-tutor-in-mathematics-nov-2023-present}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{University of Milan-Bicocca}, Milan, Italy - BS in Organization
+  Science
+\end{itemize}
+
+\hypertarget{teaching-assistant-tutor-in-public-policies-oct-2023-present}{%
+\subsection{\texorpdfstring{Teaching Assistant (Tutor) in Public
+Policies \hfill Oct
+2023-present}{Teaching Assistant (Tutor) in Public Policies Oct 2023-present}}\label{teaching-assistant-tutor-in-public-policies-oct-2023-present}}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{University of Milan-Bicocca}, Milan, Italy - BS in Organization
+  Science
+\end{itemize}
+
+\hypertarget{teaching-assistant-subject-expert-in-public-policies-dec-2022-present}{%
+\subsection{\texorpdfstring{Teaching Assistant (Subject Expert) in
+Public Policies \hfill Dec
+2022-present}{Teaching Assistant (Subject Expert) in Public Policies Dec 2022-present}}\label{teaching-assistant-subject-expert-in-public-policies-dec-2022-present}}
+
+\begin{itemize}
+\item
+  \emph{University of Milan-Bicocca}, Milan, Italy - BS in Organization
+  Science
+
+  \bigskip \hrule
+\end{itemize}
+
+\hypertarget{awards-and-memberships}{%
+\section{Awards and Memberships}\label{awards-and-memberships}}
+
+\hypertarget{awards}{%
+\subsection{Awards}\label{awards}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Scholarship - Excellence's Project 2022}, Department of
+  Culture, Politics and Society - University of Turin - 1500€
+\item
+  \textbf{Study's prize 2021}, Renato Einaudi University College of
+  Turin - 1500€
+\item
+  \textbf{Study's prize 2019}, Renato Einaudi University College of
+  Turin - 2500€
+\end{itemize}
+
+\hypertarget{memberships}{%
+\subsection{Memberships}\label{memberships}}
+
+\begin{itemize}
+\item
+  Member of SISP, (Società Italiana di Scienza Politica - Italian
+  Political Science Society) {[}Since 2023{]}
+\item
+  Member of ECPR Affective Polarization Standing Group {[}Since 2023{]}
+
+  \bigskip \hrule
+\end{itemize}
+
+\hypertarget{other-professional-experiences}{%
+\section{Other professional
+experiences}\label{other-professional-experiences}}
+
+\hypertarget{academic}{%
+\subsection{Academic}\label{academic}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Research Collaborator}, \emph{University of Milan-Bicocca},
+  Italy \hfill Aug-Dec 2023
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Analysis and management of survey data for research purposes for the
+    project VDATA - The Value of Digital Data
+  \end{itemize}
+\item
+  \textbf{Conference Assistant}, \emph{European Survey Research
+  Association} \hfill Jul 2023
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Assisted in the activities related to the 2023 European Survey
+    Research Association Conference.
+  \end{itemize}
+\item
+  \textbf{Research Fellow}, \emph{Collegio Carlo Alberto}, Turin
+  \hfill May-June 2022
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Data gathering on the media outlets of 47 countries with research
+    purposes. Data analysis on survey results (Stata, R). Data entry and
+    data management (Excel)
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{extra-academic}{%
+\subsection{Extra-academic}\label{extra-academic}}
+
+\begin{itemize}
+\item
+  \textbf{Junior Research Specialist and Deputy Campaign Coordinator},
+  \emph{Social Changes, Inc.} (2022)
+\item
+  \textbf{Part-Time Receptionist}, \emph{Renato Einaudi University
+  College}, Turin (2021-2022)
+\item
+  \textbf{Students' Tutor}, \emph{Renato Einaudi University College},
+  Turin (2021-2022)
+
+\begin{verbatim}
+\bigskip \hrule
+\end{verbatim}
+\end{itemize}
+
+\hypertarget{skills}{%
+\section{Skills}\label{skills}}
+
+\hypertarget{languages}{%
+\subsection{Languages}\label{languages}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Italian}, \emph{mother tongue}
+\item
+  \textbf{English}, C1, certified in 2019 (IELTS 7.5); C2,
+  self-evaluated, 2023
+\end{itemize}
+
+\hypertarget{coding-skillssoftwares}{%
+\subsection{Coding Skills/Softwares}\label{coding-skillssoftwares}}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{R}, Advanced
+\item
+  \textbf{C}, Proficient
+\item
+  \textbf{SQL}, Proficient
+\item
+  \textbf{LaTex}, Proficient
+\item
+  \textbf{Microsoft Office package}, Proficient
+\item
+  \textbf{Matlab}, Intermediate
+\item
+  \textbf{C++}, Beginner
+\item
+  \textbf{Stata}, Beginner
+\item
+  \textbf{Python}, Beginner
+\item
+  \textbf{Html}, Beginner
+\item
+  \textbf{Javascript}, Beginner
+\end{itemize}
+
+\end{document}
