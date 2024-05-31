@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.22)  22 MAY 2024 10:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.22)  31 MAY 2024 09:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -480,11 +480,11 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 314.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 5.21004pt on input line 314.
-[2]
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 522.
+[2] [3]
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 534.
 (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
-) [3] [4] [5] 
+) [4] [5] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./cv.aux)
  ***********
@@ -501,9 +501,9 @@ Here is how much of TeX's memory you used:
  35314 multiletter control sequences out of 15000+600000
  609503 words of font info for 115 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,11n,79p,1279b,573s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,79p,1279b,561s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.pdf (5 pages, 149151 bytes).
+Output written on cv.pdf (5 pages, 150098 bytes).
 PDF statistics:
  238 PDF objects out of 1000 (max. 8388607)
  193 compressed objects within 2 object streams
