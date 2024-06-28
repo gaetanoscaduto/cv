@@ -87,7 +87,7 @@ urlcolor: blue
 
 ## Papers published in peer-reviewed journals
 
--   Mancosu, M., **Scaduto, G**.  "Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders During the COVID-19 Pandemic." Mass Communication and Society (2024): 1-26.
+-   Mancosu, M., **Scaduto, G**. "Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders During the COVID-19 Pandemic." Mass Communication and Society (2024): 1-26.
 
 -   Bertero, A., **Scaduto, G.** (2023). A midsummer night's dream: political communication during the Italian 2022 electoral campaign. Italian Journal of Electoral Studies QOE-IJES. <https://doi.org/10.36253/qoe-14224>
 
@@ -192,11 +192,19 @@ urlcolor: blue
 
 -   **Best paper Junior Researcher 2023**
     -   Awarded by the Italian Political Communication Association (ASSOCOMPOL) for the best paper presented in the 2023 conference. The prize refers to "*Food for (political) thought: investigating factors and behaviors associated with political inferences from apolitical cues in Italy*" (with F. Negri)
+-   **"Mini-scholarship"** **to take part in the 2024 Conference.** Italian Political Science Association (SISP)SISP - 200€
 -   **Scholarship - Excellence's Project 2022**, Department of Culture, Politics and Society - University of Turin - 1500€
 -   **Study's prize 2021**, Renato Einaudi University College of Turin - 1500€
 -   **Study's prize 2019**, Renato Einaudi University College of Turin - 2500€
+-   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2021**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
+-   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2020**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
+-   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2019**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
+-   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2018**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
+-   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2017**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
 
 ## Memberships
+
+-   Member of ASSOCOMOL (Italian Political Communication Association) [Since 2024]
 
 -   Member of SISP, (Società Italiana di Scienza Politica - Italian Political Science Society) [Since 2023]
 
@@ -208,6 +216,8 @@ urlcolor: blue
 
 ## Academic
 
+-   **Research Collaborator** *University of Antwerp*, Belgium \hfill Feb 2024-Present
+    -   Involvement in the activities related to the project “NotLikeUS" project. [See here for details](https://notlikeus.be/).
 -   **Research Collaborator,** *Univesity of Milan-Bicocca*, Italy \hfill Sept 2023-Aug 2025
     -   Involvement in the activities related to the project “The visual politics of populism” (PI: Mattia Zulianello, UniTS; Vice PIs: Fedra Negri, Unimib; Luigi Curini, Unimi). These activities included (but were not limited to): designing a survey fielded in 5 European countries, designing survey experiments, working with computational methods to download and analyze politicians' social media posts, managing the relationship between the working group and the survey companies, overlooking translations and cultural adaptations of the survey in multiple national contexts.
 -   **Research Collaborator**, *University of Milan-Bicocca*, Italy \hfill Aug-Dec 2023
