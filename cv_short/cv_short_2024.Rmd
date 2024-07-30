@@ -27,8 +27,6 @@ urlcolor: blue
 ## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-present
 
 -   *University of Milan-Bicocca*, Milan, Italy
--   Thesis supervisors: Delia Baldassarri, Fedra Negri
--   Thesis title (provisional): "Political Inferences from Apolitical Cues and their Consequences on Interpersonal Interactions in Italy"
 
 ## Visiting Ph.D Student \hfill Feb 2024-present
 
@@ -39,47 +37,31 @@ urlcolor: blue
 ## Master's Degree in Political and Public Communication \hfill Sep 2020-July 2022
 
 -   *University of Turin*, Turin, Italy
--   Thesis supervisor: Moreno Mancosu
--   Thesis title: "A country of upbeat songs while there is death outside? Analysis of Italian politicians' visual communication on Instagram during the Covid-19 pandemic"
 -   Final grade: 110/110 with honors, special mention, and rights of publication
 
 ## Bachelor's Degree in Mathematics for Engineering \hfill Sep 2017-Jul 2020
 
 -   *Polytechnic University of Turin*, Turin, Italy
--   Thesis supervisor: Giacomo Como
--   Thesis title: "Social Choice Theory"
 -   Final grade: 110/110
-
-## High School Diploma\hfill Sep 2012-Jul 2017
-
--   *Liceo Classico "Empedocle"*, Agrigento, Italy
-
--   Final Grade: 100/100 with honors
-
-    \bigskip \hrule
 
 # Summer Schools, Winter Schools, and Short Courses
 
 ## The Summer Institutes in Computational Social Science, University of Bologna \hfill  June 2024
 
 -   2-weeks summer school on computational methods, with competitive selection process.
--   Various teachers.
 
 ## Essex Summer School in Social Science Data Analysis, University of Essex \hfill  Jul-Aug 2023
 
 -   *Confirmatory Factor Analysis and Structural Equation Modeling* \hfill Essex, UK
--   Teachers: Prof. Peter Schmidt (University of Giessen), & Dr. Daniel Seddig (University of Cologne)
+
 
 ## Essex Summer School in Social Science Data Analysis, University of Essex \hfill  Jul-Aug 2023
 
 -   *Causal Inference and Experiments in Social Sciences* \hfill Essex, UK
--   Teachers: Dr. Ryan T. Moore (American University)
 
 ## SISP - Italian Political Science Society \hfill  Sep. 2023
 
 -   *Crash Course in Text Analysis* \hfill Genoa, Italy
-
--   Teachers: Dr. Silvia Decadri (University of Milan)
 
     \bigskip \hrule
 
@@ -95,19 +77,8 @@ urlcolor: blue
 
 -   **Scaduto, G.** (2022). Gli algoritmi di computer vision: una guida all'uso per le scienze politiche e sociali. Polis, 36(2), 315-332. <https://www.rivisteweb.it/doi/10.1424/104525>
 
-## Working Papers
 
--   **Scaduto, G.**, Negri, F. Exploring the factors associated with making political inferences from food preferences in Italy.
-
--   Negri, F., **Scaduto, G**. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests
-
--   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analysis of the visual and textual strategies of European politicians on Instagram
-
--   Feitosa, F., Goovaerts, I., Lefevere, J., **Scaduto, G.**, Tsoulou-Malakoudi, A. The apolitical side of affective polarization: Examining the role of perceived non-political differences and similarities among voters
-
--   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news)
-
-## Conference Papers, Activities, and Seminars[^1]
+## Conferences Papers, Activities, and Seminars[^1]
 
 [^1]: Asterisks signal the paper presenter
 
@@ -152,43 +123,22 @@ urlcolor: blue
 
     -   Mancosu, M.\*, **Scaduto, G.** The representation of political leaders in times of pandemic crisis. Evidence from 28 European countries.
 
-## Datasets
-
--   **Scaduto, Gaetano**. (2023) Political inferences from apolitical cues: food-based political inferences in Italy.
-
-    -   **Scaduto, Gaetano [Producer]**. Negri, Fedra [Producer]. Mancosu, Moreno [Producer]. UniData - Bicocca Data Archive, Milan. Study Number SN248. Data file version 1.0 doi: [10.20366/unimib/unidata/SN248-1.0](10.20366/unimib/unidata/SN248-1.0)
-
--   Respi, Chiara; Legnante, Guido. (2022-2023) *Citizens and value of digital data*.
-
-    -   Respi, Chiara [Producer]. Legnante, Guido [Producer]. Gui, Marco [Producer]. Pizzul, Dario [Producer]. Gaia, Alessandra [Producer]. Sala, Emanuela [Producer]. **Scaduto, Gaetano** **[Producer]**. UniData - Bicocca Data Archive, Milan. Study Number SN247. Data file version 1.0 [doi:10.20366/unimib/unidata/SN247-1.0](http://dx.doi.org/10.20366/unimib/unidata/SN247-1.0)
-
-\bigskip \hrule
-
 # Teaching
 
-## Teaching Assistant (Tutor) in Mathematics \hfill Nov 2023-present
+## Tutor in Mathematics \hfill Nov 2023-July 2024 - 30 hours
 
+-   *University of Milan-Bicocca*, Milan, Italy. 
+
+## Tutor in Public Policies \hfill Oct 2023-July 224 - 40 hours
+
+-   *University of Milan-Bicocca*, Milan, Italy. 
+
+## Subject Expert in Public Policies \hfill Dec 2022-present 
 -   *University of Milan-Bicocca*, Milan, Italy
--   BS in Organization Science
--   30 hours
-
-## Teaching Assistant (Tutor) in Public Policies \hfill Oct 2023-present
-
--   *University of Milan-Bicocca*, Milan, Italy
--   BS in Organization Science
--   40 hours
-
-## Teaching Assistant (Subject Expert) in Public Policies \hfill Dec 2022-present
-
--   *University of Milan-Bicocca*, Milan, Italy
-
--   BS in Organization Science
 
     \bigskip \hrule
 
-# Awards and Memberships
-
-## Awards
+# Awards 
 
 -   **Best paper from a Junior Researcher 2023**
     -   Awarded by the Italian Political Communication Association (ASSOCOMPOL) for the best paper presented in the 2023 conference. The prize refers to "*Food for (political) thought: investigating factors and behaviors associated with political inferences from apolitical cues in Italy*" (with F. Negri)
@@ -196,21 +146,8 @@ urlcolor: blue
 -   **Scholarship - Excellence's Project 2022**, Department of Culture, Politics and Society - University of Turin - 1500€
 -   **Study's prize 2021**, Renato Einaudi University College of Turin - 1500€
 -   **Study's prize 2019**, Renato Einaudi University College of Turin - 2500€
--   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2021**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
--   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2020**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
--   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2019**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
--   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2018**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
--   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2017**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
+-   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2017, 2018, 2019, 2020, 2021**. Awarded through the combination of (higher) academic performance and (lower) parental income - 25000€ (over 5 years)
 
-## Memberships
-
--   Member of ASSOCOMOL (Italian Political Communication Association) [Since 2024]
-
--   Member of SISP, (Società Italiana di Scienza Politica - Italian Political Science Society) [Since 2023]
-
--   Member of ECPR Affective Polarization Standing Group [Since 2023]
-
-    \bigskip \hrule
 
 # Other professional experiences
 
@@ -219,7 +156,7 @@ urlcolor: blue
 -   **Research Collaborator** *University of Antwerp*, Belgium \hfill Feb 2024-Present
     -   Involvement in the activities related to the project “NotLikeUS" project. [See here for details](https://notlikeus.be/).
 -   **Research Collaborator,** *Univesity of Milan-Bicocca*, Italy \hfill Sept 2023-Aug 2025
-    -   Involvement in the activities related to the project “The visual politics of populism” (PI: Mattia Zulianello, UniTS; Vice PIs: Fedra Negri, Unimib; Luigi Curini, Unimi). These activities included (but were not limited to): designing a survey fielded in 5 European countries, designing survey experiments, working with computational methods to download and analyze politicians' social media posts, managing the relationship between the working group and the survey companies, overlooking translations and cultural adaptations of the survey in multiple national contexts.
+    -   Involvement in the activities related to the project “The visual politics of populism” (PI: Mattia Zulianello, UniTS; Vice PIs: Fedra Negri, Unimib; Luigi Curini, Unimi). 
 -   **Research Collaborator**, *University of Milan-Bicocca*, Italy \hfill Aug-Dec 2023
     -   Analysis and management of survey data for research purposes for the project VDATA - The Value of Digital Data
 -   **Conference Assistant**, *European Survey Research Association* \hfill Jul 2023
@@ -231,17 +168,8 @@ urlcolor: blue
 
 -   **Junior Research Specialist and Deputy Campaign Coordinator**, *Social Changes, Inc.* \hfill 2022
 
-    -   Contributed to organizing and coordinating multiple campaigns for the 2022 political and municipal elections in Italy. Managed the relationship with companies providing media analysis services (WebPredict) and provided insights on how to use media analysis for strategic purposes during the campaign. Coordinated and conducted research on advertisements and media profiles of adversarial campaigns. Created electoral databases useful for electoral insights (R). Provided training on digital strategies (WhatsApp-Telegram Cascades) to staff members of multiple campaigns. Coordinated and wrote a daily newsletter including press reviews and campaign insights with strategic consideration. Contributed to the construction of targets for social media advertisement.
+    -   Contributed to organizing and coordinating multiple campaigns for the 2022 political and municipal elections in Italy. 
 
--   **Part-Time Receptionist**, *Renato Einaudi University College*, Turin \hfill 2021-2022
-
-    -   Supervised on the general life and activity of the college. Front office relations. Management of relations with the administration of the college and maintenance, cleaning, and organizational figures.
-
--   **Students' Tutor**, *Renato Einaudi University College*, Turin \hfill 2021-2022
-
-    -   Mediation between the college administration and its students. Conflict resolution. Support in first arrival orientation. Management of students' educational plan.
-
-        \bigskip \hrule
 
 # Skills
 
@@ -249,7 +177,7 @@ urlcolor: blue
 
 -   **Italian**, *mother tongue*
 -   **English**, C1, certified in 2019 (IELTS 7.5); C2, self-evaluated, 2024
--   **Dutch,** Beginner.
+-   **Dutch,** A1 (certified in August 2024)
 
 ## Coding Skills/Softwares
 
