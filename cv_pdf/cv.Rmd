@@ -247,9 +247,10 @@ urlcolor: blue
 
 ## Languages
 
--   **Italian**, *mother tongue*
--   **English**, C1, certified in 2019 (IELTS 7.5); C2, self-evaluated, 2024
--   **Dutch,** Beginner.
+-   **Italian**, mother tongue
+-   **Sicilian,** mother tongue
+-   **English**, C2, self-evaluated, 2024
+-   **Dutch,** A2 (evaluated in August 2024; currently studying for B1).
 
 ## Coding Skills/Softwares
 
