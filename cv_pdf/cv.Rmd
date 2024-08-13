@@ -97,6 +97,8 @@ urlcolor: blue
 
 ## Working Papers
 
+-   **Scaduto, G\*.** Politicultural Linking: Inferences between Political and Apolitical Traits.
+
 -   **Scaduto, G.**, Negri, F. Exploring the factors associated with making political inferences from food preferences in Italy.
 
 -   Negri, F., **Scaduto, G**. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests
@@ -110,6 +112,14 @@ urlcolor: blue
 ## Conference Papers, Activities, and Seminars[^1]
 
 [^1]: Asterisks signal the paper presenter
+
+-   2024 *Conference of the Italian Political Science Society (SISP). Trieste, 12-14 September.*
+
+    -   **Scaduto, G\*.** Politicultural Linking: Inferences between Political and Apolitical Traits.
+    -   Decadri, S., Mancosu, M., Negri, F., **Scaduto G\***. A Comparative Study of Populist and Mainstream Politicians’ visual and textual communication on Instagram.
+    -   Chaired the following panels: Survey Experiments in Political Science (I), Survey Experiments in Political Science (II).
+
+<!-- -->
 
 -   2024 *Conference of the Italian Political Communication Association (ASSOCOMPOL). Catania, 30 May-1 June*.
     -   Negri, F., **Scaduto, G\***. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests.
