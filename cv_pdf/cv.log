@@ -1,11 +1,11 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.7.11)  13 AUG 2024 11:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.8.30)  3 SEP 2024 13:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **"C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/Website/cv.tex"
 (c:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/Website/cv.tex
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-05-27>
+L3 programming layer <2024-08-16>
 (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2024/02/08 v1.4n Standard LaTeX document class
 (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/size10.clo
@@ -177,7 +177,7 @@ Package: titlesec 2023/10/27 v2.16 Sectioning titles
 ) (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesome.sty
 Package: fontawesome 2016/05/15 v4.6.3.1 font awesome icons
 (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-generic.tex) (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fontawesome/fontawesomesymbols-pdftex.tex)) (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
-Package: fancyhdr 2024/04/23 v4.2 Extensive control of page headers and footers
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and footers
 \f@nch@headwidth=\skip56
 \f@nch@O@elh=\skip57
 \f@nch@O@erh=\skip58
@@ -303,7 +303,7 @@ Package hyperref Warning: Option `bookmarks' has already been used,
 (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/datetime/datetime.sty
 Package: datetime 2015/03/20 v2.60 Date Time Package
 (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fmtcount/fmtcount.sty
-Package: fmtcount 2020/01/30 v3.07
+Package: fmtcount 2024/08/31 v3.08
 (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 ) (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.sty
@@ -475,48 +475,50 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 {c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 317.
+(Font)              scaled to size 8.33606pt on input line 341.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 317.
+(Font)              scaled to size 5.21004pt on input line 341.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 317.
+(Font)              scaled to size 8.33606pt on input line 341.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 317.
+(Font)              scaled to size 5.21004pt on input line 341.
 
 
 [2]
 
 [3]
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 557.
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 577.
 (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
 
 [4]
 
-[5] 
+[5]
+
+[6] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./cv.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
-L3 programming layer <2024-05-27>
+L3 programming layer <2024-08-16>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: 032580B6742F04D1EA6BD080D2F7E0DA;7558.
+(rerunfilecheck)             Checksum: 23D2A8CD190CBA7CA81B16EB31A90845;7809.
  ) 
 Here is how much of TeX's memory you used:
- 13537 strings out of 475544
- 209107 string characters out of 5775996
- 1944908 words of memory out of 5000000
- 35912 multiletter control sequences out of 15000+600000
+ 13546 strings out of 475539
+ 209255 string characters out of 5775896
+ 1944960 words of memory out of 5000000
+ 35923 multiletter control sequences out of 15000+600000
  609503 words of font info for 115 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,11n,79p,1279b,577s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 72i,11n,79p,1279b,579s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.pdf (5 pages, 152367 bytes).
+Output written on cv.pdf (6 pages, 154119 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 194 compressed objects within 2 object streams
- 36 named destinations out of 1000 (max. 500000)
- 233 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 257 PDF objects out of 1000 (max. 8388607)
+ 210 compressed objects within 3 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 249 words of extra memory for PDF output out of 10000 (max. 10000000)
 
