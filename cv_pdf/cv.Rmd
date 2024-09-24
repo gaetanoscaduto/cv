@@ -8,10 +8,11 @@ output:
   html_document:
     df_print: paged
 geometry: margin=1.1in
-jobtitle: Ph.D Student in Analysis of Social and Economic Processes
+jobtitle: Ph.D Student in Social Sciences  
 fontawesome: yes
-email: gaetano.scaduto@unimib.it
+#email: gaetano.scaduto@unimib.it
 web: "gaetanoscaduto.quarto.pub/home/"
+github: "github.com/gaetanoscaduto"
 updated: yes
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -202,6 +203,12 @@ urlcolor: blue
 
     \bigskip \hrule
 
+# Editorial Activities
+
+## Reviewer for:
+
+Comunicazione Politica.
+
 # Awards and Memberships
 
 ## Awards
@@ -270,7 +277,7 @@ urlcolor: blue
 
 ## Coding Skills/Softwares
 
--   **R**, Advanced; **C**, Proficient; **SQL**, Proficient; **LaTex**, Proficient; **Microsoft Office package**, Proficient; **Python**, Intermediate; **C++**, Beginner; **Stata**, Beginner; **Html**, Beginner; **Javascript**, Beginner; **Matlab**, Beginner
+-   **R**, Advanced; **C**, Proficient; **SQL**, Proficient; **LaTex**, Proficient; **Microsoft Office package**, Proficient; **Python**, Intermediate; **C++**, Beginner; **Stata**, Beginner; **Html**, Beginner; **Shiny**, Beginner; **Javascript**, Beginner; **Matlab**, Beginner
 
 ```{r, message=F, echo=F, warning=F, results='hide'}
 # RUN THIS TO UPDATE ALSO IN WEBSITE!
