@@ -88,6 +88,10 @@ urlcolor: blue
 
 ## Papers published in peer-reviewed journals
 
+-   Negri, F., **Scaduto, G**. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. Accepted in *Comunicazione Politica.*
+
+-   **Scaduto, G**., & Negri, F. (2024). Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. *South European Society and Politics*, 1–30. <https://doi.org/10.1080/13608746.2024.2411539>
+
 -   Mancosu, M., **Scaduto, G**. "Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders During the COVID-19 Pandemic." Mass Communication and Society (2024): 1-26. <https://doi.org/10.1080/15205436.2024.2351980>
 
 -   Bertero, A., **Scaduto, G.** (2023). A midsummer night's dream: political communication during the Italian 2022 electoral campaign. Italian Journal of Electoral Studies QOE-IJES. <https://doi.org/10.36253/qoe-14224>
@@ -104,13 +108,11 @@ urlcolor: blue
 
 -   **Scaduto, G.** Politicultural Linking: Inferences between Political and Apolitical Traits. Received an R&R in *Public Opinion Quarterly.*
 
--   **Scaduto, G.**, Negri, F. Food for (Political) Thought: Political Inferences from Apolitical Cues and their Social Consequences in Italy. Under minor revisions in *South European Society and Politics.*
-
--   Negri, F., **Scaduto, G**. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. Under minor revisions in *Comunicazione Politica.*
-
--   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news). Under review in *Social Science Computer Review.*
+-   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news). R&R in *Social Science Computer Review.*
 
 ## Working Papers
+
+-   **Scaduto, G**., Negri, F., Decadri, S. A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
 
 -   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analysis of the visual and textual strategies of European politicians on Instagram.
 
