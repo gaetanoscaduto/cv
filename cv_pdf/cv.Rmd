@@ -88,7 +88,7 @@ urlcolor: blue
 
 ## Papers published in peer-reviewed journals
 
--   Negri, F., **Scaduto, G**. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. Accepted in *Comunicazione Politica.*
+-   **Scaduto, G,** Negri, F. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. Forthcoming in *Comunicazione Politica.*
 
 -   **Scaduto, G**., & Negri, F. (2024). Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. *South European Society and Politics*, 1–30. <https://doi.org/10.1080/13608746.2024.2411539>
 
@@ -106,11 +106,13 @@ urlcolor: blue
 
 ## Under review
 
--   **Scaduto, G.** Politicultural Linking: Inferences between Political and Apolitical Traits. Received an R&R in *Public Opinion Quarterly.*
+-   **Scaduto, G.** Politicultural Linking: Inferences between Political and Apolitical Traits. Received an R&R in *Public Opinion Quarterly.* Currently second round of reviews.
 
 -   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news). R&R in *Social Science Computer Review.*
 
 ## Working Papers
+
+-   Decadri, S, Negri, F., **Scaduto, G**. Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications
 
 -   **Scaduto, G**., Negri, F., Decadri, S. A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
 
@@ -225,7 +227,7 @@ Comunicazione Politica.
 
 # Media Outreach
 
-## Radio 
+## Radio
 
 -   Buongiorno InBlu 25/10/2024, Radio InBlu 2000.
 
