@@ -128,15 +128,15 @@ urlcolor: blue
 
 -   First MethodsNET Conference. Louvain-La-Neuve, Belgium, 31 Oct-1 Nov 2024.
 
-    -   **Scaduto, G**., Negri, F., Decadri, S. A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
+    -   **Scaduto, G**.\*, Negri, F., Decadri, S. A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
 
 -   2024 Workshop Survey Experiments in the Social Sciences. Amsterdam Center for Inequality Studies (AMCIS). Amsterdam. 24 October 2024.
 
-    -   **Scaduto, G**. Negri, F., Decadri, S.: Political Inferences in the Wild: Inferring Politicians’ Ideology from Apolitical Cues with Explicit Political Information. A visual conjoint approach.
+    -   **Scaduto, G**.\* Negri, F., Decadri, S.: Political Inferences in the Wild: Inferring Politicians’ Ideology from Apolitical Cues with Explicit Political Information. A visual conjoint approach.
 
 -   10th conference of the International Journal of Press/Politics. Edinburgh, 17-18 October 2024.
 
-    -   **Scaduto, G.**,Negri, F., Mancosu, M., Decardi, S. Emotional Inconsistency in Online Political Communication: A Comparative Study of Text and Imagery by European Party Leaders on Instagram.
+    -   **Scaduto, G.\***,Negri, F., Mancosu, M., Decardi, S. Emotional Inconsistency in Online Political Communication: A Comparative Study of Text and Imagery by European Party Leaders on Instagram.
 
 -   2024 *Conference of the Italian Political Science Society (SISP). Trieste, 12-14 September.*
 
