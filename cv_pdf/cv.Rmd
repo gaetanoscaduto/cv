@@ -114,7 +114,7 @@ urlcolor: blue
 
 -   Decadri, S, Negri, F., **Scaduto, G**. Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications
 
--   **Scaduto, G**., Negri, F., Decadri, S. A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
+-   Decadri, S., Negri, F., **Scaduto, G**. A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
 
 -   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analysis of the visual and textual strategies of European politicians on Instagram.
 
@@ -233,9 +233,11 @@ Comunicazione Politica.
 
 ## Online media:
 
--   "[What your menu choice says about your politics](https://theloop.ecpr.eu/what-your-menu-choice-says-about-your-politics/)" (with Negri F.). The Loop.
+-   '["Ze zijn niet zoals wij": hoe kiezers kijken naar andere kiezers](https://www.sampol.be/2024/12/ze-zijn-niet-zoals-wij-hoe-kiezers-kijken-naar-andere-kiezers)' (with Tsoulou-Malakoudi, A. & Goovaerts, I., in Dutch). Samenleving & Politiek. December 2024.
 
--   "[Dimmi cosa mangi e ti dirò che partito voti](https://lavoce.info/archives/106171/dimmi-cosa-mangi-e-ti-diro-che-partito-voti/)" (with Negri F., in Italian)**. LaVoce.info**
+-   "[What your menu choice says about your politics](https://theloop.ecpr.eu/what-your-menu-choice-says-about-your-politics/)" (with Negri F.). The Loop. October 2024.
+
+-   "[Dimmi cosa mangi e ti dirò che partito voti](https://lavoce.info/archives/106171/dimmi-cosa-mangi-e-ti-diro-che-partito-voti/)" (with Negri F., in Italian)**.** LaVoce.info. October 2024.
 
 # Awards and Memberships
 
