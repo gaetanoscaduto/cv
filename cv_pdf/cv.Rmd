@@ -28,7 +28,7 @@ urlcolor: blue
 ## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-present
 
 -   *University of Milan-Bicocca*, Milan, Italy
--   Thesis supervisors: Delia Baldassarri, Fedra Negri
+-   Supervisors: Fedra Negri, Delia Baldassarri (Co-supervisor).
 -   Thesis title (provisional): "Political Inferences from Apolitical Cues and their Consequences on Interpersonal Interactions in Italy"
 
 ## Visiting Ph.D Student \hfill Feb 2024-present
@@ -88,13 +88,15 @@ urlcolor: blue
 
 ## Papers published in peer-reviewed journals
 
--   **Scaduto, G,** Negri, F. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. Forthcoming in *Comunicazione Politica.*
+-   **Scaduto, G.** (2025) Politicultural Linking: Inferences between Political and Apolitical Traits. Accepted for publication in *Public Opinion Quarterly.*
 
--   **Scaduto, G**., & Negri, F. (2024). Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. *South European Society and Politics*, 1–30. <https://doi.org/10.1080/13608746.2024.2411539>
+-   **Scaduto, G,** Negri, F. (2024). The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. Comunicazione Politica*.* <https://www.rivisteweb.it/doi/10.3270/115244>
+
+-   **Scaduto, G**., & Negri, F. (2024). Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. *South European Society and Politics*. *29*(1), 79-108. <https://doi.org/10.1080/13608746.2024.2411539>
 
 -   Mancosu, M., **Scaduto, G**. "Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders During the COVID-19 Pandemic." Mass Communication and Society (2024): 1-26. <https://doi.org/10.1080/15205436.2024.2351980>
 
--   Bertero, A., **Scaduto, G.** (2023). A midsummer night's dream: political communication during the Italian 2022 electoral campaign. Italian Journal of Electoral Studies QOE-IJES. <https://doi.org/10.36253/qoe-14224>
+-   Bertero, A., **Scaduto, G.** (2023). A midsummer night's dream: political communication during the Italian 2022 electoral campaign. Italian Journal of Electoral Studies *QOE-IJES*, *86*(1), 13-28. <https://doi.org/10.36253/qoe-14224>
 
 -   **Scaduto, G.**, Mancosu, M. (2022). Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. Comunicazione politica, 23(2), 255-276. <https://www.rivisteweb.it/doi/10.3270/104851>
 
@@ -106,17 +108,15 @@ urlcolor: blue
 
 ## Under review
 
--   **Scaduto, G.** Politicultural Linking: Inferences between Political and Apolitical Traits. Received an R&R in *Public Opinion Quarterly.* Currently second round of reviews.
-
 -   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news). R&R in *Social Science Computer Review.*
+
+-   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analysis of the visual and textual strategies of European politicians on Instagram.
 
 ## Working Papers
 
 -   Decadri, S, Negri, F., **Scaduto, G**. Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications
 
 -   Decadri, S., Negri, F., **Scaduto, G**. A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
-
--   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analysis of the visual and textual strategies of European politicians on Instagram.
 
 -   Feitosa, F., Goovaerts, I., Lefevere, J., **Scaduto, G.**, Tsoulou-Malakoudi, A. The apolitical side of affective polarization: Examining the role of perceived non-political differences and similarities among voters
 
@@ -191,7 +191,7 @@ urlcolor: blue
 
 -   **Scaduto, Gaetano**. (2023) Political inferences from apolitical cues: food-based political inferences in Italy.
 
-    -   **Scaduto, Gaetano [Producer]**. Negri, Fedra [Producer]. Mancosu, Moreno [Producer]. UniData - Bicocca Data Archive, Milan. Study Number SN248. Data file version 1.0 doi: [10.20366/unimib/unidata/SN248-1.0](10.20366/unimib/unidata/SN248-1.0)
+    -   **Scaduto, Gaetano [Producer]**. Negri, Fedra [Producer]. Mancosu, Moreno [Producer]. UniData - Bicocca Data Archive, Milan. Study Number SN248. Data file version 1.0 doi: [10.20366/unimib/unidata/SN248-1.0](https://www.unidata.unimib.it/?indagine=political-inferences-from-apolitical-cues-food-based-political-inferences-in-italy-2023)
 
 -   Respi, Chiara; Legnante, Guido. (2022-2023) *Citizens and value of digital data*.
 
@@ -229,9 +229,11 @@ Comunicazione Politica.
 
 ## Radio
 
--   Buongiorno InBlu 25/10/2024, Radio InBlu 2000.
+-   [Buongiorno InBlu 25/10/2024](https://www.radioinblu.it/streaming/?vid=0_onrwcs4r), Radio InBlu 2000.
 
 ## Online media:
+
+-   "[Talk-show politici, lo specchio di un’Italia polarizzata](https://lavoce.info/archives/106804/talk-show-politici-lo-specchio-di-unitalia-polarizzata/)" (with Negri F., in Italian)**.** LaVoce.info. January 2025.
 
 -   '["Ze zijn niet zoals wij": hoe kiezers kijken naar andere kiezers](https://www.sampol.be/2024/12/ze-zijn-niet-zoals-wij-hoe-kiezers-kijken-naar-andere-kiezers)' (with Tsoulou-Malakoudi, A. & Goovaerts, I., in Dutch). Samenleving & Politiek. December 2024.
 
@@ -303,7 +305,7 @@ Comunicazione Politica.
 -   **Italian**, native.
 -   **Sicilian,** native.
 -   **English**, C2, self-evaluated, 2024
--   **Dutch,** A2 (evaluated in August 2024; currently studying for B1).
+-   **Dutch,** B1 (evaluated in January 2024).
 
 ## Coding Skills/Softwares
 
@@ -312,5 +314,5 @@ Comunicazione Politica.
 ```{r, message=F, echo=F, warning=F, results='hide'}
 # RUN THIS TO UPDATE ALSO IN WEBSITE!
 
-#rmarkdown::render('C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/CV/cv/cv_pdf/cv.Rmd', output_file = 'C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/Website/cv.pdf')
+#rmarkdown::render('C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/CV/cv/cv_pdf/cv.Rmd', output_file = 'C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/Website/academic_cv.pdf')
 ```
