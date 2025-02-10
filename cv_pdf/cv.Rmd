@@ -110,9 +110,11 @@ urlcolor: blue
 
 -   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news). R&R in *Social Science Computer Review.*
 
--   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analysis of the visual and textual strategies of European politicians on Instagram.
+-   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analysis of the visual and textual strategies of European politicians on Instagram. R&R in *International Journal of Press/Politics.*
 
 ## Working Papers
+
+-   **Scaduto, G**., Negri, F., Decadri, S. Talk the Talk, Walk the Walk: How Apolitical Similarities Affect Political Conversations. A Dynamic Parallel Conjoint Experiment in Four EU Countries.
 
 -   Decadri, S, Negri, F., **Scaduto, G**. Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications
 
@@ -242,20 +244,37 @@ Comunicazione Politica.
 
 -   "[Dimmi cosa mangi e ti dirò che partito voti](https://lavoce.info/archives/106171/dimmi-cosa-mangi-e-ti-diro-che-partito-voti/)" (with Negri F., in Italian)**.** LaVoce.info. October 2024.
 
-# Awards and Memberships
+# Awards, Grants, and Memberships
 
 ## Awards
 
 -   **Best paper from a Junior Researcher 2023**
     -   Awarded by the Italian Political Communication Association (ASSOCOMPOL) for the best paper presented in the 2023 conference. The prize refers to "*Food for (political) thought: investigating factors and behaviors associated with political inferences from apolitical cues in Italy*" (with F. Negri)
+
+## Grants and Scholarships
+
+-   **Conference Fee Waiver for the International Journal of Press/Politics 2024 conference** - 300£
+
 -   **"Mini-scholarship"** **to take part in the 2024 Conference.** Italian Political Science Association (SISP) - 200€
+
+-   **Ph.D. Scholarship** University of Milan Bicocca, Department of Sociology and Social Research - 16,243.00€ per year for three years
+
+-   **Ph.D. Scholarship** University of Trento, Department of Sociology and Social Research (Declined to accept Ph.D. scholarship at UNIMIB)
+
 -   **Scholarship - Excellence's Project 2022**, Department of Culture, Politics and Society - University of Turin - 1500€
+
 -   **Study's prize 2021**, Renato Einaudi University College of Turin - 1500€
+
 -   **Study's prize 2019**, Renato Einaudi University College of Turin - 2500€
+
 -   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2021**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
+
 -   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2020**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
+
 -   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2019**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
+
 -   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2018**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
+
 -   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2017**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
 
 ## Memberships
@@ -304,7 +323,6 @@ Comunicazione Politica.
 ## Languages
 
 -   **Italian**, native.
--   **Sicilian,** native.
 -   **English**, C2, self-evaluated, 2024
 -   **Dutch,** B1 (evaluated in January 2024).
 
