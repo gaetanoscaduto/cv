@@ -25,7 +25,7 @@ urlcolor: blue
 
 # **Education**
 
-## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-present
+## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-Feb 2026 (dissertation ready for submission as of Feb 2025)
 
 -   *University of Milan-Bicocca*, Milan, Italy
 -   Supervisors: Fedra Negri, Delia Baldassarri (Co-supervisor).
@@ -88,7 +88,9 @@ urlcolor: blue
 
 ## Papers published/accepted in peer-reviewed journals
 
--   **Scaduto, G.** (2025) Politicultural Linking: Inferences between Political and Apolitical Traits. Accepted for publication in *Public Opinion Quarterly.*. Preprint available (pending moderation as of 01/04/2025) [here](https://osf.io/preprints/socarxiv/zvcx2_v1).
+-   **Scaduto, G.** (2025) Politicultural Linking: Inferences between Political and Apolitical Traits. Accepted for publication in *Public Opinion Quarterly.*
+
+    -    Preprint available [here](https://osf.io/preprints/socarxiv/zvcx2_v1).
 
 -   **Scaduto, G,** Negri, F. (2024). The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. Comunicazione Politica*.* <https://www.rivisteweb.it/doi/10.3270/115244>
 
@@ -112,11 +114,11 @@ urlcolor: blue
 
 -   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analysis of the visual and textual strategies of European politicians on Instagram. R&R (second round) in *International Journal of Press/Politics.*
 
+-   Tsoulou-Malakoudi, A., Goovaerts, I., **Scaduto, G.**, Van Erkel, P., Walgrave, S. Political others are perceived as non-politically different. Under review in *European Journal of Political Research*
+
+-   **Scaduto, G**., Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. A Cross-Country Dynamic Parallel Experiment. Under review in *Political Behavior*.
+
 ## Working Papers
-
--   **Scaduto, G**., Negri, F., Decadri, S. Talk the Talk, Walk the Walk: How Apolitical Similarities Affect Political Conversations. A Dynamic Parallel Conjoint Experiment in Four EU Countries.
-
-    -   Final draft stage. Expected submission: April 2025
 
 -   Decadri, S, Negri, F., **Scaduto, G**. Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications
 
@@ -129,10 +131,6 @@ urlcolor: blue
 -   Feitosa, F., Goovaerts, I., Lefevere, J., **Scaduto, G.**, Tsoulou-Malakoudi, A. The apolitical side of affective polarization: Examining the role of perceived non-political differences and similarities among voters
 
     -   Second draft stage. Expected submission: May 2025
-
--   Tsoulou-Malakoudi, A., Goovaerts, I., **Scaduto, G.**, Van Erkel, P., Walgrave, S. How similar or different do citizens perceive in- and out-party supporters with regard to non-political traits in multi-party systems?
-
-    -   Final draft stage. Expected submission: April 2025
 
 -   **Scaduto, G**., Negri, F., Decadri, S. What is Left of What is Right: Exploring Ideological perceptions engendered by Sociodemographic, Psychological, and Lifestyle Cues in 4 European Countries.
 
@@ -186,7 +184,7 @@ urlcolor: blue
 
     -   **Scaduto, G.\***,Negri, F., Mancosu, M., Decardi, S. Emotional Inconsistency in Online Political Communication: A Comparative Study of Text and Imagery by European Party Leaders on Instagram.
 
--   2024 *Conference of the Italian Political Science Society (SISP). Trieste, 12-14 September.*
+-   2024 Conference of the Italian Political Science Society (SISP). Trieste, 12-14 September.
 
     -   **Scaduto, G\*.** Politicultural Linking: Inferences between Political and Apolitical Traits.
     -   Decadri, S., Mancosu, M., Negri, F., **Scaduto G\***. A Comparative Study of Populist and Mainstream Politicians’ visual and textual communication on Instagram.
@@ -194,39 +192,36 @@ urlcolor: blue
         -   Survey Experiments in Political Science (I)
         -   Survey Experiments in Political Science (II).
 
-<!-- -->
+-   2024 Conference of the Italian Political Communication Association (ASSOCOMPOL). Catania, 30 May-1 June.
 
--   2024 *Conference of the Italian Political Communication Association (ASSOCOMPOL). Catania, 30 May-1 June*.
     -   Negri, F., **Scaduto, G\***. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests.
 
-<!-- -->
-
--   2024 *CompText Conference* *(COMPTEXT)*, Amsterdam, 2-4 May.
+-   2024 CompText Conference (COMPTEXT), Amsterdam, 2-4 May.
 
     -   **Scaduto, G.**\*, Decadri, S., Mancosu, M., Negri, F. Analyzing Visual Communication Strategies: A Comparative Study of Populist and Mainstream Political Parties on Instagram Across 28 European Countries (2019-2021).
 
--   *SPS Seminar: "Picturing Politics? Exploring the mental images of partisans and ideologues shaped by cultural consumption choices", University of Milan, 17 January 2024.*
+-   SPS Seminar: "Picturing Politics? Exploring the mental images of partisans and ideologues shaped by cultural consumption choices", University of Milan, 17 January 2024.
 
     -   **Scaduto, G.\***, Negri, F. Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy
 
--   *2023 Conference of the Italian Political Science Society (SISP). Genoa, 14-16 September.*
+-   2023 Conference of the Italian Political Science Society (SISP). Genoa, 14-16 September.
 
     -   **Scaduto, G.\***, Negri, F. Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy.
     -   Mancosu, M., **Scaduto, G.\*** Crowds and smiles: Visual opportunity structures and the communication of European political leaders during the Covid-19 pandemic
 
--   *2023 VDATA Final Conference. Pavia, 7-8 September.*
+-   2023 VDATA Final Conference. Pavia, 7-8 September.
 
     -   Respi, C.\*, Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news)
 
--   *2023 Conference of the European Consortium for Political Research (ECPR). Prague, 4-8 September.*
+-   2023 Conference of the European Consortium for Political Research (ECPR). Prague, 4-8 September.
 
     -   **Scaduto, G.\***, Negri, F. Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy.
 
--   *2023 Conference of the Italian Political Communication Association (ASSOCOMPOL). Turin, 8-10 June.*
+-   2023 Conference of the Italian Political Communication Association (ASSOCOMPOL). Turin, 8-10 June.
 
     -   **Scaduto, G.\***, Negri, F. Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy.
 
--   *2022 Conference of the Italian Political Communication Association (ASSOCOMPOL). Bologna June 30th-July 1st.*
+-   2022 Conference of the Italian Political Communication Association (ASSOCOMPOL). Bologna June 30th-July 1st.
 
     -   Mancosu, M.\*, **Scaduto, G.** The representation of political leaders in times of pandemic crisis. Evidence from 28 European countries.
 
@@ -329,7 +324,12 @@ Canadian Journal of Political Science. Comunicazione Politica.
 -   **Research Collaborator** *University of Antwerp*, Belgium \hfill Feb 2024-Present
     -   Involvement in the activities related to the project “NotLikeUS" project. [See here for details](https://notlikeus.be/).
 -   **Research Collaborator,** *Univesity of Milan-Bicocca*, Italy \hfill Sept 2023-Aug 2025
-    -   Involvement in the activities related to the project “The visual politics of populism” (PI: Mattia Zulianello, UniTS; Vice PIs: Fedra Negri, Unimib; Luigi Curini, Unimi). These activities included (but were not limited to): designing a survey fielded in 5 European countries, designing survey experiments, working with computational methods to download and analyze politicians' social media posts, managing the relationship between the working group and the survey companies, overlooking translations and cultural adaptations of the survey in multiple national contexts.
+    -   Involvement in the activities related to the project “The visual politics of populism” (PI: Mattia Zulianello, UniTS; Vice PIs: Fedra Negri, Unimib; Luigi Curini, Unimi). These activities included (but were not limited to):
+        -   Designing a survey fielded in 5 European countries
+        -   Designing survey experiments
+        -   Working with computational methods to download and analyze politicians' social media posts
+        -   Managing the relationship between the working group and the survey company
+        -   Supervising the translation and cultural adaptation of the survey in multiple national contexts.
 -   **Research Collaborator**, *University of Milan-Bicocca*, Italy \hfill Aug-Dec 2023
     -   Analysis and management of survey data for research purposes for the project "VDATA - The Value of Digital Data"
 -   **Conference Assistant**, *European Survey Research Association* \hfill Jul 2023
@@ -341,7 +341,12 @@ Canadian Journal of Political Science. Comunicazione Politica.
 
 -   **Junior Research Specialist and Deputy Campaign Coordinator**, *Social Changes, Inc.* \hfill 2022
 
-    -   Contributed to organizing and coordinating multiple campaigns for the 2022 political and municipal elections in Italy. Managed the relationship with companies providing media analysis services (WebPredict) and provided insights on how to use media analysis for strategic purposes during the campaign. Coordinated and conducted research on advertisements and media profiles of adversarial campaigns. Created electoral databases useful for electoral insights (R). Provided training on digital strategies (WhatsApp-Telegram Cascades) to staff members of multiple campaigns. Coordinated and wrote a daily newsletter including press reviews and campaign insights with strategic consideration. Contributed to the construction of targets for social media advertisement.
+    -   Contributed to organizing and coordinating multiple campaigns for the 2022 political and municipal elections in Italy.
+    -   Managed the relationship with companies providing media analysis services (WebPredict) and provided insights on how to use media analysis for strategic purposes during the campaign.
+    -   Coordinated and conducted research on advertisements and media profiles of adversarial campaigns.
+    -   Created electoral databases useful for electoral insights (R). Provided training on digital strategies (WhatsApp-Telegram Cascades) to staff members of multiple campaigns.
+    -   Coordinated and wrote a daily newsletter including press reviews and campaign insights with strategic consideration.
+    -   Contributed to the construction of targets for social media political advertisement.
 
 -   **Part-Time Receptionist**, *Renato Einaudi University College*, Turin \hfill 2021-2022
 
@@ -357,9 +362,9 @@ Canadian Journal of Political Science. Comunicazione Politica.
 
 ## Languages
 
--   **Italian**, native.
--   **English**, C2, self-evaluated, 2024
--   **Dutch,** B1 (as of March 2024, currently studying for B2).
+-   **Italian**, Native.
+-   **English**, C2.
+-   **Dutch,** B1 (as of April 2024, currently studying for B2).
 
 ## Coding Skills/Softwares
 
