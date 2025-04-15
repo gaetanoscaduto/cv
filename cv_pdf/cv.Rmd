@@ -90,7 +90,7 @@ urlcolor: blue
 
 -   **Scaduto, G.** (2025) Politicultural Linking: Inferences between Political and Apolitical Traits. Accepted for publication in *Public Opinion Quarterly.*
 
-    -    Preprint available [here](https://osf.io/preprints/socarxiv/zvcx2_v1).
+    -   Preprint available [here](https://osf.io/preprints/socarxiv/zvcx2_v1).
 
 -   **Scaduto, G,** Negri, F. (2024). The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. Comunicazione Politica*.* <https://www.rivisteweb.it/doi/10.3270/115244>
 
@@ -108,17 +108,17 @@ urlcolor: blue
 
 -   Negri, F., **Scaduto, G.** Le «politologhe» e i «politologi» tra scienza e dibattito pubblico. In Verzichelli, L. La Scienza Politica Italiana, 50 anni dopo. Il Mulino.
 
-## Under review
+## R&Rs/Under review
 
--   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news). R&R (second round) in *Social Science Computer Review.*
+-   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news). Revised and resubmitted to *Social Science Computer Review.*
 
--   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analysis of the visual and textual strategies of European politicians on Instagram. R&R (second round) in *International Journal of Press/Politics.*
+-   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analysis of the visual and textual strategies of European politicians on Instagram. Revised and resubmitted to *The* *International Journal of Press/Politics.*
 
 -   Tsoulou-Malakoudi, A., Goovaerts, I., **Scaduto, G.**, Van Erkel, P., Walgrave, S. Political others are perceived as non-politically different. Under review in *European Journal of Political Research*
 
 -   **Scaduto, G**., Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. A Cross-Country Dynamic Parallel Experiment. Under review in *Political Behavior*.
 
-## Working Papers
+## Work-in-progress
 
 -   Decadri, S, Negri, F., **Scaduto, G**. Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications
 
@@ -135,6 +135,14 @@ urlcolor: blue
 -   **Scaduto, G**., Negri, F., Decadri, S. What is Left of What is Right: Exploring Ideological perceptions engendered by Sociodemographic, Psychological, and Lifestyle Cues in 4 European Countries.
 
     -   First draft stage. Expected submission: June/July 2025
+
+-   **Scaduto, G**., Valeriani, A. How Perceived External News Efficacy Affects Trusts in Journalists: A Visual Experimental Approach.
+
+    -   Design phase
+
+-   Faleide, I., **Scaduto, G**. Exploring Second-Order Beliefs around EU Membership in Norway.
+
+    -   Design phase
 
 ## Datasets
 
