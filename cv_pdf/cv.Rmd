@@ -8,7 +8,7 @@ output:
   html_document:
     df_print: paged
 geometry: margin=1.1in
-jobtitle: Ph.D Student in Social Sciences  
+jobtitle: Ph.D Candidate. Born Feb 25th, 1999  
 fontawesome: yes
 #email: gaetano.scaduto@unimib.it
 web: "gaetanoscaduto.quarto.pub/home/"
@@ -88,21 +88,23 @@ urlcolor: blue
 
 ## Papers published/accepted in peer-reviewed journals
 
--   **Scaduto, G.** (2025) Politicultural Linking: Inferences between Political and Apolitical Traits. Accepted for publication in *Public Opinion Quarterly.*
+-   **Scaduto, G.** (2025). Politicultural Linking: Inferences between Political and Apolitical Traits. Accepted for publication in *Public Opinion Quarterly.*
 
     -   Preprint available [here](https://osf.io/preprints/socarxiv/zvcx2_v1).
 
--   **Scaduto, G,** Negri, F. (2024). The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. Comunicazione Politica*.* <https://www.rivisteweb.it/doi/10.3270/115244>
+-   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. (2025). Aligning Emotions: A Comparative Analysis of Text and Imagery by European Party Leaders on Instagram. Accepted for publication in *The International Journal of Press/Politics*.
 
--   **Scaduto, G**., & Negri, F. (2024). Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. *South European Society and Politics*. *29*(1), 79-108. <https://doi.org/10.1080/13608746.2024.2411539>
+-   **Scaduto, G,** Negri, F. (2024). The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. *Comunicazione Politica.* <https://www.rivisteweb.it/doi/10.3270/115244>
 
--   Mancosu, M., **Scaduto, G**. "Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders During the COVID-19 Pandemic." Mass Communication and Society (2024): 1-26. <https://doi.org/10.1080/15205436.2024.2351980>
+-   **Scaduto, G**., & Negri, F. (2024). Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. *South European Society and Politics*. *29*(1), 79-108. <https://doi.org/10.1080/13608746.2024.2411539>
 
--   Bertero, A., **Scaduto, G.** (2023). A midsummer night's dream: political communication during the Italian 2022 electoral campaign. Italian Journal of Electoral Studies *QOE-IJES*, *86*(1), 13-28. <https://doi.org/10.36253/qoe-14224>
+-   Mancosu, M., **Scaduto, G**. "Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders During the COVID-19 Pandemic." *Mass Communication and Society* (2024): 1-26. <https://doi.org/10.1080/15205436.2024.2351980>
 
--   **Scaduto, G.**, Mancosu, M. (2022). Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. Comunicazione politica, 23(2), 255-276. <https://www.rivisteweb.it/doi/10.3270/104851>
+-   Bertero, A., **Scaduto, G.** (2023). A midsummer night's dream: political communication during the Italian 2022 electoral campaign. *Italian Journal of Electoral Studies* *QOE-IJES*, 86(1), 13-28. <https://doi.org/10.36253/qoe-14224>
 
--   **Scaduto, G.** (2022). Gli algoritmi di computer vision: una guida all'uso per le scienze politiche e sociali. Polis, 36(2), 315-332. <https://www.rivisteweb.it/doi/10.1424/104525>
+-   **Scaduto, G.**, Mancosu, M. (2022). Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. *Comunicazione politica*, 23(2), 255-276. <https://www.rivisteweb.it/doi/10.3270/104851>
+
+-   **Scaduto, G.** (2022). Gli algoritmi di computer vision: una guida all'uso per le scienze politiche e sociali. *Polis*, 36(2), 315-332. <https://www.rivisteweb.it/doi/10.1424/104525>
 
 ## Book chapters
 
@@ -112,17 +114,17 @@ urlcolor: blue
 
 -   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news). Revised and resubmitted to *Social Science Computer Review.*
 
--   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. A comparative analysis of the visual and textual strategies of European politicians on Instagram. Revised and resubmitted to *The* *International Journal of Press/Politics.*
-
 -   Tsoulou-Malakoudi, A., Goovaerts, I., **Scaduto, G.**, Van Erkel, P., Walgrave, S. Political others are perceived as non-politically different. Under review in *European Journal of Political Research*
 
--   **Scaduto, G**., Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. A Cross-Country Dynamic Parallel Experiment. Under review in *Political Behavior*.
+-   **Scaduto, G**., Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. A Cross-Country Dynamic Parallel Experiment. Submitted to *Political Behavior*.
+
+    -   Preprint available [here](https://osf.io/preprints/socarxiv/6j8nr_v1).
 
 ## Work-in-progress
 
 -   Decadri, S, Negri, F., **Scaduto, G**. Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications
 
-    -   Final draft stage. Expected submission: April 2025
+    -   Final draft stage. Expected submission to *Political Science Research and Methods* in April 2025.
 
 -   Decadri, S., Negri, F., **Scaduto, G**. A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
 
@@ -130,7 +132,7 @@ urlcolor: blue
 
 -   Feitosa, F., Goovaerts, I., Lefevere, J., **Scaduto, G.**, Tsoulou-Malakoudi, A. The apolitical side of affective polarization: Examining the role of perceived non-political differences and similarities among voters
 
-    -   Second draft stage. Expected submission: May 2025
+    -   Second draft stage. Expected submission: May/June 2025
 
 -   **Scaduto, G**., Negri, F., Decadri, S. What is Left of What is Right: Exploring Ideological perceptions engendered by Sociodemographic, Psychological, and Lifestyle Cues in 4 European Countries.
 
