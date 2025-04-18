@@ -25,7 +25,9 @@ urlcolor: blue
 
 # **Education**
 
-## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-Feb 2026 (dissertation ready for submission as of Feb 2025)
+## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-Jan 2026
+
+## \hfill (dissertation ready for submission in Feb 2025)
 
 -   *University of Milan-Bicocca*, Milan, Italy
 -   Supervisors: Fedra Negri, Delia Baldassarri (Co-supervisor).
@@ -88,25 +90,32 @@ urlcolor: blue
 
 ## Papers published/accepted in peer-reviewed journals
 
--   **Scaduto, G.** (2025). Politicultural Linking: Inferences between Political and Apolitical Traits. Accepted for publication in *Public Opinion Quarterly.*
+### 2025
+
+1.  **Scaduto, G.** Politicultural Linking: Inferences between Political and Apolitical Traits. Accepted for publication in *Public Opinion Quarterly.*
 
     -   Preprint available [here](https://osf.io/preprints/socarxiv/zvcx2_v1).
 
--   Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. (2025). Aligning Emotions: A Comparative Analysis of Text and Imagery by European Party Leaders on Instagram. Accepted for publication in *The International Journal of Press/Politics*.
+2.  Decadri, S., Mancosu, M., Negri, F., **Scaduto, G**. Aligning Emotions: A Comparative Analysis of Text and Imagery by European Party Leaders on Instagram. Accepted for publication in *The International Journal of Press/Politics*.
 
--   **Scaduto, G,** Negri, F. (2024). The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. *Comunicazione Politica.* <https://www.rivisteweb.it/doi/10.3270/115244>
+### 2024
 
--   **Scaduto, G**., & Negri, F. (2024). Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. *South European Society and Politics*. *29*(1), 79-108. <https://doi.org/10.1080/13608746.2024.2411539>
+3.  **Scaduto, G,** Negri, F. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. *Comunicazione Politica.* <https://www.rivisteweb.it/doi/10.3270/115244>
+4.  **Scaduto, G**., & Negri, F. Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. *South European Society and Politics*. *29*(1), 79-108. <https://doi.org/10.1080/13608746.2024.2411539>
+5.  Mancosu, M., **Scaduto, G**. Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders During the COVID-19 Pandemic. *Mass Communication and Society*: 1-26. <https://doi.org/10.1080/15205436.2024.2351980>
 
--   Mancosu, M., **Scaduto, G**. "Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders During the COVID-19 Pandemic." *Mass Communication and Society* (2024): 1-26. <https://doi.org/10.1080/15205436.2024.2351980>
+### **2023**
 
--   Bertero, A., **Scaduto, G.** (2023). A midsummer night's dream: political communication during the Italian 2022 electoral campaign. *Italian Journal of Electoral Studies* *QOE-IJES*, 86(1), 13-28. <https://doi.org/10.36253/qoe-14224>
+6.  Bertero, A., **Scaduto, G.** A midsummer night's dream: political communication during the Italian 2022 electoral campaign. *Italian Journal of Electoral Studies* *QOE-IJES*, 86(1), 13-28. <https://doi.org/10.36253/qoe-14224>
 
--   **Scaduto, G.**, Mancosu, M. (2022). Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. *Comunicazione politica*, 23(2), 255-276. <https://www.rivisteweb.it/doi/10.3270/104851>
+### 2022
 
--   **Scaduto, G.** (2022). Gli algoritmi di computer vision: una guida all'uso per le scienze politiche e sociali. *Polis*, 36(2), 315-332. <https://www.rivisteweb.it/doi/10.1424/104525>
+7.  **Scaduto, G.**, Mancosu, M. Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. *Comunicazione politica*, 23(2), 255-276. <https://www.rivisteweb.it/doi/10.3270/104851>
+8.  **Scaduto, G.** Gli algoritmi di computer vision: una guida all'uso per le scienze politiche e sociali. *Polis*, 36(2), 315-332. <https://www.rivisteweb.it/doi/10.1424/104525>
 
 ## Book chapters
+
+### 2024
 
 -   Negri, F., **Scaduto, G.** Le «politologhe» e i «politologi» tra scienza e dibattito pubblico. In Verzichelli, L. La Scienza Politica Italiana, 50 anni dopo. Il Mulino.
 
@@ -162,39 +171,39 @@ urlcolor: blue
 
 [^1]: Asterisks signal the paper presenter
 
--   European Consortium of Political Research (ECPR) Conference 2025, Thessaloniki, Greece, 26-29 Aug 2025 [ACCEPTED, participation pending on funding]
+1.  European Consortium of Political Research (ECPR) Conference 2025, Thessaloniki, Greece, 26-29 Aug 2025 [ACCEPTED, participation pending on funding]
 
     -   **Scaduto, G**.\*, Negri, F., Decadri, S. Decoding Politicians’ Instagram Profiles: How Visual and Textual Cues Shape Perceptions of Left-Right Alignment and Populist Traits. A Visual Conjoint Experiment
 
     -   **Scaduto, G**.\*, Negri, F., Decadri, S. Do Apolitical Similarities Drive Political Engagement? Insights from Multi-Country Dynamic Parallel Conjoint Survey Experiment
 
--   European Political Science Association (EPSA) Conference 2025, Madrid, Spain, 26-28 June 2025 [ACCEPTED, Registered]
+2.  European Political Science Association (EPSA) Conference 2025, Madrid, Spain, 26-28 June 2025 [ACCEPTED, Registered]
 
     -   Decadri, S., Negri, F., **Scaduto, G\*.** Decoding Politicians’ Instagram Profiles: How Visual and Textual Cues Shape Left-Right Alignment and Populist Traits Perceptions. A Visual Conjoint Experiment. 
 
--   European Survey Research Association (ESRA) Conference 2025, Utrecht, The Netherlands, 14-18 July 2025 [ACCEPTED, Waiting to register]
+3.  European Survey Research Association (ESRA) Conference 2025, Utrecht, The Netherlands, 14-18 July 2025 [ACCEPTED, Waiting to register]
 
     -   **Scaduto, G**.\*, Negri, F., Decadri, S. Visual Conjoint Experiments in Social Research: A Comprehensive Review and a Guide for Cross-National Applications.
 
     -   **Scaduto, G**.\*, Negri, F., Decadri, S. Do Apolitical Similarities Drive Political Engagement? Insight from a Multi-Country Dynamic Parallel Conjoint Experiment
 
--   PolMeth Europe 2025, London, UK, 7-9 Apr 2025
+4.  PolMeth Europe 2025, London, UK, 7-9 Apr 2025
 
     -   **Scaduto, G**.\*, Negri, F., Decadri, S. Political Inferences in the Wild: Inferring Politicians' Ideology from Apolitical Cues with Explicit Political Information. A Visual Conjoint Approach.
 
--   First MethodsNET Conference. Louvain-La-Neuve, Belgium, 31 Oct-1 Nov 2024.
+5.  First MethodsNET Conference. Louvain-La-Neuve, Belgium, 31 Oct-1 Nov 2024.
 
     -   **Scaduto, G**.\*, Negri, F., Decadri, S. A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
 
--   2024 Workshop Survey Experiments in the Social Sciences. Amsterdam Center for Inequality Studies (AMCIS). Amsterdam. 24 October 2024.
+6.  2024 Workshop Survey Experiments in the Social Sciences. Amsterdam Center for Inequality Studies (AMCIS). Amsterdam. 24 October 2024.
 
     -   **Scaduto, G**.\* Negri, F., Decadri, S.: Political Inferences in the Wild: Inferring Politicians’ Ideology from Apolitical Cues with Explicit Political Information. A visual conjoint approach.
 
--   10th conference of the International Journal of Press/Politics. Edinburgh, 17-18 October 2024.
+7.  10th conference of the International Journal of Press/Politics. Edinburgh, 17-18 October 2024.
 
     -   **Scaduto, G.\***,Negri, F., Mancosu, M., Decardi, S. Emotional Inconsistency in Online Political Communication: A Comparative Study of Text and Imagery by European Party Leaders on Instagram.
 
--   2024 Conference of the Italian Political Science Society (SISP). Trieste, 12-14 September.
+8.  2024 Conference of the Italian Political Science Society (SISP). Trieste, 12-14 September.
 
     -   **Scaduto, G\*.** Politicultural Linking: Inferences between Political and Apolitical Traits.
     -   Decadri, S., Mancosu, M., Negri, F., **Scaduto G\***. A Comparative Study of Populist and Mainstream Politicians’ visual and textual communication on Instagram.
@@ -202,36 +211,32 @@ urlcolor: blue
         -   Survey Experiments in Political Science (I)
         -   Survey Experiments in Political Science (II).
 
--   2024 Conference of the Italian Political Communication Association (ASSOCOMPOL). Catania, 30 May-1 June.
+9.  2024 Conference of the Italian Political Communication Association (ASSOCOMPOL). Catania, 30 May-1 June.
 
     -   Negri, F., **Scaduto, G\***. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests.
 
--   2024 CompText Conference (COMPTEXT), Amsterdam, 2-4 May.
+10. 2024 CompText Conference (COMPTEXT), Amsterdam, 2-4 May.
 
     -   **Scaduto, G.**\*, Decadri, S., Mancosu, M., Negri, F. Analyzing Visual Communication Strategies: A Comparative Study of Populist and Mainstream Political Parties on Instagram Across 28 European Countries (2019-2021).
 
--   SPS Seminar: "Picturing Politics? Exploring the mental images of partisans and ideologues shaped by cultural consumption choices", University of Milan, 17 January 2024.
+11. SPS Seminar: "Picturing Politics? Exploring the mental images of partisans and ideologues shaped by cultural consumption choices", University of Milan, 17 January 2024.
 
     -   **Scaduto, G.\***, Negri, F. Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy
 
--   2023 Conference of the Italian Political Science Society (SISP). Genoa, 14-16 September.
+12. 2023 Conference of the Italian Political Science Society (SISP). Genoa, 14-16 September.
 
     -   **Scaduto, G.\***, Negri, F. Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy.
     -   Mancosu, M., **Scaduto, G.\*** Crowds and smiles: Visual opportunity structures and the communication of European political leaders during the Covid-19 pandemic
 
--   2023 VDATA Final Conference. Pavia, 7-8 September.
-
-    -   Respi, C.\*, Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news)
-
--   2023 Conference of the European Consortium for Political Research (ECPR). Prague, 4-8 September.
+13. 2023 Conference of the European Consortium for Political Research (ECPR). Prague, 4-8 September.
 
     -   **Scaduto, G.\***, Negri, F. Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy.
 
--   2023 Conference of the Italian Political Communication Association (ASSOCOMPOL). Turin, 8-10 June.
+14. 2023 Conference of the Italian Political Communication Association (ASSOCOMPOL). Turin, 8-10 June.
 
     -   **Scaduto, G.\***, Negri, F. Food for (political) thought: exploring the factors associated with making political inferences from apolitical cues in Italy.
 
--   2022 Conference of the Italian Political Communication Association (ASSOCOMPOL). Bologna June 30th-July 1st.
+15. 2022 Conference of the Italian Political Communication Association (ASSOCOMPOL). Bologna June 30th-July 1st.
 
     -   Mancosu, M.\*, **Scaduto, G.** The representation of political leaders in times of pandemic crisis. Evidence from 28 European countries.
 
