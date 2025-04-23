@@ -117,51 +117,53 @@ urlcolor: blue
 
 ### 2024
 
--   Negri, F., **Scaduto, G.** Le «politologhe» e i «politologi» tra scienza e dibattito pubblico. In Verzichelli, L. La Scienza Politica Italiana, 50 anni dopo. Il Mulino.
+1.  Negri, F., **Scaduto, G.** Le «politologhe» e i «politologi» tra scienza e dibattito pubblico. In Verzichelli, L. La Scienza Politica Italiana, 50 anni dopo. Il Mulino.
 
 ## R&Rs/Under review
 
--   Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news). Revised and resubmitted to *Social Science Computer Review.*
+1.  Respi, C., Gui, M., Legnante, G., **Scaduto, G.**, Serini, M., Pizzul, D., & Gerosa, T. Privacy protection as an exception in the digital inequality framework (and why this is not good news). Revised and resubmitted to *Social Science Computer Review.*
 
--   Tsoulou-Malakoudi, A., Goovaerts, I., **Scaduto, G.**, Van Erkel, P., Walgrave, S. Political others are perceived as non-politically different. Under review in *European Journal of Political Research*
+2.  Tsoulou-Malakoudi, A., Goovaerts, I., **Scaduto, G.**, Van Erkel, P., Walgrave, S. Political others are perceived as non-politically different. Under review in *European Journal of Political Research*
 
--   **Scaduto, G**., Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. A Cross-Country Dynamic Parallel Experiment. Submitted to *Political Behavior*.
+3.  **Scaduto, G**., Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. A Cross-Country Dynamic Parallel Experiment. Under review in *Political Behavior*.
 
     -   Preprint available [here](https://osf.io/preprints/socarxiv/6j8nr_v1).
 
+4.  Decadri, S, Negri, F., **Scaduto, G**. Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. Under reviiw in *Political Science Research & Methods.*
+
 ## Work-in-progress
 
--   Decadri, S, Negri, F., **Scaduto, G**. Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications
+1.  **Scaduto, G**. Thinking About Politics: An Experimental Inquiry into the Mental Associations between Political and Apolitical Traits and Their Social Consequences in Italy. Doctoral dissertation (monograph).
 
-    -   Final draft stage. Expected submission to *Political Science Research and Methods* in April 2025.
+    -   Completed. To be submitted in September 2025 due to administrative constraints.
 
--   Decadri, S., Negri, F., **Scaduto, G**. A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
+2.  Decadri, S., Negri, F., **Scaduto, G**. A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
 
     -   First draft stage. Expected submission: June/July 2025
 
--   Feitosa, F., Goovaerts, I., Lefevere, J., **Scaduto, G.**, Tsoulou-Malakoudi, A. The apolitical side of affective polarization: Examining the role of perceived non-political differences and similarities among voters
+3.  Feitosa, F., Goovaerts, I., Lefevere, J., **Scaduto, G.**, Tsoulou-Malakoudi, A. The apolitical side of affective polarization: Examining the role of perceived non-political differences and similarities among voters
 
     -   Second draft stage. Expected submission: May/June 2025
 
--   **Scaduto, G**., Negri, F., Decadri, S. What is Left of What is Right: Exploring Ideological perceptions engendered by Sociodemographic, Psychological, and Lifestyle Cues in 4 European Countries.
+4.  **Scaduto, G**., Negri, F., Decadri, S. What is Left of What is Right: Exploring Ideological perceptions engendered by Sociodemographic, Psychological, and Lifestyle Cues in 4 European Countries.
 
     -   First draft stage. Expected submission: June/July 2025
 
--   **Scaduto, G**., Valeriani, A. How Perceived External News Efficacy Affects Trusts in Journalists: A Visual Experimental Approach.
+5.  **Scaduto, G**., Valeriani, A. How Perceived External News Efficacy Affects Trusts in Journalists: A Visual Experimental Approach.
 
     -   Design phase
 
--   Faleide, I., **Scaduto, G**. Exploring Second-Order Beliefs around EU Membership in Norway.
+6.  Faleide, I., **Scaduto, G**. Exploring Second-Order Beliefs around EU Membership in Norway.
 
     -   Design phase
 
 ## Datasets
 
--   **Scaduto, Gaetano**. (2023) Political inferences from apolitical cues: food-based political inferences in Italy.
+1.  **Scaduto, Gaetano**. (2023) Political inferences from apolitical cues: food-based political inferences in Italy.
 
     -   **Scaduto, Gaetano [Producer]**. Negri, Fedra [Producer]. Mancosu, Moreno [Producer]. UniData - Bicocca Data Archive, Milan. Study Number SN248. Data file version 1.0 doi: [10.20366/unimib/unidata/SN248-1.0](https://www.unidata.unimib.it/?indagine=political-inferences-from-apolitical-cues-food-based-political-inferences-in-italy-2023)
 
--   Respi, Chiara; Legnante, Guido. (2022-2023) *Citizens and value of digital data*.
+2.  Respi, Chiara; Legnante, Guido. (2022-2023) *Citizens and value of digital data*.
 
     -   Respi, Chiara [Producer]. Legnante, Guido [Producer]. Gui, Marco [Producer]. Pizzul, Dario [Producer]. Gaia, Alessandra [Producer]. Sala, Emanuela [Producer]. **Scaduto, Gaetano** **[Producer]**. UniData - Bicocca Data Archive, Milan. Study Number SN247. Data file version 1.0 [doi:10.20366/unimib/unidata/SN247-1.0](http://dx.doi.org/10.20366/unimib/unidata/SN247-1.0)
 
@@ -171,17 +173,17 @@ urlcolor: blue
 
 [^1]: Asterisks signal the paper presenter
 
-1.  European Consortium of Political Research (ECPR) Conference 2025, Thessaloniki, Greece, 26-29 Aug 2025 [ACCEPTED, participation pending on funding]
+1.  European Consortium of Political Research (ECPR) Conference 2025, Thessaloniki, Greece, 26-29 Aug 2025 [accepted, participation pending on funding]
 
     -   **Scaduto, G**.\*, Negri, F., Decadri, S. Decoding Politicians’ Instagram Profiles: How Visual and Textual Cues Shape Perceptions of Left-Right Alignment and Populist Traits. A Visual Conjoint Experiment
 
     -   **Scaduto, G**.\*, Negri, F., Decadri, S. Do Apolitical Similarities Drive Political Engagement? Insights from Multi-Country Dynamic Parallel Conjoint Survey Experiment
 
-2.  European Political Science Association (EPSA) Conference 2025, Madrid, Spain, 26-28 June 2025 [ACCEPTED, Registered]
+2.  European Political Science Association (EPSA) Conference 2025, Madrid, Spain, 26-28 June 2025 [accepted, registered]
 
     -   Decadri, S., Negri, F., **Scaduto, G\*.** Decoding Politicians’ Instagram Profiles: How Visual and Textual Cues Shape Left-Right Alignment and Populist Traits Perceptions. A Visual Conjoint Experiment. 
 
-3.  European Survey Research Association (ESRA) Conference 2025, Utrecht, The Netherlands, 14-18 July 2025 [ACCEPTED, Waiting to register]
+3.  European Survey Research Association (ESRA) Conference 2025, Utrecht, The Netherlands, 14-18 July 2025 [accepted, waiting to register]
 
     -   **Scaduto, G**.\*, Negri, F., Decadri, S. Visual Conjoint Experiments in Social Research: A Comprehensive Review and a Guide for Cross-National Applications.
 
@@ -336,25 +338,25 @@ Canadian Journal of Political Science. Comunicazione Politica.
 
 ## Academic
 
--   **Research Collaborator** *University of Antwerp*, Belgium \hfill Feb 2024-Present
+1.  **Research Collaborator** *University of Antwerp*, Belgium \hfill Feb 2024-Present
     -   Involvement in the activities related to the project “NotLikeUS" project. [See here for details](https://notlikeus.be/).
--   **Research Collaborator,** *Univesity of Milan-Bicocca*, Italy \hfill Sept 2023-Aug 2025
+2.  **Research Collaborator,** *Univesity of Milan-Bicocca*, Italy \hfill Sept 2023-Aug 2025
     -   Involvement in the activities related to the project “The visual politics of populism” (PI: Mattia Zulianello, UniTS; Vice PIs: Fedra Negri, Unimib; Luigi Curini, Unimi). These activities included (but were not limited to):
         -   Designing a survey fielded in 5 European countries
         -   Designing survey experiments
         -   Working with computational methods to download and analyze politicians' social media posts
         -   Managing the relationship between the working group and the survey company
         -   Supervising the translation and cultural adaptation of the survey in multiple national contexts.
--   **Research Collaborator**, *University of Milan-Bicocca*, Italy \hfill Aug-Dec 2023
+3.  **Research Collaborator**, *University of Milan-Bicocca*, Italy \hfill Aug-Dec 2023
     -   Analysis and management of survey data for research purposes for the project "VDATA - The Value of Digital Data"
--   **Conference Assistant**, *European Survey Research Association* \hfill Jul 2023
+4.  **Conference Assistant**, *European Survey Research Association* \hfill Jul 2023
     -   Assisted in the activities related to the 2023 European Survey Research Association Conference.
--   **Research Fellow**, *Collegio Carlo Alberto*, Turin \hfill May-June 2022
+5.  **Research Fellow**, *Collegio Carlo Alberto*, Turin \hfill May-June 2022
     -   Data gathering on the media outlets of 47 countries with research purposes. Data analysis on survey results (Stata, R). Data entry and data management (Excel)
 
 ## Extra-academic
 
--   **Junior Research Specialist and Deputy Campaign Coordinator**, *Social Changes, Inc.* \hfill 2022
+1.  **Junior Research Specialist and Deputy Campaign Coordinator**, *Social Changes, Inc.* \hfill 2022
 
     -   Contributed to organizing and coordinating multiple campaigns for the 2022 political and municipal elections in Italy.
     -   Managed the relationship with companies providing media analysis services (WebPredict) and provided insights on how to use media analysis for strategic purposes during the campaign.
@@ -363,11 +365,11 @@ Canadian Journal of Political Science. Comunicazione Politica.
     -   Coordinated and wrote a daily newsletter including press reviews and campaign insights with strategic consideration.
     -   Contributed to the construction of targets for social media political advertisement.
 
--   **Part-Time Receptionist**, *Renato Einaudi University College*, Turin \hfill 2021-2022
+2.  **Part-Time Receptionist**, *Renato Einaudi University College*, Turin \hfill 2021-2022
 
     -   Supervised on the general life and activity of the college. Front office relations. Management of relations with the administration of the college and maintenance, cleaning, and organizational figures.
 
--   **Students' Tutor**, *Renato Einaudi University College*, Turin \hfill 2021-2022
+3.  **Students' Tutor**, *Renato Einaudi University College*, Turin \hfill 2021-2022
 
     -   Mediation between the college administration and its students. Conflict resolution. Support in first arrival orientation. Management of students' educational plan.
 
@@ -377,9 +379,9 @@ Canadian Journal of Political Science. Comunicazione Politica.
 
 ## Languages
 
--   **Italian**, Native.
--   **English**, C2.
--   **Dutch,** B1 (as of April 2024, currently studying for B2).
+1.  **Italian**, Native.
+2.  **English**, C2.
+3.  **Dutch,** B1 (as of April 2024, currently studying for B2).
 
 ## Coding Skills/Softwares
 
