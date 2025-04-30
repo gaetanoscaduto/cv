@@ -188,9 +188,7 @@ urlcolor: blue
 
 \bigskip \hrule
 
-# Conference presentations, Workshops, and Seminars[^1]
-
-[^1]: Asterisks signal the paper presenter
+# Conferences, Workshops, and Seminars
 
 16. 2025 Conference of the Italian Political Science Society (SISP). Naples, 4-6 September. [accepted, participation pending on funding]
 
