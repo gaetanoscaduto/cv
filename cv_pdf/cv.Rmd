@@ -8,12 +8,14 @@ output:
   html_document:
     df_print: paged
 geometry: margin=1.1in
-jobtitle: Ph.D Candidate. Born Feb 25th, 1999  
+jobtitle: Ph.D Candidate. 
+born: Born Feb 25th, 1999 in Agrigento, Italy  
 fontawesome: yes
 #email: gaetano.scaduto@unimib.it
 web: "gaetanoscaduto.quarto.pub/home/"
-github: "github.com/gaetanoscaduto"
-updated: yes
+#github: "github.com/gaetanoscaduto"
+address: Currently residing in Antwerp, Belgium
+#updated: yes
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
 fontsize: 10pt
@@ -92,59 +94,59 @@ urlcolor: blue
 
 ### 2025
 
-9.  Politicultural Linking: Inferences between Political and Apolitical Traits. Accepted for publication in *Public Opinion Quarterly.* (single author).
+9.  **Scaduto, G.** Politicultural Linking: Inferences between Political and Apolitical Traits. Accepted for publication in *Public Opinion Quarterly.*
     -   Preprint available [here](https://osf.io/preprints/socarxiv/zvcx2_v1).
 
 <!-- -->
 
-8.  Aligning Emotions: A Comparative Analysis of Text and Imagery by European Party Leaders on Instagram. Accepted for publication in *The International Journal of Press/Politics*. (with Decadri, S., Mancosu, M., Negri, F.)
+8.  Decadri, S., Mancosu, M., Negri, F., **Scaduto, G.** Aligning Emotions: A Comparative Analysis of Text and Imagery by European Party Leaders on Instagram. Accepted for publication in *The International Journal of Press/Politics*.
 
 <!-- -->
 
-7.  Lower cynicism, not higher literacy, promotes protective behavior: exploring the “privacy exception” in the digital inequality framework. Accepted for publication in *Social Science Computer Review*. (with Respi, C., Gui, M., Serini, M., Pizzul, D., Gerosa, T., Lutz, C.)
+7.  Respi, C., Gui, M., **Scaduto, G.**, Serini, M., Pizzul, D., Gerosa, T., & Lutz, C. (2024). Lower Cynicism, Not Higher Literacy, Promotes Protective Behavior: Exploring the “privacy exception” in the Digital Inequality Framework. *Social Science Computer Review*. <https://doi.org/10.1177/08944393251341201>
 
 ### 2024
 
-6.  The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. *Comunicazione Politica.* <https://www.rivisteweb.it/doi/10.3270/115244> (with Negri, F.)
+6.  **Scaduto, G.**, Negri, F. The Pundit Paradox: Exploring the Mismatch between Supply and Demand in Italian Political Talk Show Guests. *Comunicazione Politica.* <https://www.rivisteweb.it/doi/10.3270/115244>
 
 <!-- -->
 
-5.  Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. *South European Society and Politics*. *29*(1), 79-108. <https://doi.org/10.1080/13608746.2024.2411539> (with Negri, F.)
+5.  **Scaduto, G.**, Negri, F. Food for (political) thought: political inferences from apolitical cues and their social consequences in Italy. *South European Society and Politics*. *29*(1), 79-108. <https://doi.org/10.1080/13608746.2024.2411539> (with Negri, F.)
 
 <!-- -->
 
-4.  Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders During the COVID-19 Pandemic. *Mass Communication and Society*: 1-26. <https://doi.org/10.1080/15205436.2024.2351980> (with Mancosu, M.)
+4.  Mancosu, M., **Scaduto, G.** Crowds and Smiles: Visual Opportunity Structures and the Communication of European Political Leaders During the COVID-19 Pandemic. *Mass Communication and Society*: 1-26. <https://doi.org/10.1080/15205436.2024.2351980>
 
 ### **2023**
 
-3.  A midsummer night's dream: political communication during the Italian 2022 electoral campaign. *Italian Journal of Electoral Studies* *QOE-IJES*, 86(1), 13-28. <https://doi.org/10.36253/qoe-14224> (with Bertero, A.)
+3.  Bertero, A., **Scaduto, G.** A midsummer night's dream: political communication during the Italian 2022 electoral campaign. *Italian Journal of Electoral Studies* *QOE-IJES*, 86(1), 13-28. <https://doi.org/10.36253/qoe-14224>
 
 ### 2022
 
-2.  Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. *Comunicazione politica*, 23(2), 255-276. <https://www.rivisteweb.it/doi/10.3270/104851> (with Mancosu, M.)
+2.  **Scaduto, G.**, Mancosu, M. Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. *Comunicazione politica*, 23(2), 255-276. <https://www.rivisteweb.it/doi/10.3270/104851>
 
 <!-- -->
 
-1.  Gli algoritmi di computer vision: una guida all'uso per le scienze politiche e sociali. *Polis*, 36(2), 315-332. <https://www.rivisteweb.it/doi/10.1424/104525> (single author)
+1.  **Scaduto, G.** Gli algoritmi di computer vision: una guida all'uso per le scienze politiche e sociali. *Polis*, 36(2), 315-332. <https://www.rivisteweb.it/doi/10.1424/104525>
 
 ## Book chapters
 
 ### 2024
 
-1.  Le «politologhe» e i «politologi» tra scienza e dibattito pubblico. In Verzichelli, L. La Scienza Politica Italiana, 50 anni dopo. Il Mulino. (with Negri, F.)
+1.  Negri, F. **Scaduto, G.** Le «politologhe» e i «politologi» tra scienza e dibattito pubblico. In Verzichelli, L. La Scienza Politica Italiana, 50 anni dopo. Il Mulino.
 
 ## R&Rs/Under review
 
-3.  Political others are perceived as non-politically different. Under review in *European Journal of Political Research.* (with Tsoulou-Malakoudi, A., Goovaerts, I., Van Erkel, P., Walgrave, S.)
+3.  Tsoulou-Malakoudi, A., Goovaerts, I., **Scaduto, G.**, Van Erkel, P., Walgrave, S. Political others are perceived as non-politically different. Under review in *European Journal of Political Research.*
 
 <!-- -->
 
-2.  It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. A Cross-Country Dynamic Parallel Experiment. Under review in *Political Behavior*. (with Negri, F., Decadri, S.)
+2.  **Scaduto, G.**, Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. A Cross-Country Dynamic Parallel Experiment. Under review in *Political Behavior*.
     -   Preprint available [here](https://osf.io/preprints/socarxiv/6j8nr_v1)
 
 <!-- -->
 
-1.  Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. Submitted to *American Political Science Review.* (with Negri, F., Decadri, S.)
+1.  Decadri, S., Negri, F., **Scaduto, G.** Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. Submitted to *American Political Science Review.*
 
 ## Work-in-progress
 
@@ -421,6 +423,22 @@ Canadian Journal of Political Science. Comunicazione Politica.
 ## Coding Skills/Softwares
 
 -   **R**, Advanced; **C**, Proficient; **SQL**, Proficient; **LaTex**, Proficient; **Microsoft Office package**, Proficient; **Python**, Intermediate; **C++**, Beginner; **Stata**, Beginner; **Html**, Beginner; **Shiny**, Beginner; **Javascript**, Beginner; **Matlab**, Beginner
+
+    \bigskip \hrule
+
+<!-- # Academic References -->
+
+<!-- -   Prof. Stefaan Walgrave. University of Antwerp, Department of Political Science. [stefaan.walgrave\@uantwerpen.be](mailto:stefaan.walgrave@uantwerpen.be) -->
+
+<!-- -   Prof. Augusto Valeriani. University of Bologna, Department of Social and Political Sciences. augusto.valeriani\@unibo.it -->
+
+<!--     [If not available, feel free to contact:]{.underline} -->
+
+<!-- -   Prof. Fedra Negri. University of Milan Bicocca, Department of Sociology and Social Research. [fedra.negri\@unimib.it](mailto:fedra.negri@unimib.it) -->
+
+<!-- -   Prof. Delia Baldassarri. New York University, Department of Sociology. delia.b\@nyu.edy -->
+
+<!-- -   Prof. Moreno Mancosu. University of Turin, Department of Culture, Politics, and Society. moreno.mancosu\@unito.it -->
 
 ```{r, message=F, echo=F, warning=F, results='hide'}
 # RUN THIS TO UPDATE ALSO IN WEBSITE!
