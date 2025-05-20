@@ -58,10 +58,9 @@ urlcolor: blue
 ## High School Diploma\hfill Sep 2012-Jul 2017
 
 -   *Liceo Classico "Empedocle"*, Agrigento, Italy
-
 -   Final Grade: 100/100 with honors
 
-    \bigskip \hrule
+\bigskip \hrule
 
 # Summer Schools, Winter Schools, and Short Courses
 
@@ -224,7 +223,7 @@ urlcolor: blue
 
 <!-- -->
 
-8.  10th conference of the International Journal of Press/Politics. Edinburgh, 17-18 October 2024.
+8.  10th conference of the International Journal of Press/Politics. Edinburgh, 17-18 October 2024.
 
 <!-- -->
 
@@ -295,7 +294,7 @@ Canadian Journal of Political Science. Comunicazione Politica.
 
 1.  [Buongiorno InBlu 25/10/2024](https://www.radioinblu.it/streaming/?vid=0_onrwcs4r), Radio InBlu 2000.
 
-## Online media:
+## Online media
 
 4.  "[Talk-show politici, lo specchio di un’Italia polarizzata](https://lavoce.info/archives/106804/talk-show-politici-lo-specchio-di-unitalia-polarizzata/)" (with Negri F., in Italian)**.** LaVoce.info. January 2025.
 
@@ -415,9 +414,7 @@ Canadian Journal of Political Science. Comunicazione Politica.
 ## Languages
 
 -   **Italian**, Native.
-
 -   **English**, C2.
-
 -   **Dutch,** B1 (as of April 2024, currently studying for B2).
 
 ## Coding Skills/Softwares
