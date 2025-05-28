@@ -423,20 +423,19 @@ Canadian Journal of Political Science. Comunicazione Politica.
 
     \bigskip \hrule
 
-# Academic References
+<!-- # Academic References -->
 
--   Prof. Stefaan Walgrave. University of Antwerp, Department of Political Science. [stefaan.walgrave\@uantwerpen.be](mailto:stefaan.walgrave@uantwerpen.be)
+<!-- -   Stefaan Walgrave. University of Antwerp, Department of Political Science. stefaan.walgrave\@uantwerpen.be -->
 
+<!-- -   Fedra Negri. University of Milan Bicocca, Department of Sociology and Social Research. fedra.negri\@unimib.it -->
 
--   Prof. Fedra Negri. University of Milan Bicocca, Department of Sociology and Social Research. [fedra.negri\@unimib.it](mailto:fedra.negri@unimib.it)
+<!-- If not available, feel free to contact -->
 
-    [If not available, feel free to contact:]{.underline}
+<!-- -   Augusto Valeriani. University of Bologna, Department of Social and Political Sciences. augusto.valeriani\@unibo.it -->
 
--   Prof. Augusto Valeriani. University of Bologna, Department of Social and Political Sciences. augusto.valeriani\@unibo.it
+<!-- -   Delia Baldassarri. New York University, Department of Sociology. delia.b\@nyu.edy -->
 
--   Prof. Delia Baldassarri. New York University, Department of Sociology. delia.b\@nyu.edy
-
--   Prof. Moreno Mancosu. University of Turin, Department of Culture, Politics, and Society. moreno.mancosu\@unito.it --> <!--#
+<!-- -   Moreno Mancosu. University of Turin, Department of Culture, Politics, and Society. moreno.mancosu\@unito.it <!--#  -->
 
 ```{r, message=F, echo=F, warning=F, results='hide'}
 # RUN THIS TO UPDATE ALSO IN WEBSITE!
