@@ -438,8 +438,4 @@ Canadian Journal of Political Science. Comunicazione Politica.
 
 -   Prof. Moreno Mancosu. University of Turin, Department of Culture, Politics, and Society. moreno.mancosu\@unito.it --> <!--#
 
-```{r, message=F, echo=F, warning=F, results='hide'}
-# RUN THIS TO UPDATE ALSO IN WEBSITE!
 
-#rmarkdown::render('C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/CV/cv/cv_pdf/cv.Rmd', output_file = 'C:/Users/gasca/OneDrive - Università degli Studi di Milano-Bicocca/Dottorato/Website/academic_cv.pdf')
-```

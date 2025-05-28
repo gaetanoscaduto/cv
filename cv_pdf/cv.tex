@@ -1,0 +1,1116 @@
+\documentclass[10pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1.1in]{geometry}
+
+
+\usepackage[normalem]{ulem}
+% avoid problems with \sout in headers with hyperref:
+\pdfstringdefDisableCommands{\renewcommand{\sout}{}}
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Gaetano Scaduto - CV }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Gaetano Scaduto:  CV (Curriculum Vitae)},
+            pdfauthor={Gaetano Scaduto},
+            colorlinks=true,
+            linkcolor=blue,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Make AP style (kinda) dates for the updated/today field
+
+\usepackage{datetime}
+\newdateformat{apstylekinda}{%
+  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+
+\begin{document}
+
+
+\centerline{\huge \bf Gaetano Scaduto}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{Ph.D Candidate.}
+\moveleft.5\hoffset\centerline{Born Feb 25th, 1999 in Agrigento, Italy}
+\moveleft.5\hoffset\centerline{Currently residing in Antwerp, Belgium}
+\moveleft.5\hoffset\centerline{       \faGlobe \hspace{1 mm} \href{http://gaetanoscaduto.quarto.pub/home/}{\tt gaetanoscaduto.quarto.pub/home/}   } 
+
+\vspace{2 mm}
+
+\hrule
+
+
+\section{\texorpdfstring{\textbf{Education}}{Education}}\label{education}
+
+\subsection{\texorpdfstring{Ph.D Student in Analysis of Social and
+Economic Processes \hfill Nov 2022-Jan
+2026}{Ph.D Student in Analysis of Social and Economic Processes Nov 2022-Jan 2026}}\label{ph.d-student-in-analysis-of-social-and-economic-processes-nov-2022-jan-2026}
+
+\subsection{\texorpdfstring{\hfill (dissertation ready for submission in
+Feb
+2025)}{(dissertation ready for submission in Feb 2025)}}\label{dissertation-ready-for-submission-in-feb-2025}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{University of Milan-Bicocca}, Milan, Italy
+\item
+  Supervisors: Fedra Negri (Unimib), Delia Baldassarri (New York
+  University).
+\item
+  Thesis title: ``Thinking About Politics: An Experimental Inquiry into
+  the Mental Associations between Political and Apolitical Traits and
+  Their Social Consequences in Italy''
+\end{itemize}
+
+\subsection{\texorpdfstring{Visiting Ph.D Student \hfill Feb
+2024-present}{Visiting Ph.D Student Feb 2024-present}}\label{visiting-ph.d-student-feb-2024-present}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{University of Antwerp}, Antwerp, Belgium
+\item
+  Supervisor: Stefaan Walgrave
+\item
+  Collaborating in the activities of the
+  \href{https://www.uantwerpen.be/en/research-groups/m2p/}{``Media,
+  Movement and Politics'' (M2P)} research group and the
+  \href{https://notlikeus.be/}{NOTLIKEUS} project
+\end{itemize}
+
+\subsection{\texorpdfstring{Master's Degree in Political and Public
+Communication \hfill Sep 2020-July
+2022}{Master's Degree in Political and Public Communication Sep 2020-July 2022}}\label{masters-degree-in-political-and-public-communication-sep-2020-july-2022}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{University of Turin}, Turin, Italy
+\item
+  Thesis supervisor: Moreno Mancosu
+\item
+  Thesis title: ``A country of upbeat songs while there is death
+  outside? Analysis of Italian politicians' visual communication on
+  Instagram during the Covid-19 pandemic''
+\item
+  Final grade: 110/110 with honors, special mention, and rights of
+  publication
+\end{itemize}
+
+\subsection{\texorpdfstring{Bachelor's Degree in Mathematics for
+Engineering \hfill Sep 2017-Jul
+2020}{Bachelor's Degree in Mathematics for Engineering Sep 2017-Jul 2020}}\label{bachelors-degree-in-mathematics-for-engineering-sep-2017-jul-2020}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Polytechnic University of Turin}, Turin, Italy
+\item
+  Thesis supervisor: Giacomo Como
+\item
+  Thesis title: ``Social Choice Theory''
+\item
+  Final grade: 110/110
+\end{itemize}
+
+\subsection{\texorpdfstring{High School Diploma\hfill Sep 2012-Jul
+2017}{High School DiplomaSep 2012-Jul 2017}}\label{high-school-diplomasep-2012-jul-2017}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Liceo Classico ``Empedocle''}, Agrigento, Italy
+\item
+  Final Grade: 100/100 with honors
+\end{itemize}
+
+\bigskip \hrule
+
+\section{Summer Schools, Winter Schools, and Short
+Courses}\label{summer-schools-winter-schools-and-short-courses}
+
+\subsection{\texorpdfstring{The Summer Institutes in Computational
+Social Science, University of Bologna \hfill  June
+2024}{The Summer Institutes in Computational Social Science, University of Bologna June 2024}}\label{the-summer-institutes-in-computational-social-science-university-of-bologna-june-2024}
+
+\begin{itemize}
+\tightlist
+\item
+  2-weeks summer school on computational methods, with competitive
+  selection process.
+\item
+  Various teachers.
+\end{itemize}
+
+\subsection{\texorpdfstring{Essex Summer School in Social Science Data
+Analysis, University of Essex \hfill  Jul-Aug
+2023}{Essex Summer School in Social Science Data Analysis, University of Essex Jul-Aug 2023}}\label{essex-summer-school-in-social-science-data-analysis-university-of-essex-jul-aug-2023}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Confirmatory Factor Analysis and Structural Equation Modeling}
+  \hfill Essex, UK
+\item
+  Teachers: Prof.~Peter Schmidt (University of Giessen), \& Dr.~Daniel
+  Seddig (University of Cologne)
+\end{itemize}
+
+\subsection{\texorpdfstring{Essex Summer School in Social Science Data
+Analysis, University of Essex \hfill  Jul-Aug
+2023}{Essex Summer School in Social Science Data Analysis, University of Essex Jul-Aug 2023}}\label{essex-summer-school-in-social-science-data-analysis-university-of-essex-jul-aug-2023-1}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{Causal Inference and Experiments in Social Sciences}
+  \hfill Essex, UK
+\item
+  Teachers: Dr.~Ryan T. Moore (American University)
+\end{itemize}
+
+\subsection{\texorpdfstring{SISP - Italian Political Science Society
+\hfill  Sep.~2023}{SISP - Italian Political Science Society Sep.~2023}}\label{sisp---italian-political-science-society-sep.-2023}
+
+\begin{itemize}
+\item
+  \emph{Crash Course in Text Analysis} \hfill Genoa, Italy
+\item
+  Teachers: Dr.~Silvia Decadri (University of Milan)
+
+  \bigskip \hrule
+\end{itemize}
+
+\section{Publications}\label{publications}
+
+\subsection{Papers published/accepted in peer-reviewed
+journals}\label{papers-publishedaccepted-in-peer-reviewed-journals}
+
+\subsubsection{2025}\label{section}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{8}
+\tightlist
+\item
+  \textbf{Scaduto, G.} Politicultural Linking: Inferences between
+  Political and Apolitical Traits. Accepted for publication in
+  \emph{Public Opinion Quarterly.}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Preprint available
+    \href{https://osf.io/preprints/socarxiv/zvcx2_v1}{here}.
+  \end{itemize}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{7}
+\tightlist
+\item
+  Decadri, S., Mancosu, M., Negri, F., \textbf{Scaduto, G.} Aligning
+  Emotions: A Comparative Analysis of Text and Imagery by European Party
+  Leaders on Instagram. \emph{The International Journal of
+  Press/Politics}. \url{https://doi.org/10.1177/19401612251339107}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{6}
+\tightlist
+\item
+  Respi, C., Gui, M., \textbf{Scaduto, G.}, Serini, M., Pizzul, D.,
+  Gerosa, T., \& Lutz, C. (2024). Lower Cynicism, Not Higher Literacy,
+  Promotes Protective Behavior: Exploring the ``privacy exception'' in
+  the Digital Inequality Framework.~\emph{Social Science Computer
+  Review}. \url{https://doi.org/10.1177/08944393251341201}
+\end{enumerate}
+
+\subsubsection{2024}\label{section-1}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{5}
+\tightlist
+\item
+  \textbf{Scaduto, G.}, Negri, F. The Pundit Paradox: Exploring the
+  Mismatch between Supply and Demand in Italian Political Talk Show
+  Guests. \emph{Comunicazione Politica.}
+  \url{https://www.rivisteweb.it/doi/10.3270/115244}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\tightlist
+\item
+  \textbf{Scaduto, G.}, Negri, F. Food for (political) thought:
+  political inferences from apolitical cues and their social
+  consequences in Italy. \emph{South European Society and Politics}.
+  \emph{29}(1), 79-108.
+  \url{https://doi.org/10.1080/13608746.2024.2411539} (with Negri, F.)
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
+\item
+  Mancosu, M., \textbf{Scaduto, G.} Crowds and Smiles: Visual
+  Opportunity Structures and the Communication of European Political
+  Leaders During the COVID-19 Pandemic. \emph{Mass Communication and
+  Society}: 1-26. \url{https://doi.org/10.1080/15205436.2024.2351980}
+\end{enumerate}
+
+\subsubsection{\texorpdfstring{\textbf{2023}}{2023}}\label{section-2}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  Bertero, A., \textbf{Scaduto, G.} A midsummer night's dream: political
+  communication during the Italian 2022 electoral campaign.
+  \emph{Italian Journal of Electoral Studies} \emph{QOE-IJES},~86(1),
+  13-28. \url{https://doi.org/10.36253/qoe-14224}
+\end{enumerate}
+
+\subsubsection{2022}\label{section-3}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  \textbf{Scaduto, G.}, Mancosu, M. Lacrime di coccodrillo? Variazioni
+  nel contenuto visuale su Instagram dei politici populisti e mainstream
+  durante la pandemia. \emph{Comunicazione politica}, 23(2), 255-276.
+  \url{https://www.rivisteweb.it/doi/10.3270/104851}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{Scaduto, G.} Gli algoritmi di computer vision: una guida
+  all'uso per le scienze politiche e sociali. \emph{Polis}, 36(2),
+  315-332. \url{https://www.rivisteweb.it/doi/10.1424/104525}
+\end{enumerate}
+
+\subsection{Book chapters}\label{book-chapters}
+
+\subsubsection{2024}\label{section-4}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Negri, F. \textbf{Scaduto, G.} Le «politologhe» e i «politologi» tra
+  scienza e dibattito pubblico. In Verzichelli, L. La Scienza Politica
+  Italiana, 50 anni dopo. Il Mulino.
+\end{enumerate}
+
+\subsection{R\&Rs/Under review}\label{rrsunder-review}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  Tsoulou-Malakoudi, A., Goovaerts, I., \textbf{Scaduto, G.}, Van Erkel,
+  P., Walgrave, S. Political others are perceived as non-politically
+  different. Under review in \emph{European Journal of Political
+  Research.}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  \textbf{Scaduto, G.}, Negri, F., Decadri, S. It's the Homophily,
+  Stupid: How Apolitical Similarities Affect Political Conversations. A
+  Cross-Country Dynamic Parallel Experiment. Under review in
+  \emph{Political Behavior}.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Preprint available
+    \href{https://osf.io/preprints/socarxiv/6j8nr_v1}{here}
+  \end{itemize}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Decadri, S., Negri, F., \textbf{Scaduto, G.} Visual Conjoint
+  Experiments in Social-Scientific Research: A Semi-Systematic Review
+  and a Protocol Blueprint for Cross-Country Applications. Submitted to
+  \emph{American Political Science Review.}
+\end{enumerate}
+
+\subsection{Work-in-progress}\label{work-in-progress}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{5}
+\tightlist
+\item
+  Thinking About Politics: An Experimental Inquiry into the Mental
+  Associations between Political and Apolitical Traits and Their Social
+  Consequences in Italy. Doctoral dissertation (monograph, single
+  author).
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Completed. To be submitted in September 2025 due to administrative
+    constraints of the Italian PhD system.
+  \end{itemize}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\tightlist
+\item
+  A Visual Conjoint Experiment on Ideological Inferences from
+  Politicians' Instagram Profiles. (with Decadri, S., Negri, F.)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    First draft stage. Expected submission: June/July 2025
+  \end{itemize}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
+\item
+  The apolitical side of affective polarization: Examining the role of
+  perceived non-political differences and similarities among voters.
+  (with Feitosa, F., Goovaerts, I., Lefevere, J., Tsoulou-Malakoudi, A.)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Second draft stage. Expected submission: May/June 2025
+  \end{itemize}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  \emph{Spotting Them from a Distance:} Mapping Ideological Stereotypes
+  around Sociodemographics, Personality, and Lifestyles in 4 EU
+  Countries. (with Negri, F., Decadri, S.)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    First draft stage. Expected submission: June/July 2025
+  \end{itemize}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  How Perceived External News Efficacy Affects Trust in Journalists: A
+  Visual Experimental Approach. (with Valeriani, A.)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Design phase
+  \end{itemize}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  Exploring Second-Order Beliefs around EU Membership in Norway. (with
+  Faleide, I.)
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Design phase
+  \end{itemize}
+\end{enumerate}
+
+\subsection{Datasets (publicly
+available)}\label{datasets-publicly-available}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  Political inferences from apolitical cues: food-based political
+  inferences in Italy.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    \textbf{Scaduto, Gaetano {[}Producer{]}}. Negri, Fedra
+    {[}Producer{]}. Mancosu, Moreno {[}Producer{]}. UniData - Bicocca
+    Data Archive, Milan. Study Number SN248. Data file version 1.0 doi:
+    \href{https://www.unidata.unimib.it/?indagine=political-inferences-from-apolitical-cues-food-based-political-inferences-in-italy-2023}{10.20366/unimib/unidata/SN248-1.0}
+  \end{itemize}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \emph{Citizens and value of digital data}.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Respi, Chiara {[}Producer{]}. Legnante, Guido {[}Producer{]}. Gui,
+    Marco {[}Producer{]}. Pizzul, Dario {[}Producer{]}. Gaia, Alessandra
+    {[}Producer{]}. Sala, Emanuela {[}Producer{]}. \textbf{Scaduto,
+    Gaetano} \textbf{{[}Producer{]}}. UniData - Bicocca Data Archive,
+    Milan. Study Number SN247. Data file version 1.0
+    \href{http://dx.doi.org/10.20366/unimib/unidata/SN247-1.0}{doi:10.20366/unimib/unidata/SN247-1.0}
+  \end{itemize}
+\end{enumerate}
+
+\bigskip \hrule
+
+\section{Conferences, Workshops, and
+Seminars}\label{conferences-workshops-and-seminars}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{15}
+\tightlist
+\item
+  2025 Conference of the Italian Political Science Society (SISP).
+  Naples, 4-6 September. {[}accepted, participation pending on
+  funding{]}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{14}
+\tightlist
+\item
+  European Consortium of Political Research (ECPR) Conference 2025,
+  Thessaloniki, Greece, 26-29 Aug 2025 {[}accepted, participation
+  pending on funding{]}.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{13}
+\tightlist
+\item
+  European Political Science Association (EPSA) Conference 2025, Madrid,
+  Spain, 26-28 June 2025 {[}accepted, registered{]}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{12}
+\tightlist
+\item
+  European Survey Research Association (ESRA) Conference 2025, Utrecht,
+  The Netherlands, 14-18 July 2025 {[}accepted, waiting to register{]}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{11}
+\tightlist
+\item
+  Politicologenetmaal 2025, Groningen, The Netherlands, 12-13 June
+  {[}accepted, registered{]}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{10}
+\tightlist
+\item
+  PolMeth Europe 2025, London, UK, 7-9 Apr 2025
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{9}
+\tightlist
+\item
+  First MethodsNET Conference. Louvain-La-Neuve, Belgium, 31 Oct-1 Nov
+  2024.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{8}
+\tightlist
+\item
+  2024 Workshop Survey Experiments in the Social Sciences. Amsterdam
+  Center for Inequality Studies (AMCIS). Amsterdam. 24 October 2024.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{7}
+\tightlist
+\item
+  10th conference of the International Journal of Press/Politics.
+  Edinburgh, 17-18 October 2024.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{6}
+\tightlist
+\item
+  2024 Conference of the Italian Political Science Society (SISP).
+  Trieste, 12-14 September.
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Additionally chaired and organized two panels on ``Survey
+    Experiments in Political Science''
+  \end{itemize}
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{5}
+\tightlist
+\item
+  2024 Conference of the Italian Political Communication Association
+  (ASSOCOMPOL). Catania, 30 May-1 June.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{4}
+\tightlist
+\item
+  2024 CompText Conference (COMPTEXT), Amsterdam, 2-4 May.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
+\item
+  SPS Seminar: ``Picturing Politics? Exploring the mental images of
+  partisans and ideologues shaped by cultural consumption choices'',
+  University of Milan, 17 January 2024.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  2023 Conference of the Italian Political Science Society (SISP).
+  Genoa, 14-16 September.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  2023 Conference of the European Consortium for Political Research
+  (ECPR). Prague, 4-8 September.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  2023 Conference of the Italian Political Communication Association
+  (ASSOCOMPOL). Turin, 8-10 June.
+\end{enumerate}
+
+\bigskip \hrule
+
+\section{Teaching}\label{teaching}
+
+\subsection{\texorpdfstring{Teaching Assistant (Tutor) in Mathematics
+\hfill Nov
+2023-present}{Teaching Assistant (Tutor) in Mathematics Nov 2023-present}}\label{teaching-assistant-tutor-in-mathematics-nov-2023-present}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{University of Milan-Bicocca}, Milan, Italy
+\item
+  BS in Organization Science
+\end{itemize}
+
+\subsection{\texorpdfstring{Teaching Assistant (Tutor) in Public
+Policies \hfill Oct
+2023-present}{Teaching Assistant (Tutor) in Public Policies Oct 2023-present}}\label{teaching-assistant-tutor-in-public-policies-oct-2023-present}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{University of Milan-Bicocca}, Milan, Italy
+\item
+  BS in Organization Science
+\end{itemize}
+
+\subsection{\texorpdfstring{Teaching Assistant (Subject Expert) in
+Public Policies \hfill Dec
+2022-present}{Teaching Assistant (Subject Expert) in Public Policies Dec 2022-present}}\label{teaching-assistant-subject-expert-in-public-policies-dec-2022-present}
+
+\begin{itemize}
+\item
+  \emph{University of Milan-Bicocca}, Milan, Italy
+\item
+  BS in Organization Science
+
+  \bigskip \hrule
+\end{itemize}
+
+\section{Editorial Activities}\label{editorial-activities}
+
+\subsection{Reviewer for:}\label{reviewer-for}
+
+Canadian Journal of Political Science. Comunicazione Politica.
+
+\bigskip \hrule
+
+\section{Media Outreach}\label{media-outreach}
+
+\subsection{Radio}\label{radio}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  \href{https://www.radioinblu.it/streaming/?vid=0_4i5p4bw4}{Buongiorno
+  InBlu 23/01/2025}, Radio InBlu 2000.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \href{https://www.radioinblu.it/streaming/?vid=0_onrwcs4r}{Buongiorno
+  InBlu 25/10/2024}, Radio InBlu 2000.
+\end{enumerate}
+
+\subsection{Online media}\label{online-media}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{3}
+\tightlist
+\item
+  ``\href{https://lavoce.info/archives/106804/talk-show-politici-lo-specchio-di-unitalia-polarizzata/}{Talk-show
+  politici, lo specchio di un'Italia polarizzata}'' (with Negri F., in
+  Italian)\textbf{.} LaVoce.info. January 2025.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{2}
+\tightlist
+\item
+  `\href{https://www.sampol.be/2024/12/ze-zijn-niet-zoals-wij-hoe-kiezers-kijken-naar-andere-kiezers}{``Ze
+  zijn niet zoals wij'': hoe kiezers kijken naar andere kiezers}' (with
+  Tsoulou-Malakoudi, A. \& Goovaerts, I., in Dutch). Samenleving \&
+  Politiek. December 2024.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\setcounter{enumi}{1}
+\tightlist
+\item
+  ``\href{https://theloop.ecpr.eu/what-your-menu-choice-says-about-your-politics/}{What
+  your menu choice says about your politics}'' (with Negri F.). The
+  Loop. October 2024.
+\end{enumerate}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  ``\href{https://lavoce.info/archives/106171/dimmi-cosa-mangi-e-ti-diro-che-partito-voti/}{Dimmi
+  cosa mangi e ti dirò che partito voti}'' (with Negri F., in
+  Italian)\textbf{.} LaVoce.info. October 2024.
+\end{enumerate}
+
+\bigskip \hrule
+
+\section{Awards, Grants, and
+Memberships}\label{awards-grants-and-memberships}
+
+\subsection{Awards}\label{awards}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Best paper from a Junior Researcher 2023}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Awarded by the Italian Political Communication Association
+    (ASSOCOMPOL) for the best paper presented in the 2023 conference.
+    The prize refers to ``\emph{Food for (political) thought:
+    investigating factors and behaviors associated with political
+    inferences from apolitical cues in Italy}'' (with F. Negri)
+  \end{itemize}
+\end{itemize}
+
+\subsection{Grants and Scholarships}\label{grants-and-scholarships}
+
+\begin{itemize}
+\item
+  \textbf{Conference Fee Waiver for the International Journal of
+  Press/Politics 2024 conference} - 300£
+\item
+  \textbf{``Mini-scholarship''} \textbf{to take part in the 2024
+  Conference.} Italian Political Science Association (SISP) - 200€
+\item
+  \textbf{Ph.D.~Scholarship} University of Milan Bicocca, Department of
+  Sociology and Social Research - 16,243.00€ per year for three years
+\item
+  \textbf{Ph.D.~Scholarship} University of Trento, Department of
+  Sociology and Social Research (Declined to accept Ph.D.~scholarship at
+  UNIMIB)
+\item
+  \textbf{Scholarship - Excellence's Project 2022}, Department of
+  Culture, Politics and Society - University of Turin - 1500€
+\item
+  \textbf{Study's prize 2021}, Renato Einaudi University College of
+  Turin - 1500€
+\item
+  \textbf{Study's prize 2019}, Renato Einaudi University College of
+  Turin - 2500€
+\item
+  \textbf{Scholarship by EDISU Piemonte (Regional Agency for Educational
+  Rights) 2021}. Awarded through the combination of (higher) academic
+  performance and (lower) parental income - 5100€
+\item
+  \textbf{Scholarship by EDISU Piemonte (Regional Agency for Educational
+  Rights) 2020}. Awarded through the combination of (higher) academic
+  performance and (lower) parental income - 5100€
+\item
+  \textbf{Scholarship by EDISU Piemonte (Regional Agency for Educational
+  Rights) 2019}. Awarded through the combination of (higher) academic
+  performance and (lower) parental income - 5100€
+\item
+  \textbf{Scholarship by EDISU Piemonte (Regional Agency for Educational
+  Rights) 2018}. Awarded through the combination of (higher) academic
+  performance and (lower) parental income - 5100€
+\item
+  \textbf{Scholarship by EDISU Piemonte (Regional Agency for Educational
+  Rights) 2017}. Awarded through the combination of (higher) academic
+  performance and (lower) parental income - 5100€
+\end{itemize}
+
+\subsection{Memberships}\label{memberships}
+
+\begin{itemize}
+\item
+  Member of ASSOCOMOL (Italian Political Communication Association)
+  {[}Since 2024{]}
+\item
+  Member of SISP, (Società Italiana di Scienza Politica - Italian
+  Political Science Society) {[}Since 2023{]}
+\item
+  Member of ECPR Affective Polarization Standing Group {[}Since 2023{]}
+
+  \bigskip \hrule
+\end{itemize}
+
+\section{Other professional
+experiences}\label{other-professional-experiences}
+
+\subsection{Academic}\label{academic}
+
+\begin{itemize}
+\item
+  \textbf{Research Collaborator,} \emph{University of Antwerp}, Belgium
+  \hfill Feb 2024-Present
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Involvement in the activities related to the ``NotLikeUS'' project.
+    \href{https://notlikeus.be/}{See here for details}.
+  \end{itemize}
+\item
+  \textbf{Research Collaborator,} \emph{University of Milan-Bicocca},
+  Italy \hfill Sept 2023-Aug 2025
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Involvement in the activities related to the project ``VIPOP - The
+    visual politics of populism'' (PI: Mattia Zulianello, UniTS; Vice
+    PIs: Fedra Negri, Unimib; Luigi Curini, Unimi). These activities
+    included (but were not limited to):
+
+    \begin{enumerate}
+    \def\labelenumi{\alph{enumi})}
+    \item
+      Designing a survey fielded in 4 European countries
+    \item
+      Designing survey experiments
+    \item
+      Working with computational methods to download and analyze
+      politicians' social media posts
+    \item
+      Managing the relationship between the working group and the survey
+      company
+    \item
+      Supervising the translation and cultural adaptation of the survey
+      in multiple national contexts
+    \end{enumerate}
+  \end{itemize}
+\item
+  \textbf{Research Collaborator}, \emph{University of Milan-Bicocca},
+  Italy \hfill Aug-Dec 2023
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Analysis and management of survey data for research purposes for the
+    project ``VDATA - The Value of Digital Data''
+  \end{itemize}
+\item
+  \textbf{Conference Assistant}, \emph{European Survey Research
+  Association} \hfill Jul 2023
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Assisted in the activities related to the 2023 European Survey
+    Research Association Conference.
+  \end{itemize}
+\item
+  \textbf{Research Fellow}, \emph{Collegio Carlo Alberto}, Turin
+  \hfill May-June 2022
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Data gathering on the media outlets of 47 countries with research
+    purposes. Data analysis on survey results (Stata, R). Data entry and
+    data management (Excel).
+  \end{itemize}
+\end{itemize}
+
+\subsection{Extra-academic}\label{extra-academic}
+
+\begin{itemize}
+\item
+  \textbf{Junior Research Specialist and Deputy Campaign Coordinator},
+  \emph{Social Changes, Inc.} \hfill 2022
+
+  \begin{enumerate}
+  \def\labelenumi{\alph{enumi})}
+  \tightlist
+  \item
+    Contributed to organizing and coordinating multiple campaigns for
+    the 2022 political and municipal elections in Italy.
+  \item
+    Managed the relationship with companies providing media analysis
+    services (WebPredict) and provided insights on how to use media
+    analysis for strategic purposes during the campaign.
+  \item
+    Coordinated and conducted research on advertisements and media
+    profiles of adversarial campaigns.
+  \item
+    Created electoral databases useful for electoral insights (R).
+    Provided training on digital strategies (WhatsApp-Telegram Cascades)
+    to staff members of multiple campaigns.
+  \item
+    Coordinated and wrote a daily newsletter, including press reviews
+    and campaign insights with strategic consideration.
+  \item
+    Contributed to the construction of targets for social media
+    political advertisements.
+  \end{enumerate}
+\item
+  \textbf{Part-Time Receptionist}, \emph{Renato Einaudi University
+  College}, Turin \hfill 2021-2022
+
+  \begin{itemize}
+  \tightlist
+  \item
+    Supervised on the general life and activity of the college. Front
+    office relations. Management of relations with the administration of
+    the college and maintenance, cleaning, and organizational figures.
+  \end{itemize}
+\item
+  \textbf{Students' Tutor}, \emph{Renato Einaudi University College},
+  Turin \hfill 2021-2022
+
+  \begin{itemize}
+  \item
+    Mediation between the college administration and its students.
+    Conflict resolution. Support in first arrival orientation.
+    Management of students' educational plan.
+
+    \bigskip \hrule
+  \end{itemize}
+\end{itemize}
+
+\section{Skills}\label{skills}
+
+\subsection{Languages}\label{languages}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Italian}, Native.
+\item
+  \textbf{English}, C2.
+\item
+  \textbf{Dutch,} B1 (as of April 2024, currently studying for B2).
+\end{itemize}
+
+\subsection{Coding Skills/Softwares}\label{coding-skillssoftwares}
+
+\begin{itemize}
+\item
+  \textbf{R}, Advanced; \textbf{C}, Proficient; \textbf{SQL},
+  Proficient; \textbf{LaTex}, Proficient; \textbf{Microsoft Office
+  package}, Proficient; \textbf{Python}, Intermediate; \textbf{C++},
+  Beginner; \textbf{Stata}, Beginner; \textbf{Html}, Beginner;
+  \textbf{Shiny}, Beginner; \textbf{Javascript}, Beginner;
+  \textbf{Matlab}, Beginner
+
+  \bigskip \hrule
+\end{itemize}
+
+\section{Academic References}\label{academic-references}
+
+\begin{itemize}
+\item
+  Prof.~Stefaan Walgrave. University of Antwerp, Department of Political
+  Science.
+  \href{mailto:stefaan.walgrave@uantwerpen.be}{\nolinkurl{stefaan.walgrave@uantwerpen.be}}
+\item
+  Prof.~Fedra Negri. University of Milan Bicocca, Department of
+  Sociology and Social Research.
+  \href{mailto:fedra.negri@unimib.it}{\nolinkurl{fedra.negri@unimib.it}}
+
+  \ul{If not available, feel free to contact:}
+\item
+  Prof.~Augusto Valeriani. University of Bologna, Department of Social
+  and Political Sciences. augusto.valeriani@unibo.it
+\item
+  Prof.~Delia Baldassarri. New York University, Department of Sociology.
+  delia.b@nyu.edy
+\item
+  Prof.~Moreno Mancosu. University of Turin, Department of Culture,
+  Politics, and Society. moreno.mancosu@unito.it --\textgreater{}
+  \textless!--\#
+\end{itemize}
+
+\end{document}
