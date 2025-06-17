@@ -169,7 +169,7 @@ urlcolor: blue
 
 <!-- -->
 
-2.  How Perceived External News Efficacy Affects Trust in Journalists: A Visual Experimental Approach. (with Valeriani, A.)
+2.  How Perceived External News Efficacy Affects Trust in Journalists: A Visual Experimental Approach.
     -   Design phase
 
 <!-- -->
@@ -191,19 +191,23 @@ urlcolor: blue
 
 # Conferences, Workshops, and Seminars
 
-16. 2025 Conference of the Italian Political Science Society (SISP). Naples, 4-6 September. [accepted, participation pending on funding]
+17. 2025 Conference of the Italian Political Science Society (SISP). Naples, 4-6 September. [accepted, registered].
 
 <!-- -->
 
-15. European Consortium of Political Research (ECPR) Conference 2025, Thessaloniki, Greece, 26-29 Aug 2025 [accepted, participation pending on funding].
+16. European Consortium of Political Research (ECPR) Conference 2025, Thessaloniki, Greece, 26-29 Aug 2025 [accepted, registered].
 
 <!-- -->
 
-14. European Political Science Association (EPSA) Conference 2025, Madrid, Spain, 26-28 June 2025 [accepted, registered]
+15. 2025 Conference of the Italian Political Communication Association (ASSOCOMPOL). Milan, 4-6 July 2025 [accepted, registered].
 
 <!-- -->
 
-13. European Survey Research Association (ESRA) Conference 2025, Utrecht, The Netherlands, 14-18 July 2025 [accepted, waiting to register]
+14. European Survey Research Association (ESRA) Conference 2025, Utrecht, The Netherlands, 14-18 July 2025 [accepted, waiting to register]
+
+<!-- -->
+
+13. European Political Science Association (EPSA) Conference 2025, Madrid, Spain, 26-28 June 2025 [accepted, registered]
 
 <!-- -->
 
@@ -423,19 +427,19 @@ Canadian Journal of Political Science. Comunicazione Politica.
 
     \bigskip \hrule
 
-<!-- # Academic References -->
+# Academic References
 
-<!-- -   Stefaan Walgrave. University of Antwerp, Department of Political Science. stefaan.walgrave\@uantwerpen.be -->
+-   **Stefaan Walgrave**. University of Antwerp. stefaan.walgrave\@uantwerpen.be
 
-<!-- -   Fedra Negri. University of Milan Bicocca, Department of Sociology and Social Research. fedra.negri\@unimib.it -->
+-   **Fedra Negri**. University of Milan Bicocca. fedra.negri\@unimib.it
 
-<!-- If not available, feel free to contact -->
+If not available, feel free to contact:
 
-<!-- -   Augusto Valeriani. University of Bologna, Department of Social and Political Sciences. augusto.valeriani\@unibo.it -->
+-   **Augusto Valeriani**. University of Bologna. augusto.valeriani\@unibo.it
 
-<!-- -   Delia Baldassarri. New York University, Department of Sociology. delia.b\@nyu.edy -->
+-   **Delia Baldassarri**. New York University. delia.b\@nyu.edy
 
-<!-- -   Moreno Mancosu. University of Turin, Department of Culture, Politics, and Society. moreno.mancosu\@unito.it <!--#  -->
+-   **Moreno Mancosu**. University of Turin. moreno.mancosu\@unito.it
 
 ```{r, message=F, echo=F, warning=F, results='hide'}
 # RUN THIS TO UPDATE ALSO IN WEBSITE!
