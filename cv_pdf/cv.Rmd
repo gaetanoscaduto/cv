@@ -50,7 +50,7 @@ urlcolor: blue
 
 # **Education**
 
-## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-Feb 2026
+## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-Present day
 
 *University of Milan-Bicocca*, Milan, Italy
 
