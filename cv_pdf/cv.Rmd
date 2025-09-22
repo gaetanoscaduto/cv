@@ -218,6 +218,10 @@ urlcolor: blue
 
 # Conferences, Workshops, and Seminars
 
+18. 2025 Workshop Survey Experiments in the Social Sciences. Amsterdam Center for Inequality Studies (AMCIS). Amsterdam. 1-2 October 2025.
+
+<!-- -->
+
 17. 2025 Conference of the Italian Political Science Society (SISP). Naples, 4-6 September.
 
 <!-- -->
