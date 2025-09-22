@@ -8,7 +8,7 @@ output:
   html_document:
     df_print: paged
 geometry: margin=1.1in
-jobtitle: Ph.D Candidate. 
+jobtitle: Ph.D Candidate, Postdoctoral Researcher 
 born: Born Feb 25th, 1999 in Agrigento, Italy  
 fontawesome: yes
 #email: gaetano.scaduto@unimib.it
@@ -27,7 +27,7 @@ urlcolor: blue
 
 # Appointments
 
-## (Postdoctoral) Researcher \hfill Oct 2025-Present day
+## Postdoctoral Researcher \hfill Oct 2025-Present day
 
 -   *Erasmus University Rotterdam*. Rotterdam. The Netherlands.
 
@@ -47,6 +47,8 @@ urlcolor: blue
 
 -   *University of Milan-Bicocca*, Milan, Italy
 -   BS in Organization Science
+
+\bigskip \hrule
 
 # **Education**
 
@@ -167,12 +169,15 @@ urlcolor: blue
 
 <!-- -->
 
-1.  Decadri, S., Negri, F., **Scaduto, G.** Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. Submitted to *Political Studies Review.*
+2.  Decadri, S., Negri, F., **Scaduto, G.** Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. Submitted to *Quality & Quantity.*
+
+<!-- -->
+
+1.  **Scaduto, G.**, Negri, F., Decadri, S. Ideology at First Sight: A Comparative Study of Ideological Stereotypes in 4 European Countries. Submitted to *European Journal of Political Research*.
 
 ## Work-in-progress
 
-6.  Thinking About Politics: An Experimental Inquiry into the Mental Associations between Political and Apolitical Traits and Their Social Consequences in Italy. Doctoral dissertation (monograph, single author).
-    -   Completed. To be submitted in September 2025 due to administrative constraints of the Italian PhD system.
+6.  Thinking About Politics: An Experimental Inquiry into the Mental Associations between Political and Apolitical Traits and Their Social Consequences in Italy. Book manuscript.
 
 <!-- -->
 
@@ -186,12 +191,12 @@ urlcolor: blue
 
 <!-- -->
 
-3.  *Spotting Them from a Distance:* Mapping Ideological Stereotypes around Sociodemographics, Personality, and Lifestyles in 4 EU Countries. (with Negri, F., Decadri, S.)
-    -   First draft stage. Expected submission: June/July 2025
+3.  News Efficacy as a Mediator between Expectations and Trust in Journalism. Empirical evidence from Italy
+    -   Final draft stage. Expected submission: October 2025
 
 <!-- -->
 
-2.  How Perceived External News Efficacy Affects Trust in Journalists: A Visual Experimental Approach. (with Valeriani, A.)
+2.  How Perceived External News Efficacy Affects Trust in Journalists: A Visual Experimental Approach.
     -   First draft stage. Expected submission: October 2025.
 
 <!-- -->
@@ -421,7 +426,7 @@ Canadian Journal of Political Science. Comunicazione Politica.
 
 -   **Italian**, Native.
 -   **English**, C2.
--   **Dutch,** B1 (as of July 2025, currently studying for B2).
+-   **Dutch,** B2 (as of September 2025, currently studying for C1).
 
 ## Coding Skills/Softwares
 
@@ -437,7 +442,7 @@ Canadian Journal of Political Science. Comunicazione Politica.
 
 If not available, feel free to contact:
 
--   **Augusto Valeriani**. University of Bologna. augusto.valeriani\@unibo.it
+<!-- -   **Augusto Valeriani**. University of Bologna. augusto.valeriani\@unibo.it -->
 
 -   **Delia Baldassarri**. New York University. delia.b\@nyu.edy
 
