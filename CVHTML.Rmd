@@ -1,4 +1,10 @@
 ---
+title: "CVHTML"
+output: html_document
+date: "2025-11-10"
+---
+
+---
 title: "CV"
 author: "Gaetano Scaduto"
 output:
@@ -32,15 +38,11 @@ urlcolor: blue
 -   *Erasmus University Rotterdam*. Rotterdam. The Netherlands.
 
     -   Erasmus School of Social and Behavioural Sciences, Department of Public Administration and Sociology (DPAS), Governance and Pluralism.
-    -   Working on the project "Understanding the different meanings of climate change among the public" (PI: Professor Willem De Koster).
-    
-## (Voluntary) Fellow \hfill Sept. 2025-Present day
-
--   *University of Antwerp*, Antwerp, Belgium.
--   Faculty of Social Sciences, Department of Political Science.
--   Collaborating in the activities of the ["Media, Movement and Politics" (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/) research group and the [NOTLIKEUS](https://notlikeus.be/) project.
 
 <!-- -->
+
+-   Working on the project "Understanding the different meanings of climate change among the public"
+-   PI: Professor Willem De Koster
 
 ## Teaching Assistant (Tutor) in Public Policies \hfill Oct 2023-Sept 2025
 
@@ -121,7 +123,8 @@ urlcolor: blue
 
 ### 2025
 
-10. **Scaduto, G.**, Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. Political Behavior. <https://doi.org/10.1007/s11109-025-10102-x>
+10. **Scaduto, G.**, Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. Accepted for publication in *Political Behavior*.
+    -   Preprint available [here](https://osf.io/preprints/socarxiv/6j8nr_v1)
 
 <!-- -->
 
@@ -177,7 +180,7 @@ urlcolor: blue
 
 <!-- -->
 
-6.  **Scaduto, G.**, Negri, F., Decadri, S. Ideology at First Sight: A Comparative Study of Ideological Stereotypes in 4 European Countries. Submitted to *Political Psychology*.
+1.  **Scaduto, G.**, Negri, F., Decadri, S. Ideology at First Sight: A Comparative Study of Ideological Stereotypes in 4 European Countries. Submitted to *Political Psychology*.
 
 ## Work-in-progress
 
@@ -216,8 +219,6 @@ urlcolor: blue
 \bigskip \hrule
 
 # Conferences, Workshops, and Seminars
-
-20. "Thinking about Politics". Guest lecture in the course "Media and Politics" in the MA in Political Communication at UAntwerpen. Antwerpen, Belgium. 18 November 2025. 
 
 19. "The Visual Politics of Populism". PRIN 2022 Final Event. Online event. 6 November 2025.
 
@@ -305,8 +306,6 @@ Canadian Journal of Political Science. Comunicazione Politica.
 # Media Outreach
 
 ## Radio
-
-3.  [Buongiorno InBlu 18/11/2025](https://www.play2000.it/detail/140?episode_id=25289&season_id=908), Radio InBlu 2000.
 
 2.  [Buongiorno InBlu 23/01/2025](https://www.radioinblu.it/streaming/?vid=0_4i5p4bw4), Radio InBlu 2000.
 

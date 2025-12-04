@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.28)  16 OCT 2025 11:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.5.28)  9 OCT 2025 12:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**"C:/Users/gasca/OneDrive - Erasmus University Rotterdam/Dottorato/Website/academic_cv.tex"
-(c:/Users/gasca/OneDrive - Erasmus University Rotterdam/Dottorato/Website/academic_cv.tex
+**cv_expatrule.tex
+(./cv_expatrule.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
 (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/base/article.cls
@@ -359,8 +359,8 @@ LaTeX Info: Redefining \today on input line 736.
 ) (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-04-14 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count334
-) (./academic_cv.aux)
-\openout1 = `academic_cv.aux'.
+) (./cv_expatrule.aux)
+\openout1 = `cv_expatrule.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 103.
 LaTeX Font Info:    ... okay on input line 103.
@@ -426,9 +426,9 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 ) (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/graphics/mathcolor.ltx))
 Package hyperref Info: Link coloring ON on input line 103.
-(./academic_cv.out) (./academic_cv.out)
+(./cv_expatrule.out) (./cv_expatrule.out)
 \@outlinefile=\write3
-\openout3 = `academic_cv.out'.
+\openout3 = `cv_expatrule.out'.
 
 (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/fmtcount/fc-english.def
 File: fc-english.def 2016/01/12
@@ -438,80 +438,49 @@ LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inpu
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 
+LaTeX Font Warning: Font shape `T1/pplj/b/sc' undefined
+(Font)              using `T1/pplj/b/n' instead on input line 178.
+
+
+
 [1
 
 {c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc}{c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}]
-LaTeX Font Info:    Trying to load font information for OT1+pplx on input line 348.
-(c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1pplx.fd
-File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
-)
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 348.
-(c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
-File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
-)
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 348.
-(c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
-File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
-)
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 348.
-(c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
-File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
-)
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 348.
-(c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
-File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-)
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 348.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 348.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 348.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 10.42007pt on input line 348.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.91925pt on input line 348.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 348.
-
 
 [2]
-
-[3]
-
-[4]
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 882.
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 534.
 (c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 )
 
-[5]
+[3]
 
-[6]
-
-[7] 
+[4] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
-(./academic_cv.aux)
+(./cv_expatrule.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-04-29>
  ***********
-Package rerunfilecheck Info: File `academic_cv.out' has not changed.
-(rerunfilecheck)             Checksum: B055B8FC5D922FBAB71F6828BA16DF57;9200.
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `cv_expatrule.out' has not changed.
+(rerunfilecheck)             Checksum: 5E61A01C0A07C3F9155DE850BE1EC257;8356.
  ) 
 Here is how much of TeX's memory you used:
- 13753 strings out of 471571
- 212868 string characters out of 5519050
- 620721 words of memory out of 5000000
- 40024 multiletter control sequences out of 15000+600000
- 663634 words of font info for 94 fonts, out of 8000000 for 9000
+ 13571 strings out of 471571
+ 209868 string characters out of 5519050
+ 620689 words of memory out of 5000000
+ 39921 multiletter control sequences out of 15000+600000
+ 656380 words of font info for 73 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 72i,11n,79p,1275b,585s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on academic_cv.pdf (7 pages, 156807 bytes).
+ 72i,11n,79p,1201b,520s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/gasca/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
+Output written on cv_expatrule.pdf (4 pages, 131319 bytes).
 PDF statistics:
- 389 PDF objects out of 1000 (max. 8388607)
- 342 compressed objects within 4 object streams
- 108 named destinations out of 1000 (max. 500000)
- 345 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 254 PDF objects out of 1000 (max. 8388607)
+ 213 compressed objects within 3 object streams
+ 53 named destinations out of 1000 (max. 500000)
+ 257 words of extra memory for PDF output out of 10000 (max. 10000000)
 
