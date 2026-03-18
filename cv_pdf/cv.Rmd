@@ -32,31 +32,43 @@ urlcolor: blue
 -   *Erasmus University Rotterdam*. Rotterdam. The Netherlands.
 
     -   Erasmus School of Social and Behavioural Sciences, Department of Public Administration and Sociology (DPAS), Governance and Pluralism.
-    -   Working on the project "Understanding the different meanings of climate change among the public" (PI: Professor Willem De Koster).
-    
+    -   Working on the project [CLIMEANING](https://www.nwo.nl/en/projects/domyz32585) (PI: Professor Willem De Koster).
+
+## Thesis supervisor \hfill Mar 2026-Present day
+
+-   *Erasmus University Rotterdam*. Rotterdam. The Netherlands.
+
+    -   Erasmus School of Social and Behavioural Sciences, Department of Public Administration and Sociology (DPECS)
+
 ## (Voluntary) Fellow \hfill Sept. 2025-Present day
 
 -   *University of Antwerp*, Antwerp, Belgium.
 -   Faculty of Social Sciences, Department of Political Science.
 -   Collaborating in the activities of the ["Media, Movement and Politics" (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/) research group and the [NOTLIKEUS](https://notlikeus.be/) project.
 
+## Visiting Fellow \hfill March 2026-April 2026
+
+-   *Collegio Carlo Alberto*, Turin, Italy.
+
 <!-- -->
 
-## Teaching Assistant (Tutor) in Public Policies \hfill Oct 2023-Sept 2025
+## Teaching Assistant in Public Policies \hfill Oct 2023-Sept 2025
 
 -   *University of Milan-Bicocca*, Milan, Italy
 -   BS in Organization Science
+-   More than 16 hours of in-class teaching, in addition to other duties
 
-## Teaching Assistant (Tutor) in Mathematics \hfill Nov 2023-Sept 2025
+## Teaching Assistant in Mathematics \hfill Nov 2023-Sept 2025
 
 -   *University of Milan-Bicocca*, Milan, Italy
 -   BS in Organization Science
+-   More than 16 hours of in-class teaching, in addition to other duties
 
 \bigskip \hrule
 
 # **Education**
 
-## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-Present day
+## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-Feb 2026
 
 *University of Milan-Bicocca*, Milan, Italy
 
@@ -167,41 +179,80 @@ urlcolor: blue
 
 ## R&Rs/Under review
 
-4.  Goovaerts, I., Tsoulou-Malakoudi, A., **Scaduto, G.**, Feitosa, F., Lefevere, J. Divided Beyond Politics: How Perceptions of Non-Political Differences Are Linked to Affective Polarization Among Citizens. Under review in *European Political Science Review*
-
-5.  Tsoulou-Malakoudi, A., Goovaerts, I., **Scaduto, G.**, Van Erkel, P., Walgrave, S. Political others are perceived as non-politically different. R&R in *European Journal of Political Research.*
+-   Goovaerts, I., Tsoulou-Malakoudi, A., **Scaduto, G.**, Feitosa, F., Lefevere, J. Divided Beyond Politics: How Perceptions of Non-Political Differences Are Linked to Affective Polarization Among Citizens. R&R in *Electoral Studies*
 
 <!-- -->
 
-2.  Decadri, S., Negri, F., **Scaduto, G.** Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. Submitted to *Quality & Quantity.*
+<!-- -->
+
+-   Tsoulou-Malakoudi, A., Goovaerts, I., **Scaduto, G.**, Van Erkel, P., Walgrave, S. Political others are perceived as non-politically different. R&R in *European Journal of Political Research.*
 
 <!-- -->
 
-6.  **Scaduto, G.**, Negri, F., Decadri, S. Ideology at First Sight: A Comparative Study of Ideological Stereotypes in 4 European Countries. Submitted to *Political Psychology*.
+<!-- -->
+
+-   Decadri, S., Negri, F., **Scaduto, G.** Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. Under review in *Quality & Quantity.*
+
+<!-- -->
+
+<!-- -->
+
+-   **Scaduto, G.**, Negri, F., Decadri, S. Ideology at First Sight: A Comparative Study of Ideological Stereotypes in 4 European Countries. Under review in *International Journal of Public Opinion Research*.
 
 ## Work-in-progress
 
-5.  Thinking About Politics: An Experimental Inquiry into the Mental Associations between Political and Apolitical Traits and Their Social Consequences in Italy. Book manuscript.
+-   Thinking About Politics: Political Stereotypes, Projections, and Their Social Consequences in Italy. Book manuscript. Contract signed with Palgrave MacMillan. Forthcoming in 2027.
 
 <!-- -->
 
-4.  A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles. (with Decadri, S., Negri, F.)
-    -   First draft stage. Expected submission: June/July 2025
+<!-- -->
+
+-   A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles. (with Decadri, S., Negri, F.)
+    -   Submitted/In Submission
 
 <!-- -->
 
-3.  News Efficacy as a Mediator between Expectations and Trust in Journalism. Empirical evidence from Italy
-    -   Final draft stage. Expected submission: October 2025
+<!-- -->
+
+-   A Visual Conjoint Experiment on Trust Dynamics involving politicians on Instagra,. (with Decadri, S., Negri, F.)
+    -   Submitted/In Submission
 
 <!-- -->
 
-2.  How Perceived External News Efficacy Affects Trust in Journalists: A Visual Experimental Approach.
-    -   First draft stage. Expected submission: October 2025.
+<!-- -->
+
+-   News Efficacy as a Mediator between Expectations and Trust in Journalism. Empirical evidence from Italy (with Valeriani, A., Garusi, D., Splendore, S.)
+    -   Submitted/In Submission
 
 <!-- -->
 
-1.  Exploring Second-Order Beliefs around EU Membership in Norway. (with Faleide, I.)
-    -   Design phase
+<!-- -->
+
+-   How Perceived External News Efficacy Affects Trust in Journalists: A Visual Experimental Approach. (with Valeriani, A.)
+    -   Submitted/In Submission
+
+<!-- -->
+
+<!-- -->
+
+-   What does Climate Change mean to you? A Focus Group Study in Italy (with Kemmers, R., de Koster, W.)
+    -   In writing
+
+<!-- -->
+
+<!-- -->
+
+-   Network Heterogeneity in European Multiparty Contexts: Direct and Secondary Associations with Ideology-based Affective Evaluations (with Nijs, T., de Koster, W., Negri, F.)
+    -   In writing
+
+<!-- -->
+
+<!-- -->
+
+-   AI and political communication, a correlational study in Italy (with Bertero, A., Valeriani, A.)
+    -   Designing
+
+<!-- -->
 
 ## Datasets (publicly available)
 
@@ -217,9 +268,13 @@ urlcolor: blue
 
 # Conferences, Workshops, and Seminars
 
-20. "Thinking about Politics". Guest lecture in the course "Media and Politics" in the MA in Political Communication at UAntwerpen. Antwerpen, Belgium. 18 November 2025. 
+20. "*It Takes Two to Trust*: Multi-modal Experimental Evidence of Newsmakers’ Influence on Trust-Based Choices". Collegio Carlo Alberto. Turin, Italy. 8 March 2026.
+
+<!-- -->
 
 19. "The Visual Politics of Populism". PRIN 2022 Final Event. Online event. 6 November 2025.
+
+<!-- -->
 
 18. 2025 Workshop Survey Experiments in the Social Sciences. Amsterdam Center for Inequality Studies (AMCIS). Amsterdam, The Netherlands. 1-2 October 2025.
 
@@ -294,11 +349,41 @@ urlcolor: blue
 
 \bigskip \hrule
 
+# Guest Lectures
+
+6.  "How to replicate an experimental study?". Allievi program in Social and Political Sciences (Course of Applied Statistics to Social and Political Sciences). Spring semester. 9 March 2026.
+
+<!-- -->
+
+5.  "Thinking about Politics". MA in Political Communication, University of Antwerp. Fall Semester, 2025.
+
+<!-- -->
+
+4.  "A practical introduction to the statistical software R for the analysis of electoral data". BA in Organization Sciences, University of Milan-Bicocca, Fall semester, 2023.
+    -   Teaching material is available [here](https://github.com/gaetanoscaduto/teaching/tree/main/introduzioneR).
+
+<!-- -->
+
+3.  "Problems with collective decision-making: Condorcet’s paradox, strategic misreporting, and Arrow’s theorem". BA in Organization Sciences, University of Milan-Bicocca, Fall semester, 2023.
+    -   Teaching material is available [here](https://github.com/gaetanoscaduto/teaching/tree/main/CondorcetPP).
+
+<!-- -->
+
+2.  "Political polarization and the state of the art regarding research on political inferences from apolitical cues". BA in Organization Sciences, University of Milan-Bicocca, Spring semester, 2023.
+    -   You can download the slides [here](https://gaetanoscaduto.github.io/teaching_materials/Polarizzazione.pdf).
+
+<!-- -->
+
+1.  "An introduction to linear regression". BA in Organization Sciences, University of Milan-Bicocca, Spring semester, 2023.
+    -   You can download the material I produced (a medium-length document presenting the general topic) [here](https://gaetanoscaduto.github.io/teaching_materials/Dispensa_regressione.pdf).
+
+\bigskip \hrule
+
 # Editorial Activities
 
 ## Reviewer for:
 
-Canadian Journal of Political Science. Comunicazione Politica.
+International Journal of Public Opinion Research, Canadian Journal of Political Science, Comunicazione Politica.
 
 \bigskip \hrule
 
@@ -308,7 +393,7 @@ Canadian Journal of Political Science. Comunicazione Politica.
 
 3.  [Buongiorno InBlu 18/11/2025](https://www.play2000.it/detail/140?episode_id=25289&season_id=908), Radio InBlu 2000.
 
-2.  [Buongiorno InBlu 23/01/2025](https://www.radioinblu.it/streaming/?vid=0_4i5p4bw4), Radio InBlu 2000.
+4.  [Buongiorno InBlu 23/01/2025](https://www.radioinblu.it/streaming/?vid=0_4i5p4bw4), Radio InBlu 2000.
 
 <!-- -->
 
@@ -435,7 +520,7 @@ Canadian Journal of Political Science. Comunicazione Politica.
 
 -   **Italian**, Native.
 -   **English**, C2.
--   **Dutch,** B2 (as of September 2025, currently studying for C1).
+-   **Dutch,** C1 speaking, B2 writing, currently studying for full C1.
 
 ## Coding Skills/Softwares
 
