@@ -8,7 +8,7 @@ output:
   html_document:
     df_print: paged
 geometry: margin=1.1in
-jobtitle: Ph.D Candidate, Postdoctoral Researcher 
+jobtitle: Postdoctoral Researcher 
 born: Born Feb 25th, 1999 in Agrigento, Italy  
 fontawesome: yes
 #email: gaetano.scaduto@unimib.it
