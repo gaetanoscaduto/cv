@@ -27,40 +27,44 @@ urlcolor: blue
 
 # Appointments
 
-## Postdoctoral Researcher \hfill Oct 2025-Present day
+## Postdoctoral Researcher \hfill Oct 2025-Present
 
--   *Erasmus University Rotterdam*. Rotterdam. The Netherlands.
+*Erasmus University Rotterdam*. Rotterdam. The Netherlands.
 
-    -   Erasmus School of Social and Behavioural Sciences, Department of Public Administration and Sociology (DPAS), Governance and Pluralism.
-    -   Working on the project [CLIMEANING](https://www.nwo.nl/en/projects/domyz32585) (PI: Professor Willem De Koster).
+-   Erasmus School of Social and Behavioural Sciences, Department of Public Administration and Sociology (DPAS), Governance and Pluralism.
+-   Working on the project [CLIMEANING](https://www.nwo.nl/en/projects/domyz32585) (PI: Willem De Koster).
 
-## Thesis supervisor \hfill Mar 2026-Present day
+## Thesis Supervisor \hfill Mar 2026-Present
 
--   *Erasmus University Rotterdam*. Rotterdam. The Netherlands.
+*Erasmus University Rotterdam*. Rotterdam. The Netherlands.
 
-    -   Erasmus School of Social and Behavioural Sciences, Department of Public Administration and Sociology (DPECS)
+-   Erasmus School of Social and Behavioural Sciences, Department of Psychology, Education, and Child Studies (DPECS).
+-   First supervisor of 13 bachelor theses.
 
-## (Voluntary) Fellow \hfill Sept. 2025-Present day
+## (Voluntary) Fellow \hfill Sep 2025-Present
 
--   *University of Antwerp*, Antwerp, Belgium.
+*University of Antwerp*, Antwerp, Belgium.
+
 -   Faculty of Social Sciences, Department of Political Science.
 -   Collaborating in the activities of the ["Media, Movement and Politics" (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/) research group and the [NOTLIKEUS](https://notlikeus.be/) project.
 
-## Visiting Fellow \hfill March 2026-April 2026
+## Visiting Fellow \hfill Mar 2026-Apr 2026
 
--   *Collegio Carlo Alberto*, Turin, Italy.
+*Collegio Carlo Alberto*, Turin, Italy.
 
 <!-- -->
 
-## Teaching Assistant in Public Policies \hfill Oct 2023-Sept 2025
+## Teaching Assistant in Public Policies \hfill Oct 2023-Sep 2025
 
--   *University of Milan-Bicocca*, Milan, Italy
+*University of Milan-Bicocca*, Milan, Italy
+
 -   BS in Organization Science
 -   More than 16 hours of in-class teaching, in addition to other duties
 
-## Teaching Assistant in Mathematics \hfill Nov 2023-Sept 2025
+## Teaching Assistant in Mathematics \hfill Nov 2023-Sep 2025
 
--   *University of Milan-Bicocca*, Milan, Italy
+*University of Milan-Bicocca*, Milan, Italy
+
 -   BS in Organization Science
 -   More than 16 hours of in-class teaching, in addition to other duties
 
@@ -68,45 +72,50 @@ urlcolor: blue
 
 # **Education**
 
-## Ph.D Student in Analysis of Social and Economic Processes \hfill Nov 2022-Feb 2026
+## Ph.D. Student in Analysis of Social and Economic Processes \hfill Nov 2022-Feb 2026
 
 *University of Milan-Bicocca*, Milan, Italy
 
 -   Supervisors: Fedra Negri (Unimib), Delia Baldassarri (New York University).
 -   Thesis title: "Thinking About Politics: An Experimental Inquiry into the Mental Associations between Political and Apolitical Traits and Their Social Consequences in Italy"
+-   Final evaluation: Excellent
 
-## Visiting Ph.D Student \hfill Feb 2024-Aug 2025
+## Visiting Ph.D. Student \hfill Feb 2024-Aug 2025
 
--   *University of Antwerp*, Antwerp, Belgium
+*University of Antwerp*, Antwerp, Belgium
+
 -   Supervisor: Stefaan Walgrave
--   Collaborating in the activities of the ["Media, Movement and Politics" (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/) research group and the [NOTLIKEUS](https://notlikeus.be/) project as a visiting researcher during my PhD. at the University of Milan Bicocca
+-   Collaborating in the activities of the ["Media, Movement and Politics" (M2P)](https://www.uantwerpen.be/en/research-groups/m2p/) research group and the [NOTLIKEUS](https://notlikeus.be/) project as a visiting researcher during my Ph.D. at the University of Milan Bicocca
 
-## Master's Degree in Political and Public Communication \hfill Sep 2020-July 2022
+## Master's Degree in Political and Public Communication \hfill Sep 2020-Jul 2022
 
--   *University of Turin*, Turin, Italy
+*University of Turin*, Turin, Italy
+
 -   Thesis supervisor: Moreno Mancosu
 -   Thesis title: "A country of upbeat songs while there is death outside? Analysis of Italian politicians' visual communication on Instagram during the Covid-19 pandemic"
--   Final grade: 110/110 with honors, special mention, and rights of publication
+-   Final grade: 110/110 with honors, special mention, and rights of publication (*dignità di stampa*).
 
 ## Bachelor's Degree in Mathematics for Engineering \hfill Sep 2017-Jul 2020
 
--   *Polytechnic University of Turin*, Turin, Italy
+*Polytechnic University of Turin*, Turin, Italy
+
 -   Thesis supervisor: Giacomo Como
 -   Thesis title: "Social Choice Theory"
 -   Final grade: 110/110
 
 ## High School Diploma\hfill Sep 2012-Jul 2017
 
--   *Liceo Classico "Empedocle"*, Agrigento, Italy
--   Final Grade: 100/100 with honors
+*Liceo Classico "Empedocle"*, Agrigento, Italy
+
+-   Final grade: 100/100 with honors
 
 \bigskip \hrule
 
 # Summer Schools, Winter Schools, and Short Courses
 
-## The Summer Institutes in Computational Social Science, University of Bologna \hfill  June 2024
+## The Summer Institutes in Computational Social Science, University of Bologna \hfill  Jun 2024
 
--   2-weeks summer school on computational methods, with competitive selection process.
+-   2-week summer school on computational methods, with competitive selection process.
 -   Various teachers.
 
 ## Essex Summer School in Social Science Data Analysis, University of Essex \hfill  Jul-Aug 2023
@@ -137,7 +146,7 @@ urlcolor: blue
 
 <!-- -->
 
-9.  **Scaduto, G**. (2025). Politicultural Linking: Inferences between Political and Apolitical Traits. Public Opinion Quarterly, 89(3). <https://doi.org/10.1093/poq/nfaf047>.
+9.  **Scaduto, G.** Politicultural Linking: Inferences between Political and Apolitical Traits. Public Opinion Quarterly, 89(3). <https://doi.org/10.1093/poq/nfaf047>.
 
 <!-- -->
 
@@ -145,7 +154,7 @@ urlcolor: blue
 
 <!-- -->
 
-7.  Respi, C., Gui, M., **Scaduto, G.**, Serini, M., Pizzul, D., Gerosa, T., & Lutz, C. (2024). Lower Cynicism, Not Higher Literacy, Promotes Protective Behavior: Exploring the “privacy exception” in the Digital Inequality Framework. *Social Science Computer Review*. <https://doi.org/10.1177/08944393251341201>
+7.  Respi, C., Gui, M., **Scaduto, G.**, Serini, M., Pizzul, D., Gerosa, T., & Lutz, C. Lower Cynicism, Not Higher Literacy, Promotes Protective Behavior: Exploring the “privacy exception” in the Digital Inequality Framework. *Social Science Computer Review*. <https://doi.org/10.1177/08944393251341201>
 
 ### 2024
 
@@ -175,13 +184,11 @@ urlcolor: blue
 
 ### 2024
 
-1.  Negri, F. **Scaduto, G.** Le «politologhe» e i «politologi» tra scienza e dibattito pubblico. In Verzichelli, L. La Scienza Politica Italiana, 50 anni dopo. Il Mulino.
+1.  Negri, F., **Scaduto, G.** Le «politologhe» e i «politologi» tra scienza e dibattito pubblico. In Verzichelli, L. La Scienza Politica Italiana, 50 anni dopo. Il Mulino.
 
-## R&Rs/Under review
+## R&Rs/Under Review
 
 -   Goovaerts, I., Tsoulou-Malakoudi, A., **Scaduto, G.**, Feitosa, F., Lefevere, J. Divided Beyond Politics: How Perceptions of Non-Political Differences Are Linked to Affective Polarization Among Citizens. R&R in *Electoral Studies*
-
-<!-- -->
 
 <!-- -->
 
@@ -189,68 +196,56 @@ urlcolor: blue
 
 <!-- -->
 
-<!-- -->
-
--   Decadri, S., Negri, F., **Scaduto, G.** Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. Under review in *Quality & Quantity.*
+-   Decadri, S., Negri, F., **Scaduto, G.** Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. R&R in *Quality & Quantity.*
 
 <!-- -->
 
+-   **Scaduto, G.**, Negri, F., Decadri, S. Ideology at First Sight: A Comparative Study of Ideological Stereotypes in 4 European Countries. R&R in *International Journal of Public Opinion Research*.
+
 <!-- -->
 
--   **Scaduto, G.**, Negri, F., Decadri, S. Ideology at First Sight: A Comparative Study of Ideological Stereotypes in 4 European Countries. Under review in *International Journal of Public Opinion Research*.
+-   **Scaduto, G.**, Valeriani, A. It Takes Two to Trust: Multi-modal Experimental Evidence of News Creators’ Influence on Trust-Based Decisions. Under Review in *International Journal of Press/Politics*
+    -   Preprint available [here](https://osf.io/preprints/socarxiv/tb6gh_v1)
+
+<!-- -->
+
+-   Negri, F., Decadri, S., **Scaduto, G.** A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
+    -   Under Review in *Political Behavior*
+
+<!-- -->
+
+-   Valeriani, A., Garusi, D., **Scaduto, G.,** Splendore, S. News Efficacy as a Mediator between Expectations and Trust in Journalism. Empirical evidence from Italy.
+    -   Under Review in *Communication Research*
 
 ## Work-in-progress
 
--   Thinking About Politics: Political Stereotypes, Projections, and Their Social Consequences in Italy. Book manuscript. Contract signed with Palgrave MacMillan. Forthcoming in 2027.
+-   **Scaduto, G.** Thinking About Politics: Political Stereotypes, Projections, and Their Social Consequences in Italy. Book manuscript. Contract signed with Palgrave MacMillan. Forthcoming in 2027.
 
 <!-- -->
 
+-   **Scaduto, G.**, Kemmers, R., de Koster, W. What does Climate Change mean to you? A Focus Group Study in Italy.
+    -   Submitted/In Submission
+    -   Scheduled for presentation in *Dag van de Sociologie 2026*, *ASA 2026*
+
 <!-- -->
 
--   A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles. (with Decadri, S., Negri, F.)
+-   **Scaduto, G.**, Nijs, T., de Koster, W., Negri, F. Network Heterogeneity in European Multiparty Contexts: Direct and Secondary Associations with Ideology-based Affective Evaluations.
+    -   Submitted/In Submission
+    -   Scheduled for presentation in *Dag van de Sociologie 2026*, *Politicologenetmaal 2026, ASA 2026*
+
+<!-- -->
+
+-   **Scaduto, G.** Chapter 11. Party Communication and the Role of Images (Visual Analysis). In Close, C., Legein, T. Researching party politics Data, methods and (good) practices. Forthcoming in 2027.
+
+<!-- -->
+
+-   Negri, F., Decadri, S., **Scaduto, G.** A Visual Conjoint Experiment on Trust Dynamics involving politicians on Instagram.
     -   Submitted/In Submission
 
 <!-- -->
 
-<!-- -->
-
--   A Visual Conjoint Experiment on Trust Dynamics involving politicians on Instagra,. (with Decadri, S., Negri, F.)
-    -   Submitted/In Submission
-
-<!-- -->
-
-<!-- -->
-
--   News Efficacy as a Mediator between Expectations and Trust in Journalism. Empirical evidence from Italy (with Valeriani, A., Garusi, D., Splendore, S.)
-    -   Submitted/In Submission
-
-<!-- -->
-
-<!-- -->
-
--   How Perceived External News Efficacy Affects Trust in Journalists: A Visual Experimental Approach. (with Valeriani, A.)
-    -   Submitted/In Submission
-
-<!-- -->
-
-<!-- -->
-
--   What does Climate Change mean to you? A Focus Group Study in Italy (with Kemmers, R., de Koster, W.)
+-   **Scaduto, G.**, Bertero, A., Valeriani, A. AI and political communication, a correlational study in Italy
     -   In writing
-
-<!-- -->
-
-<!-- -->
-
--   Network Heterogeneity in European Multiparty Contexts: Direct and Secondary Associations with Ideology-based Affective Evaluations (with Nijs, T., de Koster, W., Negri, F.)
-    -   In writing
-
-<!-- -->
-
-<!-- -->
-
--   AI and political communication, a correlational study in Italy (with Bertero, A., Valeriani, A.)
-    -   Designing
 
 <!-- -->
 
@@ -268,11 +263,31 @@ urlcolor: blue
 
 # Conferences, Workshops, and Seminars
 
+25. European Consortium of Political Research (ECPR) Conference 2026, Krakow, Poland, 8-11 September 2026 (accepted, registered).
+
+<!-- -->
+
+24. 2026 Conference of the Italian Political Science Society (SISP). Trento, 3-5 September 2026 (accepted, registered).
+
+<!-- -->
+
+23. American Sociological Association Conference 2026. New York, United States, 7-11 August 2026 (accepted, registered).
+
+<!-- -->
+
+22. Politicologenetmaal 2026. Gent, Belgium, 11-12 June 2026 (accepted, registered).
+
+<!-- -->
+
+21. Dag van de Sociologie 2026. Antwerp, Belgium, 26 May 2026 (accepted, registered).
+
+<!-- -->
+
 20. "*It Takes Two to Trust*: Multi-modal Experimental Evidence of Newsmakers’ Influence on Trust-Based Choices". Collegio Carlo Alberto. Turin, Italy. 8 March 2026.
 
 <!-- -->
 
-19. "The Visual Politics of Populism". PRIN 2022 Final Event. Online event. 6 November 2025.
+19. "The Visual Politics of Populism". PRIN [Italian Ministry of University and Research grant] 2022 Final Event. Online event. 6 November 2025.
 
 <!-- -->
 
@@ -280,7 +295,7 @@ urlcolor: blue
 
 <!-- -->
 
-17. 2025 Conference of the Italian Political Science Society (SISP). Naples, 4-6 September.
+17. 2025 Conference of the Italian Political Science Society (SISP). Naples, 4-6 September 2025.
 
 <!-- -->
 
@@ -288,7 +303,7 @@ urlcolor: blue
 
 <!-- -->
 
-15. European Survey Research Association (ESRA) Conference 2025, Utrecht, The Netherlands, 14-18 July 2025 [accepted, waiting to register]
+15. European Survey Research Association (ESRA) Conference 2025, Utrecht, The Netherlands, 14-18 July 2025
 
 <!-- -->
 
@@ -349,7 +364,12 @@ urlcolor: blue
 
 \bigskip \hrule
 
-# Guest Lectures
+# Guest Lectures/Short Courses
+
+7.  "Introduction to R". Crash course during the Metrisp Crash Course Day. SISP 2026 Conference. Trento, 2 September 2026 (appointed).
+    -   Teaching material is available [here](https://github.com/gaetanoscaduto/Crash_Course_R).
+
+<!-- -->
 
 6.  "How to replicate an experimental study?". Allievi program in Social and Political Sciences (Course of Applied Statistics to Social and Political Sciences). Spring semester. 9 March 2026.
 
@@ -391,29 +411,25 @@ International Journal of Public Opinion Research, Canadian Journal of Political 
 
 ## Radio
 
-3.  [Buongiorno InBlu 18/11/2025](https://www.play2000.it/detail/140?episode_id=25289&season_id=908), Radio InBlu 2000.
-
-4.  [Buongiorno InBlu 23/01/2025](https://www.radioinblu.it/streaming/?vid=0_4i5p4bw4), Radio InBlu 2000.
-
-<!-- -->
-
-1.  [Buongiorno InBlu 25/10/2024](https://www.radioinblu.it/streaming/?vid=0_onrwcs4r), Radio InBlu 2000.
+-   [Buongiorno InBlu 18/11/2025](https://www.play2000.it/detail/140?episode_id=25289&season_id=908), Radio InBlu 2000.
+-   [Buongiorno InBlu 23/01/2025](https://www.radioinblu.it/streaming/?vid=0_4i5p4bw4), Radio InBlu 2000.
+-   [Buongiorno InBlu 25/10/2024](https://www.radioinblu.it/streaming/?vid=0_onrwcs4r), Radio InBlu 2000.
 
 ## Online media
 
-4.  "[Talk-show politici, lo specchio di un’Italia polarizzata](https://lavoce.info/archives/106804/talk-show-politici-lo-specchio-di-unitalia-polarizzata/)" (with Negri F., in Italian)**.** LaVoce.info. January 2025.
+-   "[Talk-show politici, lo specchio di un’Italia polarizzata](https://lavoce.info/archives/106804/talk-show-politici-lo-specchio-di-unitalia-polarizzata/)" (with Negri F., in Italian)**.** LaVoce.info. January 2025.
 
 <!-- -->
 
-3.  '["Ze zijn niet zoals wij": hoe kiezers kijken naar andere kiezers](https://www.sampol.be/2024/12/ze-zijn-niet-zoals-wij-hoe-kiezers-kijken-naar-andere-kiezers)' (with Tsoulou-Malakoudi, A. & Goovaerts, I., in Dutch). Samenleving & Politiek. December 2024.
+-   '["Ze zijn niet zoals wij": hoe kiezers kijken naar andere kiezers](https://www.sampol.be/2024/12/ze-zijn-niet-zoals-wij-hoe-kiezers-kijken-naar-andere-kiezers)' (with Tsoulou-Malakoudi, A. & Goovaerts, I., in Dutch). Samenleving & Politiek. December 2024.
 
 <!-- -->
 
-2.  "[What your menu choice says about your politics](https://theloop.ecpr.eu/what-your-menu-choice-says-about-your-politics/)" (with Negri F.). The Loop. October 2024.
+-   "[What your menu choice says about your politics](https://theloop.ecpr.eu/what-your-menu-choice-says-about-your-politics/)" (with Negri F.). The Loop. October 2024.
 
 <!-- -->
 
-1.  "[Dimmi cosa mangi e ti dirò che partito voti](https://lavoce.info/archives/106171/dimmi-cosa-mangi-e-ti-diro-che-partito-voti/)" (with Negri F., in Italian)**.** LaVoce.info. October 2024.
+-   "[Dimmi cosa mangi e ti dirò che partito voti](https://lavoce.info/archives/106171/dimmi-cosa-mangi-e-ti-diro-che-partito-voti/)" (with Negri F., in Italian)**.** LaVoce.info. October 2024.
 
 \bigskip \hrule
 
@@ -434,11 +450,11 @@ International Journal of Public Opinion Research, Canadian Journal of Political 
 
 -   **Ph.D. Scholarship** University of Trento, Department of Sociology and Social Research (Declined to accept Ph.D. scholarship at UNIMIB)
 
--   **Scholarship - Excellence's Project 2022**, Department of Culture, Politics and Society - University of Turin - 1500€
+-   **Scholarship - Excellence Project 2022**, Department of Culture, Politics and Society - University of Turin - 1500€
 
--   **Study's prize 2021**, Renato Einaudi University College of Turin - 1500€
+-   **Study prize 2021**, Renato Einaudi University College of Turin - 1500€
 
--   **Study's prize 2019**, Renato Einaudi University College of Turin - 2500€
+-   **Study prize 2019**, Renato Einaudi University College of Turin - 2500€
 
 -   **Scholarship by EDISU Piemonte (Regional Agency for Educational Rights) 2021**. Awarded through the combination of (higher) academic performance and (lower) parental income - 5100€
 
@@ -468,7 +484,7 @@ International Journal of Public Opinion Research, Canadian Journal of Political 
 
 <!--     -   Involvement in the activities related to the “NotLikeUS" project. [See here for details](https://notlikeus.be/). -->
 
--   **Research Collaborator,** *University of Milan-Bicocca*, Italy \hfill Sept 2023-Aug 2025
+-   **Research Collaborator,** *University of Milan-Bicocca*, Italy \hfill Sep 2023-Aug 2025
 
     -   Involvement in the activities related to the project “VIPOP - The visual politics of populism” (PI: Mattia Zulianello, UniTS; Vice PIs: Fedra Negri, Unimib; Luigi Curini, Unimi). These activities included (but were not limited to):
         a)  Designing a survey fielded in 4 European countries
@@ -489,7 +505,7 @@ International Journal of Public Opinion Research, Canadian Journal of Political 
 
     -   Assisted in the activities related to the 2023 European Survey Research Association Conference.
 
--   **Research Fellow**, *Collegio Carlo Alberto*, Turin \hfill May-June 2022
+-   **Research Fellow**, *Collegio Carlo Alberto*, Turin \hfill May-Jun 2022
 
     -   Data gathering on the media outlets of 47 countries with research purposes. Data analysis on survey results (Stata, R). Data entry and data management (Excel).
 
@@ -520,7 +536,7 @@ International Journal of Public Opinion Research, Canadian Journal of Political 
 
 -   **Italian**, Native.
 -   **English**, C2.
--   **Dutch,** C1 speaking, B2 writing, currently studying for full C1.
+-   **Dutch**, C1 speaking, B2 writing, exam for C1 writing scheduled for June 2026.
 
 ## Coding Skills/Softwares
 
@@ -530,15 +546,17 @@ International Journal of Public Opinion Research, Canadian Journal of Political 
 
 # Academic References
 
--   **Stefaan Walgrave**. University of Antwerp. stefaan.walgrave\@uantwerpen.be
+-   **Willem de Koster**. Erasmus University Rotterdam. [dekoster\@essb.eur.nl](mailto:dekoster@essb.eur.nl){.email}
 
--   **Fedra Negri**. University of Milan Bicocca. fedra.negri\@unimib.it
+-   **Stefaan Walgrave**. University of Antwerp. stefaan.walgrave\@uantwerpen.be
 
 If not available, feel free to contact:
 
 <!-- -   **Augusto Valeriani**. University of Bologna. augusto.valeriani\@unibo.it -->
 
--   **Delia Baldassarri**. New York University. delia.b\@nyu.edy
+-   **Delia Baldassarri**. New York University. delia.b\@nyu.edu
+
+-   **Fedra Negri**. University of Milan Bicocca. fedra.negri\@unimib.it
 
 -   **Moreno Mancosu**. University of Turin. moreno.mancosu\@unito.it
 
