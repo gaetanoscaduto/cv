@@ -138,15 +138,19 @@ urlcolor: blue
 
 # Publications
 
+## Books
+
+1.   **Scaduto, G.** Thinking About Politics: Political Stereotypes, Projections, and Their Social Consequences in Italy. Book manuscript. *Palgrave MacMillan*. Forthcoming (2027).
+
 ## Papers published/accepted in peer-reviewed journals
 
 ### 2025
 
-10. **Scaduto, G.**, Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. Political Behavior. <https://doi.org/10.1007/s11109-025-10102-x>
+10. **Scaduto, G.**, Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. *Political Behavior*. <https://doi.org/10.1007/s11109-025-10102-x>
 
 <!-- -->
 
-9.  **Scaduto, G.** Politicultural Linking: Inferences between Political and Apolitical Traits. Public Opinion Quarterly, 89(3). <https://doi.org/10.1093/poq/nfaf047>.
+9.  **Scaduto, G.** Politicultural Linking: Inferences between Political and Apolitical Traits. *Public Opinion Quarterly*, 89(3). <https://doi.org/10.1093/poq/nfaf047>.
 
 <!-- -->
 
@@ -188,6 +192,10 @@ urlcolor: blue
 
 ## R&Rs/Under Review
 
+-   **Scaduto, G.**, Negri, F., Decadri, S. Ideology at First Sight: A Comparative Study of Ideological Stereotypes in 4 European Countries. R&R in *International Journal of Public Opinion Research*.
+
+<!-- -->
+
 -   Goovaerts, I., Tsoulou-Malakoudi, A., **Scaduto, G.**, Feitosa, F., Lefevere, J. Divided Beyond Politics: How Perceptions of Non-Political Differences Are Linked to Affective Polarization Among Citizens. R&R in *Electoral Studies*
 
 <!-- -->
@@ -197,10 +205,6 @@ urlcolor: blue
 <!-- -->
 
 -   Decadri, S., Negri, F., **Scaduto, G.** Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. R&R in *Quality & Quantity.*
-
-<!-- -->
-
--   **Scaduto, G.**, Negri, F., Decadri, S. Ideology at First Sight: A Comparative Study of Ideological Stereotypes in 4 European Countries. R&R in *International Journal of Public Opinion Research*.
 
 <!-- -->
 
@@ -218,8 +222,6 @@ urlcolor: blue
     -   Under Review in *Communication Research*
 
 ## Work-in-progress
-
--   **Scaduto, G.** Thinking About Politics: Political Stereotypes, Projections, and Their Social Consequences in Italy. Book manuscript. Contract signed with Palgrave MacMillan. Forthcoming in 2027.
 
 <!-- -->
 
