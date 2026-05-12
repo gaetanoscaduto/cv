@@ -58,14 +58,14 @@ urlcolor: blue
 
 *University of Milan-Bicocca*, Milan, Italy
 
--   BS in Organization Science
+-   BS in Organization Sciences
 -   More than 16 hours of in-class teaching, in addition to other duties
 
 ## Teaching Assistant in Mathematics \hfill Nov 2023-Sep 2025
 
 *University of Milan-Bicocca*, Milan, Italy
 
--   BS in Organization Science
+-   BS in Organization Sciences
 -   More than 16 hours of in-class teaching, in addition to other duties
 
 \bigskip \hrule
@@ -128,7 +128,7 @@ urlcolor: blue
 -   *Causal Inference and Experiments in Social Sciences* \hfill Essex, UK
 -   Teachers: Dr. Ryan T. Moore (American University)
 
-## SISP - Italian Political Science Society \hfill  Sep. 2023
+## SISP - Italian Political Science Society \hfill  Sep 2023
 
 -   *Crash Course in Text Analysis* \hfill Genoa, Italy
 
@@ -223,7 +223,7 @@ urlcolor: blue
 
 <!-- -->
 
--   **Scaduto, G.**, Kemmers, R., de Koster, W. What does Climate Change mean to you? A Focus Group Study in Italy.
+-   **Scaduto, G.**, Kemmers, R., de Koster, W. What does Climate Change Mean? A Focus Group Study in Italy.
     -   Submitted/In Submission
     -   Scheduled for presentation in *Dag van de Sociologie 2026*, *ASA 2026*
 
@@ -244,7 +244,7 @@ urlcolor: blue
 
 <!-- -->
 
--   **Scaduto, G.**, Bertero, A., Valeriani, A. AI and political communication, a correlational study in Italy
+-   **Scaduto, G.**, Bertero, A., Valeriani, A. AI and political communication, a correlational study in Italy.
     -   In writing
 
 <!-- -->
@@ -283,7 +283,7 @@ urlcolor: blue
 
 <!-- -->
 
-20. "'What Does Climate Change Mean?' A Focus Group study in Italy". Work in Progress Seminar Serie. Collegio Carlo Alberto. Turin, Italy. 8 March 2026.
+20. "'What Does Climate Change Mean?' A Focus Group study in Italy". Work in Progress Seminar Series. Collegio Carlo Alberto. Turin, Italy. 8 March 2026.
 
 <!-- -->
 
@@ -315,7 +315,7 @@ urlcolor: blue
 
 <!-- -->
 
-12. Politicologenetmaal 2025, Groningen, The Netherlands, 12-13 June.
+12. Politicologenetmaal 2025, Groningen, The Netherlands, 12-13 June 2025.
 
 <!-- -->
 
@@ -335,16 +335,16 @@ urlcolor: blue
 
 <!-- -->
 
-7.  2024 Conference of the Italian Political Science Society (SISP). Trieste, 12-14 September.
+7.  2024 Conference of the Italian Political Science Society (SISP). Trieste, 12-14 September 2024.
     -   Additionally chaired and organized two panels on "Survey Experiments in Political Science"
 
 <!-- -->
 
-6.  2024 Conference of the Italian Political Communication Association (ASSOCOMPOL). Catania, 30 May-1 June.
+6.  2024 Conference of the Italian Political Communication Association (ASSOCOMPOL). Catania, 30 May-1 June 2024.
 
 <!-- -->
 
-5.  2024 CompText Conference (COMPTEXT), Amsterdam, The Netherlands, 2-4 May.
+5.  2024 CompText Conference (COMPTEXT), Amsterdam, The Netherlands, 2-4 May 2024.
 
 <!-- -->
 
@@ -352,15 +352,15 @@ urlcolor: blue
 
 <!-- -->
 
-3.  2023 Conference of the Italian Political Science Society (SISP). Genoa, 14-16 September.
+3.  2023 Conference of the Italian Political Science Society (SISP). Genoa, 14-16 September 2023.
 
 <!-- -->
 
-2.  2023 Conference of the European Consortium for Political Research (ECPR). Prague, 4-8 September.
+2.  2023 Conference of the European Consortium for Political Research (ECPR). Prague, 4-8 September 2023.
 
 <!-- -->
 
-1.  2023 Conference of the Italian Political Communication Association (ASSOCOMPOL). Turin, 8-10 June.
+1.  2023 Conference of the Italian Political Communication Association (ASSOCOMPOL). Turin, 8-10 June 2023.
 
 \bigskip \hrule
 
