@@ -72,7 +72,7 @@ urlcolor: blue
 
 # **Education**
 
-## Ph.D. Student in Analysis of Social and Economic Processes \hfill Nov 2022-Feb 2026
+## Ph.D. in Analysis of Social and Economic Processes \hfill Nov 2022-Feb 2026
 
 *University of Milan-Bicocca*, Milan, Italy
 
@@ -140,7 +140,7 @@ urlcolor: blue
 
 ## Books
 
-1.   **Scaduto, G.** Thinking About Politics: Political Stereotypes, Projections, and Their Social Consequences in Italy. Book manuscript. *Palgrave MacMillan*. Forthcoming (2027).
+1.   **Scaduto, G.** Thinking About Politics: Political Stereotypes, Projections, and Their Social Consequences in Italy. Book manuscript. *Palgrave Macmillan*. Forthcoming (2027).
 
 ## Papers published/accepted in peer-reviewed journals
 
@@ -178,7 +178,7 @@ urlcolor: blue
 
 ### 2022
 
-2.  **Scaduto, G.**, Mancosu, M. Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. *Comunicazione politica*, 23(2), 255-276. <https://www.rivisteweb.it/doi/10.3270/104851>
+2.  **Scaduto, G.**, Mancosu, M. Lacrime di coccodrillo? Variazioni nel contenuto visuale su Instagram dei politici populisti e mainstream durante la pandemia. *Comunicazione Politica*, 23(2), 255-276. <https://www.rivisteweb.it/doi/10.3270/104851>
 
 <!-- -->
 
@@ -196,30 +196,28 @@ urlcolor: blue
 
 <!-- -->
 
--   Goovaerts, I., Tsoulou-Malakoudi, A., **Scaduto, G.**, Feitosa, F., Lefevere, J. Divided Beyond Politics: How Perceptions of Non-Political Differences Are Linked to Affective Polarization Among Citizens. R&R in *Electoral Studies*
+-   Goovaerts, I., Tsoulou-Malakoudi, A., **Scaduto, G.**, Feitosa, F., Lefevere, J. Divided Beyond Politics: How Perceptions of Non-Political Differences Are Linked to Affective Polarization Among Citizens. R&R in *Electoral Studies*.
 
 <!-- -->
 
--   Tsoulou-Malakoudi, A., Goovaerts, I., **Scaduto, G.**, Van Erkel, P., Walgrave, S. Political others are perceived as non-politically different. R&R in *European Journal of Political Research.*
+-   Tsoulou-Malakoudi, A., Goovaerts, I., **Scaduto, G.**, Van Erkel, P., Walgrave, S. Political others are perceived as non-politically different. R&R in *European Journal of Political Research*.
 
 <!-- -->
 
--   Decadri, S., Negri, F., **Scaduto, G.** Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. R&R in *Quality & Quantity.*
+-   Decadri, S., Negri, F., **Scaduto, G.** Visual Conjoint Experiments in Social-Scientific Research: A Semi-Systematic Review and a Protocol Blueprint for Cross-Country Applications. R&R in *Quality & Quantity*.
 
 <!-- -->
 
--   **Scaduto, G.**, Valeriani, A. It Takes Two to Trust: Multi-modal Experimental Evidence of News Creators’ Influence on Trust-Based Decisions. Under Review in *International Journal of Press/Politics*
+-   **Scaduto, G.**, Valeriani, A. It Takes Two to Trust: Multi-modal Experimental Evidence of News Creators’ Influence on Trust-Based Decisions. Under Review in *International Journal of Press/Politics*.
     -   Preprint available [here](https://osf.io/preprints/socarxiv/tb6gh_v1)
 
 <!-- -->
 
--   Negri, F., Decadri, S., **Scaduto, G.** A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles.
-    -   Under Review in *Political Behavior*
+-   Negri, F., Decadri, S., **Scaduto, G.** A Visual Conjoint Experiment on Ideological Inferences from Politicians' Instagram Profiles. Under Review in *Political Behavior*.
 
 <!-- -->
 
--   Valeriani, A., Garusi, D., **Scaduto, G.,** Splendore, S. News Efficacy as a Mediator between Expectations and Trust in Journalism. Empirical evidence from Italy.
-    -   Under Review in *Communication Research*
+-   Valeriani, A., Garusi, D., **Scaduto, G.,** Splendore, S. News Efficacy as a Mediator between Expectations and Trust in Journalism. Empirical evidence from Italy. Under Review in *Communication Research*.
 
 ## Work-in-progress
 
@@ -237,11 +235,11 @@ urlcolor: blue
 
 <!-- -->
 
--   **Scaduto, G.** Chapter 11. Party Communication and the Role of Images (Visual Analysis). In Close, C., Legein, T. Researching party politics Data, methods and (good) practices. Forthcoming in 2027.
+-   **Scaduto, G.** Chapter 11. Party Communication and the Role of Images (Visual Analysis). In Close, C., Legein, T. Researching party politics: Data, methods and (good) practices. Forthcoming in 2027.
 
 <!-- -->
 
--   Negri, F., Decadri, S., **Scaduto, G.** A Visual Conjoint Experiment on Trust Dynamics involving politicians on Instagram.
+-   Negri, F., Decadri, S., **Scaduto, G.** A Visual Conjoint Experiment on Trust Dynamics Involving Politicians on Instagram.
     -   Submitted/In Submission
 
 <!-- -->
@@ -265,7 +263,7 @@ urlcolor: blue
 
 # Conferences, Workshops, and Seminars
 
-25. European Consortium of Political Research (ECPR) Conference 2026, Krakow, Poland, 8-11 September 2026 (accepted, registered).
+25. European Consortium for Political Research (ECPR) Conference 2026, Krakow, Poland, 8-11 September 2026 (accepted, registered).
 
 <!-- -->
 
@@ -277,7 +275,7 @@ urlcolor: blue
 
 <!-- -->
 
-22. Politicologenetmaal 2026. Gent, Belgium, 11-12 June 2026 (accepted, registered).
+22. Politicologenetmaal 2026. Ghent, Belgium, 11-12 June 2026 (accepted, registered).
 
 <!-- -->
 
@@ -285,7 +283,7 @@ urlcolor: blue
 
 <!-- -->
 
-20. "*It Takes Two to Trust*: Multi-modal Experimental Evidence of Newsmakers’ Influence on Trust-Based Choices". Collegio Carlo Alberto. Turin, Italy. 8 March 2026.
+20. "'What Does Climate Change Mean?' A Focus Group study in Italy". Work in Progress Seminar Serie. Collegio Carlo Alberto. Turin, Italy. 8 March 2026.
 
 <!-- -->
 
@@ -301,11 +299,11 @@ urlcolor: blue
 
 <!-- -->
 
-16. European Consortium of Political Research (ECPR) Conference 2025, Thessaloniki, Greece, 26-29 Aug 2025
+16. European Consortium for Political Research (ECPR) Conference 2025, Thessaloniki, Greece, 26-29 August 2025.
 
 <!-- -->
 
-15. European Survey Research Association (ESRA) Conference 2025, Utrecht, The Netherlands, 14-18 July 2025
+15. European Survey Research Association (ESRA) Conference 2025, Utrecht, The Netherlands, 14-18 July 2025.
 
 <!-- -->
 
@@ -313,19 +311,19 @@ urlcolor: blue
 
 <!-- -->
 
-13. European Political Science Association (EPSA) Conference 2025, Madrid, Spain, 26-28 June 2025
+13. European Political Science Association (EPSA) Conference 2025, Madrid, Spain, 26-28 June 2025.
 
 <!-- -->
 
-12. Politicologenetmaal 2025, Groningen, The Netherlands, 12-13 June
+12. Politicologenetmaal 2025, Groningen, The Netherlands, 12-13 June.
 
 <!-- -->
 
-11. PolMeth Europe 2025, London, UK, 7-9 Apr 2025
+11. PolMeth Europe 2025, London, UK, 7-9 April 2025.
 
 <!-- -->
 
-10. First MethodsNET Conference. Louvain-La-Neuve, Belgium, 31 Oct-1 Nov 2024.
+10. First MethodsNET Conference. Louvain-La-Neuve, Belgium, 31 October-1 November 2024.
 
 <!-- -->
 
@@ -368,12 +366,12 @@ urlcolor: blue
 
 # Guest Lectures/Short Courses
 
-7.  "Introduction to R". Crash course during the Metrisp Crash Course Day. SISP 2026 Conference. Trento, 2 September 2026 (appointed).
+7.  "Introduction to R". Crash course during the MetRiSP Crash Course Day. SISP 2026 Conference. Trento, 2 September 2026 (appointed).
     -   Teaching material is available [here](https://github.com/gaetanoscaduto/Crash_Course_R).
 
 <!-- -->
 
-6.  "How to replicate an experimental study?". Allievi program in Social and Political Sciences (Course of Applied Statistics to Social and Political Sciences). Spring semester. 9 March 2026.
+6.  "How to replicate an experimental study?". Allievi program in Social and Political Sciences (Course of Applied Statistics to Social and Political Sciences), Collegio Carlo Alberto. Spring semester. 9 March 2026.
 
 <!-- -->
 
@@ -405,7 +403,7 @@ urlcolor: blue
 
 ## Reviewer for:
 
-International Journal of Public Opinion Research, Canadian Journal of Political Science, Comunicazione Politica.
+International Journal of Public Opinion Research, Quality & Quantity, Canadian Journal of Political Science, Comunicazione Politica.
 
 \bigskip \hrule
 
