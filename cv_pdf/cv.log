@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.23)  23 JUL 2026 15:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.23)  31 AUG 2026 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -466,7 +466,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 391.
 [3] [4] [5] [6]
-LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 1135.
+LaTeX Font Info:    Trying to load font information for TS1+pplj on input line 1152.
 (c:/Users/gscaduto/AppData/Roaming/TinyTeX/texmf-dist/tex/latex/psnfss/ts1pplj.fd
 File: ts1pplj.fd 2004/09/06 font definitions for TS1/pplj.
 ) [7] [8] [9] 
@@ -477,21 +477,21 @@ LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
  ***********
 Package rerunfilecheck Info: File `cv.out' has not changed.
-(rerunfilecheck)             Checksum: C9817D92F12BFB05968B491E75B93A2F;10377.
+(rerunfilecheck)             Checksum: 9FE0B49D95A7A733DFC73D32B0A780F0;10625.
  ) 
 Here is how much of TeX's memory you used:
- 13781 strings out of 469158
- 214041 string characters out of 5458382
- 651894 words of memory out of 5000000
- 42461 multiletter control sequences out of 15000+600000
+ 13788 strings out of 469158
+ 214137 string characters out of 5458382
+ 651976 words of memory out of 5000000
+ 42465 multiletter control sequences out of 15000+600000
  664530 words of font info for 94 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  72i,11n,79p,1191b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <c:/Users/gscaduto/AppData/Roaming/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk><c:/Users/gscaduto/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/Users/gscaduto/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb><c:/Users/gscaduto/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/mathpazo/fplmr.pfb><c:/Users/gscaduto/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb><c:/Users/gscaduto/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb><c:/Users/gscaduto/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><c:/Users/gscaduto/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb><c:/Users/gscaduto/AppData/Roaming/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.pdf (9 pages, 161641 bytes).
+Output written on cv.pdf (9 pages, 162094 bytes).
 PDF statistics:
- 434 PDF objects out of 1000 (max. 8388607)
- 389 compressed objects within 4 object streams
- 116 named destinations out of 1000 (max. 500000)
- 393 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 443 PDF objects out of 1000 (max. 8388607)
+ 398 compressed objects within 4 object streams
+ 119 named destinations out of 1000 (max. 500000)
+ 409 words of extra memory for PDF output out of 10000 (max. 10000000)
 

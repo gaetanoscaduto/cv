@@ -271,15 +271,13 @@ urlcolor: blue
 
 # Conferences, Workshops, and Seminars
 
-25. European Consortium for Political Research (ECPR) Conference 2026, Krakow, Poland, 8-11 September 2026 (accepted, registered).
+<!-- -->
+
+24. 2026 Conference of the Italian Political Science Society (SISP). Trento, 3-5 September 2026.
 
 <!-- -->
 
-24. 2026 Conference of the Italian Political Science Society (SISP). Trento, 3-5 September 2026 (accepted, registered).
-
-<!-- -->
-
-23. American Sociological Association Conference 2026. New York, United States, 7-11 August 2026 (accepted, registered).
+23. American Sociological Association Conference 2026. New York, United States, 7-11 August 2026.
 
 <!-- -->
 
