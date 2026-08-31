@@ -4,15 +4,15 @@ author: "Gaetano Scaduto"
 output:
   pdf_document:
     latex_engine: pdflatex
-    template: "C:/Users/100722gsc/OneDrive - Erasmus University Rotterdam/Dottorato/CV/cv/svm-latex-cv.tex"
+    template: "C:/Users/gscaduto/OneDrive - Tilburg University/Professor/CV/cv/svm-latex-cv.tex"
   html_document:
     df_print: paged
 geometry: margin=1.1in
-jobtitle: Postdoctoral Researcher 
+jobtitle: Assistant Professor (Universitair Docent) 
 born: Born Feb 25th, 1999 in Agrigento, Italy  
 fontawesome: yes
 #email: gaetano.scaduto@unimib.it
-web: "gaetanoscaduto.quarto.pub/home/"
+web: "gaetanoscaduto.github.io"
 #github: "github.com/gaetanoscaduto"
 address: Currently residing in Antwerp, Belgium
 #updated: yes
@@ -27,21 +27,29 @@ urlcolor: blue
 
 # Appointments
 
-## Postdoctoral Researcher \hfill Oct 2025-Present
+## Assistant Professor (tenure-track) \hfill July 2026-Present
+
+*Tilburg University.* Tilburg. The Netherlands
+
+-   Tilburg School of Social and Behavioral Sciences, Department of Sociology.
+
+-   Appointment includes 50% research and 50% teaching duties.
+
+## Postdoctoral Researcher \hfill Oct 2025-July 2026
 
 *Erasmus University Rotterdam*. Rotterdam. The Netherlands.
 
--   Erasmus School of Social and Behavioural Sciences, Department of Public Administration and Sociology (DPAS), Governance and Pluralism.
+-   Erasmus School of Social and Behavioural Sciences, Department of Public Administration and Sociology (DPAS), Governance and Pluralism Team.
 -   Working on the project [CLIMEANING](https://www.nwo.nl/en/projects/domyz32585) (PI: Willem De Koster).
 
-## Thesis Supervisor \hfill Mar 2026-Present
+## Thesis Supervisor \hfill Mar 2026-July 2026
 
 *Erasmus University Rotterdam*. Rotterdam. The Netherlands.
 
 -   Erasmus School of Social and Behavioural Sciences, Department of Psychology, Education, and Child Studies (DPECS).
 -   First supervisor of 13 bachelor theses.
 
-## (Voluntary) Fellow \hfill Sep 2025-Present
+## (Voluntary) Fellow \hfill Sep 2025-Aug 2026
 
 *University of Antwerp*, Antwerp, Belgium.
 
@@ -140,7 +148,7 @@ urlcolor: blue
 
 ## Books
 
-1.   **Scaduto, G.** Thinking About Politics: Political Stereotypes, Projections, and Their Social Consequences in Italy. Book manuscript. *Palgrave Macmillan*. Forthcoming (2027).
+1.  **Scaduto, G.** Thinking About Politics: Political Stereotypes, Projections, and Their Social Consequences in Italy. Book manuscript. *Palgrave Macmillan*. Forthcoming (2027).
 
 ## Papers published/accepted in peer-reviewed journals
 
@@ -366,7 +374,7 @@ urlcolor: blue
 
 # Guest Lectures/Short Courses
 
-7.  "Introduction to R". Crash course during the MetRiSP Crash Course Day. SISP 2026 Conference. Trento, 2 September 2026 (appointed).
+7.  "Introduction to R". Crash course during the MetRiSP Crash Course Day. SISP 2026 Conference. Trento, 2 September 2026 (appointed, then withdrawn due to major duties, the course was then taught by Stefano Sangiovanni).
     -   Teaching material is available [here](https://github.com/gaetanoscaduto/Crash_Course_R).
 
 <!-- -->
@@ -418,7 +426,6 @@ International Journal of Public Opinion Research, Quality & Quantity, Canadian J
 ## Online media
 
 -   '["Bella Ciao! Het begin van het einde voor Meloni?](https://sampol.be/2026/05/bella-ciao-het-begin-van-het-einde-voor-meloni)'. Samenleving & Politiek. May 2026.
-
 
 -   "[Talk-show politici, lo specchio di un’Italia polarizzata](https://lavoce.info/archives/106804/talk-show-politici-lo-specchio-di-unitalia-polarizzata/)" (with Negri F., in Italian)**.** LaVoce.info. January 2025.
 
@@ -539,7 +546,7 @@ International Journal of Public Opinion Research, Quality & Quantity, Canadian J
 
 -   **Italian**, Native.
 -   **English**, C2.
--   **Dutch**, C1 speaking, B2 writing, exam for C1 writing scheduled for June 2026.
+-   **Dutch**, C1 (certified in June 2026).
 
 ## Coding Skills/Softwares
 
