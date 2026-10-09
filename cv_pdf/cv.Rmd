@@ -417,7 +417,7 @@ urlcolor: blue
 
 ## Reviewer for:
 
-International Journal of Public Opinion Research, Quality & Quantity, Canadian Journal of Political Science, Comunicazione Politica.
+European Journal of Political Research, International Journal of Public Opinion Research, Quality & Quantity, Canadian Journal of Political Science, Comunicazione Politica.
 
 \bigskip \hrule
 
