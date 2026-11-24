@@ -11,10 +11,10 @@ geometry: margin=1.1in
 jobtitle: Assistant Professor (Universitair Docent) 
 born: Born Feb 25th, 1999 in Agrigento, Italy  
 fontawesome: yes
-#email: gaetano.scaduto@unimib.it
+email: g.scaduto@tilburguniversity.edu
 web: "gaetanoscaduto.github.io"
 #github: "github.com/gaetanoscaduto"
-address: Currently residing in Antwerp, Belgium
+address: Currently residing in Tilburg, the Netherlands
 #updated: yes
 fontfamily: mathpazo
 fontfamilyoptions: sc, osf
@@ -158,7 +158,7 @@ urlcolor: blue
 
 <!-- -->
 
-11. Goovaerts, I., Tsoulou-Malakoudi, A., **Scaduto, G.,** Feitosa, F., & Lefevere, J. (2026). Divided beyond politics: How perceptions of non-political differentness are linked to affective polarization among citizens. *Electoral Studies*, *104*, 103145. <https://doi.org/10.1016/j.electstud.2026.10315>
+11. Goovaerts, I., Tsoulou-Malakoudi, A., **Scaduto, G.,** Feitosa, F., & Lefevere, J. (2026). Divided beyond politics: How perceptions of non-political differentness are linked to affective polarization among citizens. *Electoral Studies*, *104*, 103145. <https://doi.org/10.1016/j.electstud.2026.103145>
 
 ### 2025
 
@@ -271,6 +271,10 @@ urlcolor: blue
 
 # Conferences, Workshops, and Seminars
 
+25. Eighth Joint Doctoral Conference, Department of Sociology, Tilburg University. Tilburg, The Netherlands, 26-27 November 2026.
+
+    - Participation as senior discussant
+
 <!-- -->
 
 24. 2026 Conference of the Italian Political Science Society (SISP). Trento, 3-5 September 2026.
@@ -281,15 +285,15 @@ urlcolor: blue
 
 <!-- -->
 
-22. Politicologenetmaal 2026. Ghent, Belgium, 11-12 June 2026 (accepted, registered).
+22. Politicologenetmaal 2026. Ghent, Belgium, 11-12 June 2026.
 
 <!-- -->
 
-21. Dag van de Sociologie 2026. Antwerp, Belgium, 26 May 2026 (accepted, registered).
+21. Dag van de Sociologie 2026. Antwerp, Belgium, 26 May 2026.
 
 <!-- -->
 
-20. "'What Does Climate Change Mean?' A Focus Group study in Italy". Work in Progress Seminar Series. Collegio Carlo Alberto. Turin, Italy. 8 March 2026.
+20. "'What Does Climate Change Mean?' A Focus Group study in Italy". Work in Progress Seminar Series. Collegio Carlo Alberto. Turin, Italy. 9 March 2026.
 
 <!-- -->
 
@@ -375,7 +379,7 @@ urlcolor: blue
 ## Courses
 
 4.  TSB - Master's Thesis Sociology (supervisor). Different masters in Sociology. Tilburg University.
-    4.  Academic Year 2026/2027
+    - Academic Year 2026/2027
 
 <!-- -->
 
@@ -501,6 +505,9 @@ European Journal of Political Research, International Journal of Public Opinion 
 
 - Steering Committee of the Methods of Research for Political Science (MetRiSP) of the Italian Political Science Society (SISP) since 2026.
 
+## Organization of Scientific Events
+
+- Member of the Organizing Committee, *Dag van de Sociologie 2027* (Day of Sociology), organized by Tilburg University in collaboration with the Dutch Sociological Association (NSV). Tilburg, The Netherlands, AY2026-2027.
   \bigskip \hrule
 
 # Other professional experiences
@@ -573,22 +580,28 @@ European Journal of Political Research, International Journal of Public Opinion 
 
 # Academic References
 
-- **Willem de Koster**. Erasmus University Rotterdam. [dekoster\@essb.eur.nl](mailto:dekoster@essb.eur.nl){.email}
+- **Tim Reeskens** (current head of department). Tilburg University. T.Reeskens\@tilburguniversity.edu
+- **Willem de Koster** (former PI as a postdoc). Erasmus University Rotterdam. [dekoster\@essb.eur.nl](mailto:dekoster@essb.eur.nl){.email}
 
-- **Stefaan Walgrave**. University of Antwerp. stefaan.walgrave\@uantwerpen.be
+- **Stefaan Walgrave** (visiting supervisor). University of Antwerp. stefaan.walgrave\@uantwerpen.be
 
 If not available, feel free to contact:
 
 <!-- -   **Augusto Valeriani**. University of Bologna. augusto.valeriani\@unibo.it -->
 
-- **Delia Baldassarri**. New York University. delia.b\@nyu.edu
+- **Delia Baldassarri** (PhD. co-supervisor). New York University. delia.b\@nyu.edu
 
-- **Fedra Negri**. University of Milan Bicocca. fedra.negri\@unimib.it
+- **Fedra Negri** (PhD. supervisor). University of Milan Bicocca. fedra.negri\@unimib.it
 
-- **Moreno Mancosu**. University of Turin. moreno.mancosu\@unito.it
+- **Moreno Mancosu** (master thesis promotor). University of Turin. moreno.mancosu\@unito.it
 
 ```{r, message=F, echo=F, warning=F, results='hide'}
 # RUN THIS TO UPDATE ALSO IN WEBSITE!
+# Do NOT knit with this line active: it would make the document render itself.
+# To update the website copy, select the two lines below (without the #)
+# and run them in the Console instead of pressing Knit.
+# The first argument is the INPUT file (this .Rmd); output_file is where the PDF goes.
 
-#rmarkdown::render('C:/Users/gasca/OneDrive - Erasmus University Rotterdam/Dottorato/CV/cv/cv_pdf/cv.Rmd', output_file = 'C:/Users/gasca/OneDrive - Erasmus University Rotterdam/Dottorato/Website/academic_cv.pdf')
+# rmarkdown::render(input = 'C:/Users/gscaduto/OneDrive - Tilburg University/Professor/CV/cv/cv_pdf/cv.Rmd',
+#                   output_file = 'C:/Users/gscaduto/OneDrive - Tilburg University/Professor/gaetanoscaduto.github.io/academic_cv.pdf')
 ```
