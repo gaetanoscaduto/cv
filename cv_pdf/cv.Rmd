@@ -152,6 +152,14 @@ urlcolor: blue
 
 ## Papers published/accepted in peer-reviewed journals
 
+### 2026
+
+12. **Scaduto, G.,** Negri, F., & Decadri, S. (2026). Ideology at first sight: a comparative study of ideological stereotypes in four European countries. *International Journal Of Public Opinion Research*, *38*(4), edag027. <https://doi.org/10.1093/ijpor/edag027>
+
+<!-- -->
+
+11. Goovaerts, I., Tsoulou-Malakoudi, A., **Scaduto, G.,** Feitosa, F., & Lefevere, J. (2026). Divided beyond politics: How perceptions of non-political differentness are linked to affective polarization among citizens. *Electoral Studies*, *104*, 103145. <https://doi.org/10.1016/j.electstud.2026.10315>
+
 ### 2025
 
 10. **Scaduto, G.**, Negri, F., Decadri, S. It’s the Homophily, Stupid: How Apolitical Similarities Affect Political Conversations. *Political Behavior*. <https://doi.org/10.1007/s11109-025-10102-x>
@@ -199,14 +207,6 @@ urlcolor: blue
 1.  Negri, F., **Scaduto, G.** Le «politologhe» e i «politologi» tra scienza e dibattito pubblico. In Verzichelli, L. La Scienza Politica Italiana, 50 anni dopo. Il Mulino.
 
 ## R&Rs/Under Review
-
-- **Scaduto, G.**, Negri, F., Decadri, S. Ideology at First Sight: A Comparative Study of Ideological Stereotypes in 4 European Countries. R&R in *International Journal of Public Opinion Research*.
-
-<!-- -->
-
-- Goovaerts, I., Tsoulou-Malakoudi, A., **Scaduto, G.**, Feitosa, F., Lefevere, J. Divided Beyond Politics: How Perceptions of Non-Political Differences Are Linked to Affective Polarization Among Citizens. R&R in *Electoral Studies*.
-
-<!-- -->
 
 - Tsoulou-Malakoudi, A., Goovaerts, I., **Scaduto, G.**, Van Erkel, P., Walgrave, S. Political others are perceived as non-politically different. R&R in *European Journal of Political Research*.
 
@@ -374,9 +374,24 @@ urlcolor: blue
 
 ## Courses
 
-1.  Social Movements in Contemporary Societies. MSc Sociology: Politics, Policy and Society in Comparative Perspective.
+4.  TSB - Master's Thesis Sociology (supervisor). Different masters in Sociology. Tilburg University.
+    4.  Academic Year 2026/2027
+
+<!-- -->
+
+3.  Sociological & Historical Perspectives on identities (Teacher, with T. Reeskens). BSc: International Sociology. Tilburg University.
+    - Academic Year 2026/2027
+
+<!-- -->
+
+2.  Social Movements in Contemporary Societies (Coordinator). MSc Sociology: Politics, Policy and Society in Comparative Perspective. Tilburg University.
 
     - Academic Year 2026/2027
+
+<!-- -->
+
+1.  Bachelor Thesis Supervisor (supervisor). BS in Psychology. Erasmus University Rotterdam.
+    - Academic Year 2025/2026
 
 ## Guest Lectures/Short Courses
 
